@@ -1,0 +1,23 @@
+
+
+
+
+
+
+
+Data API
+Project URL
+
+https://zczbexqskmcseceolrrc.supabase.co
+
+Publishable Key
+
+sb_publishable_Z0M8jOoPgGgytckukQHQRQ_In3_bAN_
+
+
+Copy
+
+Direct connection string
+
+
+postgresql://postgres:[YOUR-PASSWORD]@db.zczbexqskmcseceolrrc.supabase.co:5432/postgres

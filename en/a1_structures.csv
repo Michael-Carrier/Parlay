@@ -1,0 +1,21 @@
+Category,AI_Description,Example_Pattern
+Numbers,Does the sentence use a number to count people or objects (e.g. 'three cats' or '500 people')?,Noun + Verb + Number + Noun
+Age,Does the sentence state someone's age (e.g. 'is 45 years old')?,Noun + BE + Number + years old
+Prices,Does the sentence ask for or state a price/cost (e.g. 'costs 45 Euros' or 'is 7 pounds')?,Noun + cost/is + Number + Currency
+Time - Asking,Does the sentence ask what time it is (e.g. 'What's the time' or 'Do you have the time')?,Question Word + BE + the time
+Time - Telling,Does the sentence state a specific time (e.g. 'at three o'clock' or 'It is 9.45')?,It + is + Time / at + Time
+There is/There are,Does the sentence use 'there is' or 'there are' to state something exists (e.g. 'There is a bank' or 'There are a lot of seats')?,There + is/are + Noun
+Present simple,Does the sentence describe a habit or routine using a simple present tense verb (e.g. 'She eats fruit every day' or 'We go to the beach')?,Subject + Verb + Object/Adverb
+Present continuous,Does the sentence describe something happening right now using 'is/are' + verb-ing (e.g. 'He is studying' or 'It is raining')?,Subject + is/are + Verb-ing
+To be,"Does the sentence use 'is', 'am', or 'are' to describe or identify someone or something (e.g. 'I am a student' or 'France is wonderful')?",Subject + am/is/are + Noun/Adjective
+Have got,Does the sentence use 'have got' or 'has got' to express possession (e.g. 'I have got all his CDs' or 'Have you got any money')?,Subject + have/has + got + Noun
+Imperatives,Does the sentence give a direct instruction or command (e.g. 'Sit down please' or 'Don't talk to the driver')?,Verb + Object / Don't + Verb + Object
+Questions,Does the sentence ask a question using a question word or auxiliary verb (e.g. 'What is your name?' or 'Do you like dancing?')?,Question Word + aux + Subject + Verb
+Connecting words,"Does the sentence join two clauses using 'and', 'but', or 'because' (e.g. 'She lives in Switzerland and she goes skiing')?",Clause + and/but/because + Clause
+Adverbs of frequency,"Does the sentence use an adverb of frequency like 'always', 'sometimes', or 'never' (e.g. 'We always go shopping on Saturdays')?",Subject + always/sometimes/never + Verb
+Comparatives/Superlatives,Does the sentence compare two or more things using '-er' or '-est' (e.g. 'She is taller than Michelle' or 'Tom is the oldest')?,Subject + is + Adjective-er + than / Subject + is + the + Adjective-est
+Prepositions,"Does the sentence use a preposition of place or time like 'in', 'on', or 'at' (e.g. 'He is sitting at the table' or 'The holidays begin in July')?",Noun + in/on/at + Noun/Time
+Personal information,"Does the sentence state personal information like name, origin, or occupation (e.g. 'My name is Carlos' or 'I live in Beirut')?",Subject + Verb + Personal Detail
+Telling the time,Does the sentence state a specific time using clock expressions (e.g. 'It is nine forty-five' or 'The train leaves at three o'clock')?,It + is + Time / at + Time Expression
+Directions,Does the sentence give or ask for directions (e.g. 'Turn right' or 'The hotel is on the left')?,Verb + Direction / Noun + is + on the + left/right
+Possessives,Does the sentence use a possessive adjective or 's to show ownership (e.g. 'This is my seat' or 'It is Mary's turn')?,Possessive + Noun / Noun + 's + Noun

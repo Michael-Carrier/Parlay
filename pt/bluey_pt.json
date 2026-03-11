@@ -1,0 +1,6309 @@
+[
+    {
+        "id": 1,
+        "start": 1.346,
+        "end": 2.496,
+        "text": "Me desculpa, Bingo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 2,
+        "start": 2.597,
+        "end": 4.601,
+        "text": "Eu juro que eu não queria ter fugido.",
+        "emoji": "💬"
+    },
+    {
+        "id": 3,
+        "start": 5.022,
+        "end": 6.686,
+        "text": "A Judo me obrigou a fazer isso.",
+        "emoji": "💬"
+    },
+    {
+        "id": 4,
+        "start": 7.708,
+        "end": 10.955,
+        "text": "Bom, na verdade ela não me obrigou.",
+        "emoji": "💬"
+    },
+    {
+        "id": 5,
+        "start": 11.295,
+        "end": 12.999,
+        "text": "Eu fiz aquilo porque eu quis.",
+        "emoji": "💬"
+    },
+    {
+        "id": 6,
+        "start": 13.942,
+        "end": 15.885,
+        "text": "Nunca mais vou fazer isso, Bingo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 7,
+        "start": 16.185,
+        "end": 16.829,
+        "text": "Eu prometo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 8,
+        "start": 17.489,
+        "end": 19.614,
+        "text": "Por favor, brinca comigo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 9,
+        "start": 27.361,
+        "end": 35.006,
+        "text": "A joandinha subiu pipi Não tem ninguém pra amar",
+        "emoji": "💬"
+    },
+    {
+        "id": 10,
+        "start": 36.481,
+        "end": 37.22,
+        "text": "Pim, pim.",
+        "emoji": "💬"
+    },
+    {
+        "id": 11,
+        "start": 39.302,
+        "end": 41.865,
+        "text": "Ela não sabe voar.",
+        "emoji": "💬"
+    },
+    {
+        "id": 12,
+        "start": 42.024,
+        "end": 42.985,
+        "text": "Pim, pim.",
+        "emoji": "💬"
+    },
+    {
+        "id": 13,
+        "start": 44.046,
+        "end": 46.009,
+        "text": "Nem limpar o nariz.",
+        "emoji": "💬"
+    },
+    {
+        "id": 14,
+        "start": 46.408,
+        "end": 47.189,
+        "text": "Pim, pim.",
+        "emoji": "💬"
+    },
+    {
+        "id": 15,
+        "start": 54.21,
+        "end": 54.796,
+        "text": "telefone!",
+        "emoji": "💬"
+    },
+    {
+        "id": 16,
+        "start": 54.917,
+        "end": 56.259,
+        "text": "Fala que eu não tô!",
+        "emoji": "💬"
+    },
+    {
+        "id": 17,
+        "start": 56.279,
+        "end": 57.52,
+        "text": "Não, rápido, se esconde!",
+        "emoji": "💬"
+    },
+    {
+        "id": 18,
+        "start": 59.402,
+        "end": 60.942,
+        "text": "Trin, Trin!",
+        "emoji": "💬"
+    },
+    {
+        "id": 19,
+        "start": 61.723,
+        "end": 62.945,
+        "text": "Trin, Trin!",
+        "emoji": "💬"
+    },
+    {
+        "id": 20,
+        "start": 63.185,
+        "end": 63.826,
+        "text": "Bluey!",
+        "emoji": "💬"
+    },
+    {
+        "id": 21,
+        "start": 64.365,
+        "end": 66.013,
+        "text": "Pra onde você foi?",
+        "emoji": "💬"
+    },
+    {
+        "id": 22,
+        "start": 66.593,
+        "end": 67.59,
+        "text": "Trin Trin!",
+        "emoji": "💬"
+    },
+    {
+        "id": 23,
+        "start": 67.87,
+        "end": 69.591,
+        "text": "Põe o telefone no silencioso.",
+        "emoji": "💬"
+    },
+    {
+        "id": 24,
+        "start": 69.712,
+        "end": 71.353,
+        "text": "Beleza, ótima ideia!",
+        "emoji": "💬"
+    },
+    {
+        "id": 25,
+        "start": 72.295,
+        "end": 74.316,
+        "text": "Obrigado, amigo!",
+        "emoji": "💬"
+    },
+    {
+        "id": 26,
+        "start": 74.397,
+        "end": 75.158,
+        "text": "Vocês estão aí!",
+        "emoji": "💬"
+    },
+    {
+        "id": 27,
+        "start": 75.358,
+        "end": 76.98,
+        "text": "Vocês estavam fugindo de mim!",
+        "emoji": "💬"
+    },
+    {
+        "id": 28,
+        "start": 77.18,
+        "end": 79.102,
+        "text": "Foi você que fugiu de mim!",
+        "emoji": "💬"
+    },
+    {
+        "id": 29,
+        "start": 79.322,
+        "end": 80.093,
+        "text": "E também estava",
+        "emoji": "💬"
+    },
+    {
+        "id": 30,
+        "start": 81.378,
+        "end": 82.927,
+        "text": "É verdade, eu estava.",
+        "emoji": "💬"
+    },
+    {
+        "id": 31,
+        "start": 83.427,
+        "end": 84.769,
+        "text": "Tá bom, regra nova.",
+        "emoji": "💬"
+    },
+    {
+        "id": 32,
+        "start": 84.948,
+        "end": 89.213,
+        "text": "De agora em diante, ninguém vai fugir de ninguém,",
+        "emoji": "💬"
+    },
+    {
+        "id": 33,
+        "start": 90.37,
+        "end": 90.878,
+        "text": "Tá bom.",
+        "emoji": "💬"
+    },
+    {
+        "id": 34,
+        "start": 92.034,
+        "end": 92.058,
+        "text": "bom.",
+        "emoji": "💬"
+    },
+    {
+        "id": 35,
+        "start": 92.078,
+        "end": 93.278,
+        "text": "Me desculpa, Judo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 36,
+        "start": 93.299,
+        "end": 94.0,
+        "text": "Tá tudo bem.",
+        "emoji": "💬"
+    },
+    {
+        "id": 37,
+        "start": 94.34,
+        "end": 95.783,
+        "text": "Desculpa mesmo, Bingo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 38,
+        "start": 95.802,
+        "end": 96.463,
+        "text": "Tá tudo bem.",
+        "emoji": "💬"
+    },
+    {
+        "id": 39,
+        "start": 96.563,
+        "end": 100.149,
+        "text": "É só não fazer isso de novo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 40,
+        "start": 100.168,
+        "end": 100.89,
+        "text": "Beleza, Bingo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 41,
+        "start": 101.17,
+        "end": 102.512,
+        "text": "Pode ser a borboleta.",
+        "emoji": "💬"
+    },
+    {
+        "id": 42,
+        "start": 102.531,
+        "end": 104.715,
+        "text": "Na verdade, eu quero ser a caçadora.",
+        "emoji": "💬"
+    },
+    {
+        "id": 43,
+        "start": 104.734,
+        "end": 105.296,
+        "text": "Eu também.",
+        "emoji": "💬"
+    },
+    {
+        "id": 44,
+        "start": 105.475,
+        "end": 106.117,
+        "text": "Eu também.",
+        "emoji": "💬"
+    },
+    {
+        "id": 45,
+        "start": 106.878,
+        "end": 108.96,
+        "text": "Ué, então quem a gente vai caçar agora?",
+        "emoji": "💬"
+    },
+    {
+        "id": 46,
+        "start": 108.98,
+        "end": 112.646,
+        "text": "Nós vamos tirar a roupa do varal.",
+        "emoji": "💬"
+    },
+    {
+        "id": 47,
+        "start": 112.665,
+        "end": 114.727,
+        "text": "Tirar a roupa do varal.",
+        "emoji": "💬"
+    },
+    {
+        "id": 48,
+        "start": 114.968,
+        "end": 118.192,
+        "text": "Tirar a roupa do varal.",
+        "emoji": "💬"
+    },
+    {
+        "id": 49,
+        "start": 118.173,
+        "end": 119.594,
+        "text": "Jean-Luc!",
+        "emoji": "💬"
+    },
+    {
+        "id": 50,
+        "start": 120.075,
+        "end": 120.876,
+        "text": "Ça va, Bluey?",
+        "emoji": "💬"
+    },
+    {
+        "id": 51,
+        "start": 121.177,
+        "end": 123.293,
+        "text": "Pronto pra brincar?",
+        "emoji": "💬"
+    },
+    {
+        "id": 52,
+        "start": 128.066,
+        "end": 130.353,
+        "text": "Temos que pegar aquele porco selvagem!",
+        "emoji": "💬"
+    },
+    {
+        "id": 53,
+        "start": 130.372,
+        "end": 134.717,
+        "text": "Ou ficaremos sem comida no inverno!",
+        "emoji": "💬"
+    },
+    {
+        "id": 54,
+        "start": 139.487,
+        "end": 142.59,
+        "text": "Giveta uma piste, Jean!",
+        "emoji": "💬"
+    },
+    {
+        "id": 55,
+        "start": 144.129,
+        "end": 150.08,
+        "text": "O plano não era esse, Jean-Luc.",
+        "emoji": "💬"
+    },
+    {
+        "id": 56,
+        "start": 150.3,
+        "end": 151.823,
+        "text": "Tinha que pegar as pernas.",
+        "emoji": "💬"
+    },
+    {
+        "id": 57,
+        "start": 151.842,
+        "end": 155.225,
+        "text": "Oh, eu pensei que tu ia vir do outro lado.",
+        "emoji": "💬"
+    },
+    {
+        "id": 58,
+        "start": 156.306,
+        "end": 157.021,
+        "text": "Hora do jantar!",
+        "emoji": "💬"
+    },
+    {
+        "id": 59,
+        "start": 158.889,
+        "end": 162.813,
+        "text": "Aplita!",
+        "emoji": "💬"
+    },
+    {
+        "id": 60,
+        "start": 168.258,
+        "end": 169.841,
+        "text": "Jean-Luc!",
+        "emoji": "💬"
+    },
+    {
+        "id": 61,
+        "start": 169.86,
+        "end": 171.062,
+        "text": "Bonjour!",
+        "emoji": "💬"
+    },
+    {
+        "id": 62,
+        "start": 173.669,
+        "end": 174.49,
+        "text": "tu, Jorriê.",
+        "emoji": "💬"
+    },
+    {
+        "id": 63,
+        "start": 175.23,
+        "end": 176.353,
+        "text": "Nada de fruta.",
+        "emoji": "💬"
+    },
+    {
+        "id": 64,
+        "start": 176.674,
+        "end": 179.617,
+        "text": "Precisamos de um plano para pegar o porco selvagem.",
+        "emoji": "💬"
+    },
+    {
+        "id": 65,
+        "start": 179.657,
+        "end": 181.722,
+        "text": "Isso aqui é nossa última chance.",
+        "emoji": "💬"
+    },
+    {
+        "id": 66,
+        "start": 182.263,
+        "end": 183.504,
+        "text": "Eu tive uma ideia.",
+        "emoji": "💬"
+    },
+    {
+        "id": 67,
+        "start": 184.165,
+        "end": 186.877,
+        "text": "Meu pai me ensinou a fazer isso.",
+        "emoji": "💬"
+    },
+    {
+        "id": 68,
+        "start": 190.194,
+        "end": 191.717,
+        "text": "Um porco selvagem.",
+        "emoji": "💬"
+    },
+    {
+        "id": 69,
+        "start": 191.737,
+        "end": 192.338,
+        "text": "Zogli.",
+        "emoji": "💬"
+    },
+    {
+        "id": 70,
+        "start": 194.763,
+        "end": 195.163,
+        "text": "Eu.",
+        "emoji": "💬"
+    },
+    {
+        "id": 71,
+        "start": 195.484,
+        "end": 196.286,
+        "text": "Tu.",
+        "emoji": "💬"
+    },
+    {
+        "id": 72,
+        "start": 199.105,
+        "end": 199.705,
+        "text": "Você!",
+        "emoji": "💬"
+    },
+    {
+        "id": 73,
+        "start": 225.665,
+        "end": 227.584,
+        "text": "Tchau Jean-Luc, até amanhã!",
+        "emoji": "💬"
+    },
+    {
+        "id": 74,
+        "start": 227.604,
+        "end": 233.629,
+        "text": "Não, até amanhã!",
+        "emoji": "💬"
+    },
+    {
+        "id": 75,
+        "start": 239.906,
+        "end": 241.403,
+        "text": "A Flop não tá aqui.",
+        "emoji": "💬"
+    },
+    {
+        "id": 76,
+        "start": 241.424,
+        "end": 242.646,
+        "text": "Tudo bem.",
+        "emoji": "💬"
+    },
+    {
+        "id": 77,
+        "start": 242.667,
+        "end": 247.722,
+        "text": "Antes de vir até aqui, eu fui até o sofá pra pegar o pedido do papai.",
+        "emoji": "💬"
+    },
+    {
+        "id": 78,
+        "start": 248.163,
+        "end": 249.987,
+        "text": "Muito bom dia, cliente.",
+        "emoji": "💬"
+    },
+    {
+        "id": 79,
+        "start": 250.008,
+        "end": 250.89,
+        "text": "Ah, tio!",
+        "emoji": "💬"
+    },
+    {
+        "id": 80,
+        "start": 250.911,
+        "end": 252.795,
+        "text": "O que gostaria de comer no café?",
+        "emoji": "💬"
+    },
+    {
+        "id": 81,
+        "start": 253.497,
+        "end": 254.661,
+        "text": "Ah, é",
+        "emoji": "💬"
+    },
+    {
+        "id": 82,
+        "start": 254.64,
+        "end": 256.103,
+        "text": "Eu quero um ovo, por favor.",
+        "emoji": "💬"
+    },
+    {
+        "id": 83,
+        "start": 256.124,
+        "end": 257.466,
+        "text": "Mas é claro.",
+        "emoji": "💬"
+    },
+    {
+        "id": 84,
+        "start": 257.487,
+        "end": 259.23,
+        "text": "Vai ser rapidinho.",
+        "emoji": "💬"
+    },
+    {
+        "id": 85,
+        "start": 259.25,
+        "end": 260.072,
+        "text": "Ah, espera.",
+        "emoji": "💬"
+    },
+    {
+        "id": 86,
+        "start": 260.091,
+        "end": 261.875,
+        "text": "Não é um ovo normal.",
+        "emoji": "💬"
+    },
+    {
+        "id": 87,
+        "start": 261.894,
+        "end": 263.999,
+        "text": "Quero um ovo de frango-rato.",
+        "emoji": "💬"
+    },
+    {
+        "id": 88,
+        "start": 264.019,
+        "end": 265.461,
+        "text": "O que é frango-rato?",
+        "emoji": "💬"
+    },
+    {
+        "id": 89,
+        "start": 265.482,
+        "end": 269.25,
+        "text": "É o cruzamento de um frango com um rato.",
+        "emoji": "💬"
+    },
+    {
+        "id": 90,
+        "start": 269.269,
+        "end": 269.589,
+        "text": "Tá bom.",
+        "emoji": "💬"
+    },
+    {
+        "id": 91,
+        "start": 269.61,
+        "end": 270.793,
+        "text": "Eu vou ver com a cozinheira.",
+        "emoji": "💬"
+    },
+    {
+        "id": 92,
+        "start": 271.514,
+        "end": 273.725,
+        "text": "Sem pressa.",
+        "emoji": "💬"
+    },
+    {
+        "id": 93,
+        "start": 277.41,
+        "end": 279.363,
+        "text": "Eu sinto muito, Bingo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 94,
+        "start": 279.384,
+        "end": 282.408,
+        "text": "Já procuramos aqui e está ficando tarde.",
+        "emoji": "💬"
+    },
+    {
+        "id": 95,
+        "start": 282.428,
+        "end": 285.341,
+        "text": "Nós vamos procurar a Floppy de manhã.",
+        "emoji": "💬"
+    },
+    {
+        "id": 96,
+        "start": 285.985,
+        "end": 287.795,
+        "text": "Floppy sumiu pra sempre.",
+        "emoji": "💬"
+    },
+    {
+        "id": 97,
+        "start": 288.377,
+        "end": 289.577,
+        "text": "Está tudo bem, Bingo?",
+        "emoji": "💬"
+    },
+    {
+        "id": 98,
+        "start": 289.999,
+        "end": 291.942,
+        "text": "Ela deve estar se escondendo em algum lugar.",
+        "emoji": "💬"
+    },
+    {
+        "id": 99,
+        "start": 292.422,
+        "end": 293.903,
+        "text": "Se escondendo?",
+        "emoji": "💬"
+    },
+    {
+        "id": 100,
+        "start": 295.086,
+        "end": 296.588,
+        "text": "Eu já sei onde está a Floppy!",
+        "emoji": "💬"
+    },
+    {
+        "id": 101,
+        "start": 296.767,
+        "end": 298.31,
+        "text": "Eu já sei onde está a Floppy!",
+        "emoji": "💬"
+    },
+    {
+        "id": 102,
+        "start": 298.591,
+        "end": 300.67,
+        "text": "Onde?",
+        "emoji": "💬"
+    },
+    {
+        "id": 103,
+        "start": 304.353,
+        "end": 307.142,
+        "text": "Floppy!",
+        "emoji": "💬"
+    },
+    {
+        "id": 104,
+        "start": 307.163,
+        "end": 309.627,
+        "text": "O que ela estava fazendo no ovo de frango rato?",
+        "emoji": "💬"
+    },
+    {
+        "id": 105,
+        "start": 309.786,
+        "end": 312.651,
+        "text": "Bom, é que a gente estava almoçando.",
+        "emoji": "💬"
+    },
+    {
+        "id": 106,
+        "start": 313.271,
+        "end": 317.577,
+        "text": "Estou com tanta fome que consigo devorar todos nessa mesa.",
+        "emoji": "💬"
+    },
+    {
+        "id": 107,
+        "start": 317.598,
+        "end": 319.321,
+        "text": "Rápido, Floppy!",
+        "emoji": "💬"
+    },
+    {
+        "id": 108,
+        "start": 319.341,
+        "end": 322.745,
+        "text": "Preciso se esconder do papai antes que ele te devore.",
+        "emoji": "💬"
+    },
+    {
+        "id": 109,
+        "start": 323.848,
+        "end": 326.211,
+        "text": "Vai ficar seguro aqui.",
+        "emoji": "💬"
+    },
+    {
+        "id": 110,
+        "start": 326.19,
+        "end": 329.014,
+        "text": "Acho que vou comer chucrute dessa vez.",
+        "emoji": "💬"
+    },
+    {
+        "id": 111,
+        "start": 329.435,
+        "end": 332.557,
+        "text": "Mas você é alérgico a chucrute, papai.",
+        "emoji": "💬"
+    },
+    {
+        "id": 112,
+        "start": 332.577,
+        "end": 333.86,
+        "text": "É, faz você espirrar.",
+        "emoji": "💬"
+    },
+    {
+        "id": 113,
+        "start": 333.879,
+        "end": 336.682,
+        "text": "Eu sei, mas é tão bom.",
+        "emoji": "💬"
+    },
+    {
+        "id": 114,
+        "start": 337.124,
+        "end": 339.747,
+        "text": "Pai, pode ser nosso cliente no restaurante?",
+        "emoji": "💬"
+    },
+    {
+        "id": 115,
+        "start": 339.906,
+        "end": 344.012,
+        "text": "Não, até eu me deitar no sofá e ler todas as sessões do jornal.",
+        "emoji": "💬"
+    },
+    {
+        "id": 116,
+        "start": 344.331,
+        "end": 347.095,
+        "text": "O papai vai adorar ser cliente de vocês, crianças.",
+        "emoji": "💬"
+    },
+    {
+        "id": 117,
+        "start": 347.134,
+        "end": 349.661,
+        "text": "Vamos bingo, a gente pode brincar.",
+        "emoji": "💬"
+    },
+    {
+        "id": 118,
+        "start": 354.37,
+        "end": 355.262,
+        "text": "Vai, sonho.",
+        "emoji": "💬"
+    },
+    {
+        "id": 119,
+        "start": 356.098,
+        "end": 356.478,
+        "text": "Vai, sonho.",
+        "emoji": "💬"
+    },
+    {
+        "id": 120,
+        "start": 358.666,
+        "end": 360.728,
+        "text": "Deixa eu sonhar que sou um morcego.",
+        "emoji": "💬"
+    },
+    {
+        "id": 121,
+        "start": 367.115,
+        "end": 369.076,
+        "text": "Não funcionou.",
+        "emoji": "💬"
+    },
+    {
+        "id": 122,
+        "start": 369.096,
+        "end": 369.978,
+        "text": "Que pena.",
+        "emoji": "💬"
+    },
+    {
+        "id": 123,
+        "start": 369.997,
+        "end": 371.158,
+        "text": "Pelo menos tentou.",
+        "emoji": "💬"
+    },
+    {
+        "id": 124,
+        "start": 371.199,
+        "end": 372.22,
+        "text": "Pra onde o papai foi?",
+        "emoji": "💬"
+    },
+    {
+        "id": 125,
+        "start": 372.519,
+        "end": 373.521,
+        "text": "Ele está lá fora.",
+        "emoji": "💬"
+    },
+    {
+        "id": 126,
+        "start": 406.177,
+        "end": 406.713,
+        "text": "mim!",
+        "emoji": "💬"
+    },
+    {
+        "id": 127,
+        "start": 406.733,
+        "end": 407.613,
+        "text": "Eu recebo!",
+        "emoji": "💬"
+    },
+    {
+        "id": 128,
+        "start": 407.894,
+        "end": 409.937,
+        "text": "Joga logo isso!",
+        "emoji": "💬"
+    },
+    {
+        "id": 129,
+        "start": 409.956,
+        "end": 412.019,
+        "text": "É minha, minha, minha!",
+        "emoji": "💬"
+    },
+    {
+        "id": 130,
+        "start": 412.218,
+        "end": 417.341,
+        "text": "Oi, pai!",
+        "emoji": "💬"
+    },
+    {
+        "id": 131,
+        "start": 419.041,
+        "end": 420.507,
+        "text": "Oi, Bluey!",
+        "emoji": "💬"
+    },
+    {
+        "id": 132,
+        "start": 420.528,
+        "end": 422.23,
+        "text": "Você é um morcego?",
+        "emoji": "💬"
+    },
+    {
+        "id": 133,
+        "start": 422.25,
+        "end": 423.11,
+        "text": "Sou!",
+        "emoji": "💬"
+    },
+    {
+        "id": 134,
+        "start": 423.511,
+        "end": 424.992,
+        "text": "E como é?",
+        "emoji": "💬"
+    },
+    {
+        "id": 135,
+        "start": 425.012,
+        "end": 425.612,
+        "text": "Incrível!",
+        "emoji": "💬"
+    },
+    {
+        "id": 136,
+        "start": 426.113,
+        "end": 428.737,
+        "text": "Dá pra comer um monte de frutas!",
+        "emoji": "💬"
+    },
+    {
+        "id": 137,
+        "start": 429.016,
+        "end": 429.817,
+        "text": "Aposto que sim!",
+        "emoji": "💬"
+    },
+    {
+        "id": 138,
+        "start": 430.017,
+        "end": 431.74,
+        "text": "Você conseguiu ver meu ponto?",
+        "emoji": "💬"
+    },
+    {
+        "id": 139,
+        "start": 431.759,
+        "end": 432.259,
+        "text": "Vi!",
+        "emoji": "💬"
+    },
+    {
+        "id": 140,
+        "start": 432.279,
+        "end": 433.1,
+        "text": "Eu vi!",
+        "emoji": "💬"
+    },
+    {
+        "id": 141,
+        "start": 433.12,
+        "end": 434.903,
+        "text": "E você achou que foi bom?",
+        "emoji": "💬"
+    },
+    {
+        "id": 142,
+        "start": 434.882,
+        "end": 436.146,
+        "text": "Muito bom!",
+        "emoji": "💬"
+    },
+    {
+        "id": 143,
+        "start": 436.706,
+        "end": 439.612,
+        "text": "Eu garanto que posso fazer +1 montão!",
+        "emoji": "💬"
+    },
+    {
+        "id": 144,
+        "start": 439.651,
+        "end": 440.774,
+        "text": "Você ainda consegue?",
+        "emoji": "💬"
+    },
+    {
+        "id": 145,
+        "start": 440.935,
+        "end": 442.398,
+        "text": "Sim, eu consigo!",
+        "emoji": "💬"
+    },
+    {
+        "id": 146,
+        "start": 442.918,
+        "end": 444.18,
+        "text": "Beleza!",
+        "emoji": "💬"
+    },
+    {
+        "id": 147,
+        "start": 444.262,
+        "end": 445.083,
+        "text": "Até mais, Louie!",
+        "emoji": "💬"
+    },
+    {
+        "id": 148,
+        "start": 445.103,
+        "end": 448.009,
+        "text": "Está na hora de fazer mais pontos!",
+        "emoji": "💬"
+    },
+    {
+        "id": 149,
+        "start": 448.43,
+        "end": 448.649,
+        "text": "Tchau,",
+        "emoji": "💬"
+    },
+    {
+        "id": 150,
+        "start": 462.658,
+        "end": 464.115,
+        "text": "Já são 7 horas.",
+        "emoji": "💬"
+    },
+    {
+        "id": 151,
+        "start": 464.134,
+        "end": 465.757,
+        "text": "Você dormiu bastante.",
+        "emoji": "💬"
+    },
+    {
+        "id": 152,
+        "start": 465.956,
+        "end": 468.06,
+        "text": "Eu tive um sonho incrível.",
+        "emoji": "💬"
+    },
+    {
+        "id": 153,
+        "start": 468.079,
+        "end": 471.425,
+        "text": "1, 2, 3, 4 Ô, pai!",
+        "emoji": "💬"
+    },
+    {
+        "id": 154,
+        "start": 471.444,
+        "end": 472.846,
+        "text": "5, 6 Sim, amiga.",
+        "emoji": "💬"
+    },
+    {
+        "id": 155,
+        "start": 472.987,
+        "end": 475.25,
+        "text": "7, 8 Obrigada por cuidar da gente.",
+        "emoji": "💬"
+    },
+    {
+        "id": 156,
+        "start": 475.271,
+        "end": 478.896,
+        "text": "12, 10 De nada.",
+        "emoji": "💬"
+    },
+    {
+        "id": 157,
+        "start": 478.875,
+        "end": 481.038,
+        "text": "Eu fiz o que você gosta, Bluey.",
+        "emoji": "💬"
+    },
+    {
+        "id": 158,
+        "start": 481.379,
+        "end": 483.942,
+        "text": "Salada de frutas.",
+        "emoji": "💬"
+    },
+    {
+        "id": 159,
+        "start": 483.963,
+        "end": 485.185,
+        "text": "Chega de frutas.",
+        "emoji": "💬"
+    },
+    {
+        "id": 160,
+        "start": 485.204,
+        "end": 486.627,
+        "text": "Só uma torrada, por favor.",
+        "emoji": "💬"
+    },
+    {
+        "id": 161,
+        "start": 486.646,
+        "end": 492.875,
+        "text": "É fácil, Fabinho!",
+        "emoji": "💬"
+    },
+    {
+        "id": 162,
+        "start": 492.935,
+        "end": 493.475,
+        "text": "Acorda!",
+        "emoji": "💬"
+    },
+    {
+        "id": 163,
+        "start": 494.536,
+        "end": 495.499,
+        "text": "Ele já veio?",
+        "emoji": "💬"
+    },
+    {
+        "id": 164,
+        "start": 495.559,
+        "end": 496.1,
+        "text": "Ah, eu não sei.",
+        "emoji": "💬"
+    },
+    {
+        "id": 165,
+        "start": 496.12,
+        "end": 497.12,
+        "text": "Não estou vendo nenhum ovo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 166,
+        "start": 497.1,
+        "end": 499.004,
+        "text": "Aqui também não tem nenhum.",
+        "emoji": "💬"
+    },
+    {
+        "id": 167,
+        "start": 499.425,
+        "end": 501.528,
+        "text": "Ele esqueceu da gente de novo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 168,
+        "start": 501.548,
+        "end": 502.168,
+        "text": "Peraí!",
+        "emoji": "💬"
+    },
+    {
+        "id": 169,
+        "start": 502.189,
+        "end": 502.81,
+        "text": "O que foi?",
+        "emoji": "💬"
+    },
+    {
+        "id": 170,
+        "start": 502.829,
+        "end": 504.012,
+        "text": "É uma caixa!",
+        "emoji": "💬"
+    },
+    {
+        "id": 171,
+        "start": 504.872,
+        "end": 505.033,
+        "text": "Ih!",
+        "emoji": "💬"
+    },
+    {
+        "id": 172,
+        "start": 505.052,
+        "end": 506.836,
+        "text": "Os ovos devem estar aí dentro.",
+        "emoji": "💬"
+    },
+    {
+        "id": 173,
+        "start": 507.096,
+        "end": 508.057,
+        "text": "Ela está vazia.",
+        "emoji": "💬"
+    },
+    {
+        "id": 174,
+        "start": 509.442,
+        "end": 511.682,
+        "text": "E se a gente olhar no su de novo?",
+        "emoji": "💬"
+    },
+    {
+        "id": 175,
+        "start": 511.702,
+        "end": 512.924,
+        "text": "Aqui tem alguma coisa.",
+        "emoji": "💬"
+    },
+    {
+        "id": 176,
+        "start": 513.326,
+        "end": 514.888,
+        "text": "Não, é só uma letra.",
+        "emoji": "💬"
+    },
+    {
+        "id": 177,
+        "start": 515.249,
+        "end": 517.692,
+        "text": "Ele nem se importa com a gente.",
+        "emoji": "💬"
+    },
+    {
+        "id": 178,
+        "start": 517.712,
+        "end": 519.434,
+        "text": "Se importa sim, Bingo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 179,
+        "start": 519.455,
+        "end": 522.46,
+        "text": "Eu acho que são pistas de onde ele escondeu os ovos de Páscoa.",
+        "emoji": "💬"
+    },
+    {
+        "id": 180,
+        "start": 524.738,
+        "end": 525.625,
+        "text": "Uh, já sei!",
+        "emoji": "💬"
+    },
+    {
+        "id": 181,
+        "start": 525.644,
+        "end": 527.288,
+        "text": "Letras e caixa!",
+        "emoji": "💬"
+    },
+    {
+        "id": 182,
+        "start": 527.628,
+        "end": 533.818,
+        "text": "Caixa de cartas!",
+        "emoji": "💬"
+    },
+    {
+        "id": 183,
+        "start": 533.839,
+        "end": 533.958,
+        "text": "Vamos!",
+        "emoji": "💬"
+    },
+    {
+        "id": 184,
+        "start": 533.979,
+        "end": 535.621,
+        "text": "Tem ovos aí dentro?",
+        "emoji": "💬"
+    },
+    {
+        "id": 185,
+        "start": 535.642,
+        "end": 537.225,
+        "text": "Não, só um origami.",
+        "emoji": "💬"
+    },
+    {
+        "id": 186,
+        "start": 537.466,
+        "end": 539.308,
+        "text": "E veio do coelhinho da Páscoa?",
+        "emoji": "💬"
+    },
+    {
+        "id": 187,
+        "start": 539.408,
+        "end": 542.114,
+        "text": "Veio sim!",
+        "emoji": "💬"
+    },
+    {
+        "id": 188,
+        "start": 542.134,
+        "end": 542.234,
+        "text": "Olha!",
+        "emoji": "💬"
+    },
+    {
+        "id": 189,
+        "start": 542.254,
+        "end": 544.057,
+        "text": "Coelhinho da Páscoa.",
+        "emoji": "💬"
+    },
+    {
+        "id": 190,
+        "start": 545.239,
+        "end": 546.4,
+        "text": "Qual é a sua cor favorita?",
+        "emoji": "💬"
+    },
+    {
+        "id": 191,
+        "start": 546.64,
+        "end": 548.725,
+        "text": "Azul, como você?",
+        "emoji": "💬"
+    },
+    {
+        "id": 192,
+        "start": 548.705,
+        "end": 552.149,
+        "text": "É um chapéu de cozinheiro com um ovo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 193,
+        "start": 552.169,
+        "end": 553.15,
+        "text": "E o que isso quer dizer?",
+        "emoji": "💬"
+    },
+    {
+        "id": 194,
+        "start": 553.491,
+        "end": 556.635,
+        "text": "Bom, o cozinheiro trabalha na cozinha.",
+        "emoji": "💬"
+    },
+    {
+        "id": 195,
+        "start": 557.437,
+        "end": 559.058,
+        "text": "Talvez os ovos estejam lá.",
+        "emoji": "💬"
+    },
+    {
+        "id": 196,
+        "start": 559.078,
+        "end": 559.82,
+        "text": "É!",
+        "emoji": "💬"
+    },
+    {
+        "id": 197,
+        "start": 561.582,
+        "end": 564.527,
+        "text": "O coelhinho da Páscoa sabe minha cor favorita.",
+        "emoji": "💬"
+    },
+    {
+        "id": 198,
+        "start": 564.547,
+        "end": 566.95,
+        "text": "Não falei que ele se importava com você?",
+        "emoji": "💬"
+    },
+    {
+        "id": 199,
+        "start": 566.929,
+        "end": 568.451,
+        "text": "Feliz Páscoa, hey!",
+        "emoji": "💬"
+    },
+    {
+        "id": 200,
+        "start": 568.572,
+        "end": 569.092,
+        "text": "Opa!",
+        "emoji": "💬"
+    },
+    {
+        "id": 201,
+        "start": 569.293,
+        "end": 571.455,
+        "text": "Desculpa, tô procurando os ovos de Páscoa.",
+        "emoji": "💬"
+    },
+    {
+        "id": 202,
+        "start": 571.975,
+        "end": 573.477,
+        "text": "Podem estar em qualquer lugar.",
+        "emoji": "💬"
+    },
+    {
+        "id": 203,
+        "start": 573.538,
+        "end": 576.638,
+        "text": "Bluey, olha,",
+        "emoji": "💬"
+    },
+    {
+        "id": 204,
+        "start": 580.066,
+        "end": 580.505,
+        "text": "não estão aqui.",
+        "emoji": "💬"
+    },
+    {
+        "id": 205,
+        "start": 581.748,
+        "end": 581.847,
+        "text": "Awww.",
+        "emoji": "💬"
+    },
+    {
+        "id": 206,
+        "start": 581.868,
+        "end": 584.029,
+        "text": "Peraí, tem ovo normal.",
+        "emoji": "💬"
+    },
+    {
+        "id": 207,
+        "start": 584.049,
+        "end": 584.23,
+        "text": "Oh?",
+        "emoji": "💬"
+    },
+    {
+        "id": 208,
+        "start": 584.932,
+        "end": 587.595,
+        "text": "O Queen da Páscoa não traz ovos normais.",
+        "emoji": "💬"
+    },
+    {
+        "id": 209,
+        "start": 587.875,
+        "end": 589.797,
+        "text": "Ele traz ovos de chocolate.",
+        "emoji": "💬"
+    },
+    {
+        "id": 210,
+        "start": 589.817,
+        "end": 591.359,
+        "text": "Eu sei, mas olha aquele ali.",
+        "emoji": "💬"
+    },
+    {
+        "id": 211,
+        "start": 592.279,
+        "end": 593.221,
+        "text": "Hã?",
+        "emoji": "💬"
+    },
+    {
+        "id": 212,
+        "start": 593.261,
+        "end": 594.523,
+        "text": "Um ovo de kiwi?",
+        "emoji": "💬"
+    },
+    {
+        "id": 213,
+        "start": 594.503,
+        "end": 596.784,
+        "text": "Talvez tenha chocolate dentro.",
+        "emoji": "💬"
+    },
+    {
+        "id": 214,
+        "start": 597.466,
+        "end": 599.288,
+        "text": "Ai, tem chocolate nisso?",
+        "emoji": "💬"
+    },
+    {
+        "id": 215,
+        "start": 599.307,
+        "end": 601.529,
+        "text": "Vamos ver?",
+        "emoji": "💬"
+    },
+    {
+        "id": 216,
+        "start": 601.549,
+        "end": 602.932,
+        "text": "Não, sem chocolate.",
+        "emoji": "💬"
+    },
+    {
+        "id": 217,
+        "start": 606.735,
+        "end": 610.259,
+        "text": "Eu acho que eu já sei onde os ovos estão.",
+        "emoji": "💬"
+    },
+    {
+        "id": 218,
+        "start": 610.278,
+        "end": 611.48,
+        "text": "No tapete de Kimi.",
+        "emoji": "💬"
+    },
+    {
+        "id": 219,
+        "start": 611.5,
+        "end": 613.842,
+        "text": "Vou olhar aqui embaixo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 220,
+        "start": 613.863,
+        "end": 614.582,
+        "text": "Não estou vendo eles.",
+        "emoji": "💬"
+    },
+    {
+        "id": 221,
+        "start": 615.144,
+        "end": 618.807,
+        "text": "Agora, o próximo animal que vão ver não é nada bonzinho.",
+        "emoji": "💬"
+    },
+    {
+        "id": 222,
+        "start": 618.827,
+        "end": 621.269,
+        "text": "É um grande macaco fedido.",
+        "emoji": "💬"
+    },
+    {
+        "id": 223,
+        "start": 622.402,
+        "end": 627.643,
+        "text": "Macaco azul gigante!",
+        "emoji": "💬"
+    },
+    {
+        "id": 224,
+        "start": 634.402,
+        "end": 635.033,
+        "text": "mal-educado!",
+        "emoji": "💬"
+    },
+    {
+        "id": 225,
+        "start": 635.053,
+        "end": 636.154,
+        "text": "Pra trás, floco de neve!",
+        "emoji": "💬"
+    },
+    {
+        "id": 226,
+        "start": 636.856,
+        "end": 639.0,
+        "text": "Levanta daí, seu macacão!",
+        "emoji": "💬"
+    },
+    {
+        "id": 227,
+        "start": 639.019,
+        "end": 642.238,
+        "text": "Os visitantes não querem te ver deitado o dia todo!",
+        "emoji": "💬"
+    },
+    {
+        "id": 228,
+        "start": 644.427,
+        "end": 644.542,
+        "text": "O quê?",
+        "emoji": "💬"
+    },
+    {
+        "id": 229,
+        "start": 646.01,
+        "end": 646.717,
+        "text": "Macaco, dormindo!",
+        "emoji": "💬"
+    },
+    {
+        "id": 230,
+        "start": 647.586,
+        "end": 648.234,
+        "text": "dormindo!",
+        "emoji": "💬"
+    },
+    {
+        "id": 231,
+        "start": 648.254,
+        "end": 649.255,
+        "text": "Já chega!",
+        "emoji": "💬"
+    },
+    {
+        "id": 232,
+        "start": 650.999,
+        "end": 656.35,
+        "text": "Não só pra ela, seu preguiçoso!",
+        "emoji": "💬"
+    },
+    {
+        "id": 233,
+        "start": 658.498,
+        "end": 660.341,
+        "text": "Que horror!",
+        "emoji": "💬"
+    },
+    {
+        "id": 234,
+        "start": 660.36,
+        "end": 662.163,
+        "text": "Macaco coçando popô.",
+        "emoji": "💬"
+    },
+    {
+        "id": 235,
+        "start": 662.724,
+        "end": 664.086,
+        "text": "Ah, esquece esse macaco.",
+        "emoji": "💬"
+    },
+    {
+        "id": 236,
+        "start": 664.105,
+        "end": 666.349,
+        "text": "Vamos conhecer os passarinhos.",
+        "emoji": "💬"
+    },
+    {
+        "id": 237,
+        "start": 666.369,
+        "end": 670.365,
+        "text": "Venha, floco de neve.",
+        "emoji": "💬"
+    },
+    {
+        "id": 238,
+        "start": 678.145,
+        "end": 684.61,
+        "text": "Macaco azul gigante!",
+        "emoji": "💬"
+    },
+    {
+        "id": 239,
+        "start": 685.211,
+        "end": 687.933,
+        "text": "Esses passarinhos acham graça de tudo!",
+        "emoji": "💬"
+    },
+    {
+        "id": 240,
+        "start": 687.953,
+        "end": 690.777,
+        "text": "Ah, olha só que lindinhos, floco de neve!",
+        "emoji": "💬"
+    },
+    {
+        "id": 241,
+        "start": 691.636,
+        "end": 692.398,
+        "text": "Floco de neve?",
+        "emoji": "💬"
+    },
+    {
+        "id": 242,
+        "start": 692.597,
+        "end": 694.639,
+        "text": "Floco de neve que abraço!",
+        "emoji": "💬"
+    },
+    {
+        "id": 243,
+        "start": 694.659,
+        "end": 695.721,
+        "text": "Floco de neve!",
+        "emoji": "💬"
+    },
+    {
+        "id": 244,
+        "start": 696.782,
+        "end": 699.825,
+        "text": "Aquele gorila está com a floco de neve!",
+        "emoji": "💬"
+    },
+    {
+        "id": 245,
+        "start": 699.845,
+        "end": 703.207,
+        "text": "Floco de neve abraça Macaco!",
+        "emoji": "💬"
+    },
+    {
+        "id": 246,
+        "start": 703.227,
+        "end": 704.048,
+        "text": "Já chega!",
+        "emoji": "💬"
+    },
+    {
+        "id": 247,
+        "start": 704.288,
+        "end": 705.35,
+        "text": "Não se preocupe, senhora!",
+        "emoji": "💬"
+    },
+    {
+        "id": 248,
+        "start": 705.569,
+        "end": 707.831,
+        "text": "Vou resolver isso imediatamente!",
+        "emoji": "💬"
+    },
+    {
+        "id": 249,
+        "start": 707.812,
+        "end": 711.077,
+        "text": "Você vai ter cuidado com isso, não vai?",
+        "emoji": "💬"
+    },
+    {
+        "id": 250,
+        "start": 711.459,
+        "end": 713.001,
+        "text": "Ele não pode fazer isso!",
+        "emoji": "💬"
+    },
+    {
+        "id": 251,
+        "start": 713.022,
+        "end": 714.985,
+        "text": "É contra as regras dos macacos!",
+        "emoji": "💬"
+    },
+    {
+        "id": 252,
+        "start": 715.085,
+        "end": 722.479,
+        "text": "Tenha cuidado com a minha floquinha de neve!",
+        "emoji": "💬"
+    },
+    {
+        "id": 253,
+        "start": 734.882,
+        "end": 738.199,
+        "text": "A senhora gostaria de conhecer nossa coleção de répteis?",
+        "emoji": "💬"
+    },
+    {
+        "id": 254,
+        "start": 738.219,
+        "end": 738.701,
+        "text": "Não!",
+        "emoji": "💬"
+    },
+    {
+        "id": 255,
+        "start": 739.584,
+        "end": 741.885,
+        "text": "Podem trazer o brilhinho!",
+        "emoji": "💬"
+    },
+    {
+        "id": 256,
+        "start": 747.778,
+        "end": 750.261,
+        "text": "São o cavalo mais sortudo do mundo!",
+        "emoji": "💬"
+    },
+    {
+        "id": 257,
+        "start": 750.282,
+        "end": 751.741,
+        "text": "Cavalos, não podem falar!",
+        "emoji": "💬"
+    },
+    {
+        "id": 258,
+        "start": 753.187,
+        "end": 759.902,
+        "text": "Senhoras e senhores, o Brilhinho vai se casar com o Galante hoje!",
+        "emoji": "💬"
+    },
+    {
+        "id": 259,
+        "start": 765.969,
+        "end": 767.101,
+        "text": "Não tá funcionando!",
+        "emoji": "💬"
+    },
+    {
+        "id": 260,
+        "start": 769.538,
+        "end": 770.216,
+        "text": "coisa!",
+        "emoji": "💬"
+    },
+    {
+        "id": 261,
+        "start": 770.235,
+        "end": 773.12,
+        "text": "Vocês podem falar algumas coisas!",
+        "emoji": "💬"
+    },
+    {
+        "id": 262,
+        "start": 773.1,
+        "end": 775.245,
+        "text": "Ah, eu não vou casar com ele não.",
+        "emoji": "💬"
+    },
+    {
+        "id": 263,
+        "start": 775.306,
+        "end": 775.986,
+        "text": "Ele fede.",
+        "emoji": "💬"
+    },
+    {
+        "id": 264,
+        "start": 778.091,
+        "end": 779.794,
+        "text": "Meu coração está partindo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 265,
+        "start": 779.995,
+        "end": 783.403,
+        "text": "Eu disse que os cavalos não podem falar.",
+        "emoji": "💬"
+    },
+    {
+        "id": 266,
+        "start": 783.423,
+        "end": 784.065,
+        "text": "Oh, quero dizer.",
+        "emoji": "💬"
+    },
+    {
+        "id": 267,
+        "start": 785.728,
+        "end": 787.412,
+        "text": "Deixa eles se casarem.",
+        "emoji": "💬"
+    },
+    {
+        "id": 268,
+        "start": 788.033,
+        "end": 790.238,
+        "text": "Agora vocês podem se casar.",
+        "emoji": "💬"
+    },
+    {
+        "id": 269,
+        "start": 790.578,
+        "end": 792.122,
+        "text": "Não!",
+        "emoji": "💬"
+    },
+    {
+        "id": 270,
+        "start": 793.569,
+        "end": 796.875,
+        "text": "Ela disse que vocês já podem se casar agora!",
+        "emoji": "💬"
+    },
+    {
+        "id": 271,
+        "start": 797.316,
+        "end": 799.481,
+        "text": "Você tem que dizer, eu aceito!",
+        "emoji": "💬"
+    },
+    {
+        "id": 272,
+        "start": 799.984,
+        "end": 802.046,
+        "text": "É, mas na língua de cavalo!",
+        "emoji": "💬"
+    },
+    {
+        "id": 273,
+        "start": 812.655,
+        "end": 814.961,
+        "text": "Volta aqui, Brilhinho!",
+        "emoji": "💬"
+    },
+    {
+        "id": 274,
+        "start": 814.98,
+        "end": 820.413,
+        "text": "Você tem que falar direito!",
+        "emoji": "💬"
+    },
+    {
+        "id": 275,
+        "start": 822.577,
+        "end": 823.759,
+        "text": "Brilhinho!",
+        "emoji": "💬"
+    },
+    {
+        "id": 276,
+        "start": 823.779,
+        "end": 823.966,
+        "text": "Vai",
+        "emoji": "💬"
+    },
+    {
+        "id": 277,
+        "start": 836.033,
+        "end": 838.078,
+        "text": "Para onde ele foi?",
+        "emoji": "💬"
+    },
+    {
+        "id": 278,
+        "start": 838.149,
+        "end": 849.597,
+        "text": "Esperando para avançar, a bola foi lançada Ele está assistindo o Cricket!",
+        "emoji": "💬"
+    },
+    {
+        "id": 279,
+        "start": 871.49,
+        "end": 873.346,
+        "text": "Alguém viu meus óculos?",
+        "emoji": "💬"
+    },
+    {
+        "id": 280,
+        "start": 874.648,
+        "end": 876.951,
+        "text": "Tá legal, meninas, isso já passou dos limites.",
+        "emoji": "💬"
+    },
+    {
+        "id": 281,
+        "start": 877.05,
+        "end": 879.494,
+        "text": "Temos que tratar ele de forma especial.",
+        "emoji": "💬"
+    },
+    {
+        "id": 282,
+        "start": 879.614,
+        "end": 880.535,
+        "text": "Tili!",
+        "emoji": "💬"
+    },
+    {
+        "id": 283,
+        "start": 881.677,
+        "end": 883.239,
+        "text": "Vem aqui, amorzinho.",
+        "emoji": "💬"
+    },
+    {
+        "id": 284,
+        "start": 883.259,
+        "end": 884.519,
+        "text": "Querida, você pode me ajudar?",
+        "emoji": "💬"
+    },
+    {
+        "id": 285,
+        "start": 885.12,
+        "end": 887.124,
+        "text": "Como está o meu macaquinho?",
+        "emoji": "💬"
+    },
+    {
+        "id": 286,
+        "start": 887.504,
+        "end": 889.005,
+        "text": "Ei, cara, essa esposa é minha.",
+        "emoji": "💬"
+    },
+    {
+        "id": 287,
+        "start": 889.206,
+        "end": 890.648,
+        "text": "Não é mais não.",
+        "emoji": "💬"
+    },
+    {
+        "id": 288,
+        "start": 890.887,
+        "end": 894.812,
+        "text": "A mamãe casou com o senhor macaco atleta.",
+        "emoji": "💬"
+    },
+    {
+        "id": 289,
+        "start": 894.833,
+        "end": 894.953,
+        "text": "O quê?",
+        "emoji": "💬"
+    },
+    {
+        "id": 290,
+        "start": 894.973,
+        "end": 896.055,
+        "text": "Quando isso aconteceu?",
+        "emoji": "💬"
+    },
+    {
+        "id": 291,
+        "start": 896.035,
+        "end": 897.778,
+        "text": "Eu ia contar para você.",
+        "emoji": "💬"
+    },
+    {
+        "id": 292,
+        "start": 897.877,
+        "end": 899.559,
+        "text": "Você me deixou por um macaco?",
+        "emoji": "💬"
+    },
+    {
+        "id": 293,
+        "start": 899.579,
+        "end": 903.846,
+        "text": "Me desculpe, querido, tem uma coisa muito especial nele.",
+        "emoji": "💬"
+    },
+    {
+        "id": 294,
+        "start": 904.468,
+        "end": 905.75,
+        "text": "O que é que eu vou fazer?",
+        "emoji": "💬"
+    },
+    {
+        "id": 295,
+        "start": 906.37,
+        "end": 907.853,
+        "text": "Como é que é?",
+        "emoji": "💬"
+    },
+    {
+        "id": 296,
+        "start": 907.873,
+        "end": 909.394,
+        "text": "Ah, sim, boa ideia.",
+        "emoji": "💬"
+    },
+    {
+        "id": 297,
+        "start": 909.816,
+        "end": 911.699,
+        "text": "Você pode ser o mordomo dele.",
+        "emoji": "💬"
+    },
+    {
+        "id": 298,
+        "start": 911.719,
+        "end": 914.423,
+        "text": "O quê?",
+        "emoji": "💬"
+    },
+    {
+        "id": 299,
+        "start": 914.442,
+        "end": 916.086,
+        "text": "É verdade, eu vou adorar.",
+        "emoji": "💬"
+    },
+    {
+        "id": 300,
+        "start": 916.346,
+        "end": 918.209,
+        "text": "Como posso servi-lo, senhor?",
+        "emoji": "💬"
+    },
+    {
+        "id": 301,
+        "start": 918.71,
+        "end": 921.012,
+        "text": "Sim, senhor, é para já.",
+        "emoji": "💬"
+    },
+    {
+        "id": 302,
+        "start": 922.274,
+        "end": 924.701,
+        "text": "Você vai se arrepender disso.",
+        "emoji": "💬"
+    },
+    {
+        "id": 303,
+        "start": 925.796,
+        "end": 926.596,
+        "text": "Ei, o que está acontecendo?",
+        "emoji": "💬"
+    },
+    {
+        "id": 304,
+        "start": 926.616,
+        "end": 926.877,
+        "text": "O Sr.",
+        "emoji": "💬"
+    },
+    {
+        "id": 305,
+        "start": 926.898,
+        "end": 929.242,
+        "text": "Macaco Atleta não gosta de osso na cama dele.",
+        "emoji": "💬"
+    },
+    {
+        "id": 306,
+        "start": 929.322,
+        "end": 930.546,
+        "text": "Ele gosta de bananas.",
+        "emoji": "💬"
+    },
+    {
+        "id": 307,
+        "start": 930.886,
+        "end": 931.748,
+        "text": "Cama dele?",
+        "emoji": "💬"
+    },
+    {
+        "id": 308,
+        "start": 932.309,
+        "end": 933.812,
+        "text": "Essa cama não é dele.",
+        "emoji": "💬"
+    },
+    {
+        "id": 309,
+        "start": 933.833,
+        "end": 934.526,
+        "text": "Essa cama é minha.",
+        "emoji": "💬"
+    },
+    {
+        "id": 310,
+        "start": 935.041,
+        "end": 935.576,
+        "text": "Não é mais.",
+        "emoji": "💬"
+    },
+    {
+        "id": 311,
+        "start": 935.937,
+        "end": 938.562,
+        "text": "Esse é o 4º dele agora.",
+        "emoji": "💬"
+    },
+    {
+        "id": 312,
+        "start": 938.543,
+        "end": 939.944,
+        "text": "Mas que ousadia!",
+        "emoji": "💬"
+    },
+    {
+        "id": 313,
+        "start": 940.306,
+        "end": 942.288,
+        "text": "Agora eu vou medir a cintura.",
+        "emoji": "💬"
+    },
+    {
+        "id": 314,
+        "start": 942.307,
+        "end": 944.612,
+        "text": "Ei, essa é a roupa do Miku Chulé.",
+        "emoji": "💬"
+    },
+    {
+        "id": 315,
+        "start": 944.632,
+        "end": 946.694,
+        "text": "E o chapéu da Senhora Cintilante.",
+        "emoji": "💬"
+    },
+    {
+        "id": 316,
+        "start": 946.995,
+        "end": 948.136,
+        "text": "Ele disse que queria usar.",
+        "emoji": "💬"
+    },
+    {
+        "id": 317,
+        "start": 948.476,
+        "end": 951.841,
+        "text": "Mas não pode dar as coisas pra ele só porque ele disse que queria.",
+        "emoji": "💬"
+    },
+    {
+        "id": 318,
+        "start": 952.222,
+        "end": 953.545,
+        "text": "Eu sou só o mordomo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 319,
+        "start": 953.565,
+        "end": 955.827,
+        "text": "Se tiver algum problema, é melhor falar com o macaco.",
+        "emoji": "💬"
+    },
+    {
+        "id": 320,
+        "start": 956.428,
+        "end": 957.99,
+        "text": "Ah, mas eu vou mesmo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 321,
+        "start": 958.01,
+        "end": 958.932,
+        "text": "Escuta aqui.",
+        "emoji": "💬"
+    },
+    {
+        "id": 322,
+        "start": 958.951,
+        "end": 963.677,
+        "text": "Eu acho que tá na hora de uma certa pessoa arrumar outro lugar pra morar.",
+        "emoji": "💬"
+    },
+    {
+        "id": 323,
+        "start": 965.73,
+        "end": 967.291,
+        "text": "não falei da gente!",
+        "emoji": "💬"
+    },
+    {
+        "id": 324,
+        "start": 967.312,
+        "end": 969.254,
+        "text": "Foi dolorido, mas foi justo, senhor.",
+        "emoji": "💬"
+    },
+    {
+        "id": 325,
+        "start": 969.514,
+        "end": 973.918,
+        "text": "Você não tá sendo um pouco injusto, meu querido macaquinho?",
+        "emoji": "💬"
+    },
+    {
+        "id": 326,
+        "start": 976.129,
+        "end": 977.845,
+        "text": "Eu pensei que você me amava!",
+        "emoji": "💬"
+    },
+    {
+        "id": 327,
+        "start": 979.447,
+        "end": 981.469,
+        "text": "Esse macaco é muito atrifito!",
+        "emoji": "💬"
+    },
+    {
+        "id": 328,
+        "start": 981.689,
+        "end": 984.011,
+        "text": "Como ele pode mandar a gente embora de casa?",
+        "emoji": "💬"
+    },
+    {
+        "id": 329,
+        "start": 984.333,
+        "end": 986.394,
+        "text": "Como ele foi grosso?",
+        "emoji": "💬"
+    },
+    {
+        "id": 330,
+        "start": 986.414,
+        "end": 988.437,
+        "text": "Bom, acho que a culpa foi nossa.",
+        "emoji": "💬"
+    },
+    {
+        "id": 331,
+        "start": 988.718,
+        "end": 989.959,
+        "text": "A gente mimou ele.",
+        "emoji": "💬"
+    },
+    {
+        "id": 332,
+        "start": 990.319,
+        "end": 991.701,
+        "text": "O que significa mimar?",
+        "emoji": "💬"
+    },
+    {
+        "id": 333,
+        "start": 991.721,
+        "end": 993.963,
+        "text": "É um pouco difícil de explicar.",
+        "emoji": "💬"
+    },
+    {
+        "id": 334,
+        "start": 993.943,
+        "end": 995.427,
+        "text": "Onde a gente vai morar?",
+        "emoji": "💬"
+    },
+    {
+        "id": 335,
+        "start": 996.529,
+        "end": 999.297,
+        "text": "Vamos perguntar se a gente pode dormir no quintal, tá bom?",
+        "emoji": "💬"
+    },
+    {
+        "id": 336,
+        "start": 1000.279,
+        "end": 1001.423,
+        "text": "Eu peguei peixes!",
+        "emoji": "💬"
+    },
+    {
+        "id": 337,
+        "start": 1002.164,
+        "end": 1003.828,
+        "text": "Uh, que barraca legal, Bingo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 338,
+        "start": 1003.848,
+        "end": 1004.289,
+        "text": "Obrigada.",
+        "emoji": "💬"
+    },
+    {
+        "id": 339,
+        "start": 1004.931,
+        "end": 1006.846,
+        "text": "Eu vou pegar algumas ostras.",
+        "emoji": "💬"
+    },
+    {
+        "id": 340,
+        "start": 1008.258,
+        "end": 1009.901,
+        "text": "Elas estão fazendo xixi.",
+        "emoji": "💬"
+    },
+    {
+        "id": 341,
+        "start": 1013.634,
+        "end": 1013.75,
+        "text": "Louie!",
+        "emoji": "💬"
+    },
+    {
+        "id": 342,
+        "start": 1015.393,
+        "end": 1015.874,
+        "text": "Ah, não!",
+        "emoji": "💬"
+    },
+    {
+        "id": 343,
+        "start": 1016.235,
+        "end": 1017.658,
+        "text": "Deve ter caído do meu barco.",
+        "emoji": "💬"
+    },
+    {
+        "id": 344,
+        "start": 1018.44,
+        "end": 1019.562,
+        "text": "Que foi, Bingo?",
+        "emoji": "💬"
+    },
+    {
+        "id": 345,
+        "start": 1019.583,
+        "end": 1019.998,
+        "text": "É um adulto!",
+        "emoji": "💬"
+    },
+    {
+        "id": 346,
+        "start": 1020.825,
+        "end": 1023.11,
+        "text": "Vamos morder ele!",
+        "emoji": "💬"
+    },
+    {
+        "id": 347,
+        "start": 1023.129,
+        "end": 1024.552,
+        "text": "Solta!",
+        "emoji": "💬"
+    },
+    {
+        "id": 348,
+        "start": 1024.574,
+        "end": 1026.076,
+        "text": "Tenha calma, somos legais.",
+        "emoji": "💬"
+    },
+    {
+        "id": 349,
+        "start": 1026.557,
+        "end": 1028.0,
+        "text": "Eu não.",
+        "emoji": "💬"
+    },
+    {
+        "id": 350,
+        "start": 1027.98,
+        "end": 1031.224,
+        "text": "Para de morder ele, Blue.",
+        "emoji": "💬"
+    },
+    {
+        "id": 351,
+        "start": 1031.244,
+        "end": 1034.248,
+        "text": "Os adultos não pertencem à Ilha do Tapete.",
+        "emoji": "💬"
+    },
+    {
+        "id": 352,
+        "start": 1034.268,
+        "end": 1037.13,
+        "text": "Por favor, só quero voltar para o meu barco.",
+        "emoji": "💬"
+    },
+    {
+        "id": 353,
+        "start": 1037.151,
+        "end": 1040.394,
+        "text": "Você pode ficar com a gente até seu navio voltar.",
+        "emoji": "💬"
+    },
+    {
+        "id": 354,
+        "start": 1040.414,
+        "end": 1043.557,
+        "text": "Ou até ficar com muita fome.",
+        "emoji": "💬"
+    },
+    {
+        "id": 355,
+        "start": 1043.577,
+        "end": 1047.302,
+        "text": "Preciso confessar, esse lugar é bem aconchegante.",
+        "emoji": "💬"
+    },
+    {
+        "id": 356,
+        "start": 1047.322,
+        "end": 1048.242,
+        "text": "O que tem para comer?",
+        "emoji": "💬"
+    },
+    {
+        "id": 357,
+        "start": 1048.502,
+        "end": 1049.684,
+        "text": "Escuta aqui, adulto.",
+        "emoji": "💬"
+    },
+    {
+        "id": 358,
+        "start": 1050.184,
+        "end": 1053.107,
+        "text": "Se quiser ficar na Ilha do Tapete, vai ter que trabalhar.",
+        "emoji": "💬"
+    },
+    {
+        "id": 359,
+        "start": 1054.068,
+        "end": 1054.349,
+        "text": "Vai, vai, vai!",
+        "emoji": "💬"
+    },
+    {
+        "id": 360,
+        "start": 1054.369,
+        "end": 1056.451,
+        "text": "Ah não, acabou o sossego.",
+        "emoji": "💬"
+    },
+    {
+        "id": 361,
+        "start": 1056.432,
+        "end": 1059.659,
+        "text": "É assim que a gente pega a nossa comida.",
+        "emoji": "💬"
+    },
+    {
+        "id": 362,
+        "start": 1059.679,
+        "end": 1060.119,
+        "text": "Fruta.",
+        "emoji": "💬"
+    },
+    {
+        "id": 363,
+        "start": 1060.22,
+        "end": 1063.947,
+        "text": "Ah, muito fácil.",
+        "emoji": "💬"
+    },
+    {
+        "id": 364,
+        "start": 1063.967,
+        "end": 1064.668,
+        "text": "Fruta.",
+        "emoji": "💬"
+    },
+    {
+        "id": 365,
+        "start": 1064.989,
+        "end": 1068.557,
+        "text": "Isso é uma cobra.",
+        "emoji": "💬"
+    },
+    {
+        "id": 366,
+        "start": 1068.576,
+        "end": 1069.838,
+        "text": "Ah, que louco!",
+        "emoji": "💬"
+    },
+    {
+        "id": 367,
+        "start": 1069.9,
+        "end": 1071.623,
+        "text": "Lançando.",
+        "emoji": "💬"
+    },
+    {
+        "id": 368,
+        "start": 1071.603,
+        "end": 1071.741,
+        "text": "Peixe!",
+        "emoji": "💬"
+    },
+    {
+        "id": 369,
+        "start": 1074.088,
+        "end": 1075.432,
+        "text": "Laçando!",
+        "emoji": "💬"
+    },
+    {
+        "id": 370,
+        "start": 1075.452,
+        "end": 1077.639,
+        "text": "Tá tudo bem.",
+        "emoji": "💬"
+    },
+    {
+        "id": 371,
+        "start": 1078.981,
+        "end": 1080.747,
+        "text": "Peixe!",
+        "emoji": "💬"
+    },
+    {
+        "id": 372,
+        "start": 1080.767,
+        "end": 1084.916,
+        "text": "Ah, entendi.",
+        "emoji": "💬"
+    },
+    {
+        "id": 373,
+        "start": 1084.936,
+        "end": 1086.28,
+        "text": "Cenoura!",
+        "emoji": "💬"
+    },
+    {
+        "id": 374,
+        "start": 1086.3,
+        "end": 1086.365,
+        "text": "É!",
+        "emoji": "💬"
+    },
+    {
+        "id": 375,
+        "start": 1089.538,
+        "end": 1091.412,
+        "text": "o que ele faz, Louie!",
+        "emoji": "💬"
+    },
+    {
+        "id": 376,
+        "start": 1091.432,
+        "end": 1091.672,
+        "text": "Puxa!",
+        "emoji": "💬"
+    },
+    {
+        "id": 377,
+        "start": 1092.354,
+        "end": 1093.997,
+        "text": "Faz fogo!",
+        "emoji": "💬"
+    },
+    {
+        "id": 378,
+        "start": 1098.786,
+        "end": 1101.07,
+        "text": "Comeu o burbum!",
+        "emoji": "💬"
+    },
+    {
+        "id": 379,
+        "start": 1101.09,
+        "end": 1103.414,
+        "text": "Tira, tira, tira!",
+        "emoji": "💬"
+    },
+    {
+        "id": 380,
+        "start": 1103.394,
+        "end": 1103.518,
+        "text": "Peixe!",
+        "emoji": "💬"
+    },
+    {
+        "id": 381,
+        "start": 1108.898,
+        "end": 1109.789,
+        "text": "Peixe!",
+        "emoji": "💬"
+    },
+    {
+        "id": 382,
+        "start": 1111.979,
+        "end": 1113.482,
+        "text": "Assando!",
+        "emoji": "💬"
+    },
+    {
+        "id": 383,
+        "start": 1113.503,
+        "end": 1114.144,
+        "text": "Prato!",
+        "emoji": "💬"
+    },
+    {
+        "id": 384,
+        "start": 1114.164,
+        "end": 1114.717,
+        "text": "Obrigada!",
+        "emoji": "💬"
+    },
+    {
+        "id": 385,
+        "start": 1116.898,
+        "end": 1118.416,
+        "text": "obrigado!",
+        "emoji": "💬"
+    },
+    {
+        "id": 386,
+        "start": 1118.396,
+        "end": 1119.117,
+        "text": "Banana?",
+        "emoji": "💬"
+    },
+    {
+        "id": 387,
+        "start": 1120.318,
+        "end": 1123.642,
+        "text": "Não esquece da salada.",
+        "emoji": "💬"
+    },
+    {
+        "id": 388,
+        "start": 1123.662,
+        "end": 1124.863,
+        "text": "Oh, que salada linda.",
+        "emoji": "💬"
+    },
+    {
+        "id": 389,
+        "start": 1124.962,
+        "end": 1126.965,
+        "text": "Salada linda, bingo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 390,
+        "start": 1126.985,
+        "end": 1127.164,
+        "text": "Obrigada.",
+        "emoji": "💬"
+    },
+    {
+        "id": 391,
+        "start": 1127.184,
+        "end": 1127.505,
+        "text": "Salada verde.",
+        "emoji": "💬"
+    },
+    {
+        "id": 392,
+        "start": 1127.525,
+        "end": 1128.326,
+        "text": "Trem parando.",
+        "emoji": "💬"
+    },
+    {
+        "id": 393,
+        "start": 1128.746,
+        "end": 1131.489,
+        "text": "Próxima parada, creche da mãe-pata.",
+        "emoji": "💬"
+    },
+    {
+        "id": 394,
+        "start": 1131.588,
+        "end": 1132.71,
+        "text": "Obrigada, moço.",
+        "emoji": "💬"
+    },
+    {
+        "id": 395,
+        "start": 1132.73,
+        "end": 1133.391,
+        "text": "Trem partindo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 396,
+        "start": 1134.552,
+        "end": 1135.293,
+        "text": "Oi, Poppy.",
+        "emoji": "💬"
+    },
+    {
+        "id": 397,
+        "start": 1135.512,
+        "end": 1137.474,
+        "text": "Chegou bem na hora da história.",
+        "emoji": "💬"
+    },
+    {
+        "id": 398,
+        "start": 1137.934,
+        "end": 1140.017,
+        "text": "Hora da história, hora da história.",
+        "emoji": "💬"
+    },
+    {
+        "id": 399,
+        "start": 1140.517,
+        "end": 1143.619,
+        "text": "Quando sair do trabalho, eu venho te pegar, amorzinho.",
+        "emoji": "💬"
+    },
+    {
+        "id": 400,
+        "start": 1143.639,
+        "end": 1145.501,
+        "text": "Dá um abraço na mamãe.",
+        "emoji": "💬"
+    },
+    {
+        "id": 401,
+        "start": 1145.481,
+        "end": 1149.498,
+        "text": "E esse ratinho morava em um lugar muito especial.",
+        "emoji": "💬"
+    },
+    {
+        "id": 402,
+        "start": 1150.059,
+        "end": 1151.586,
+        "text": "Trem parando!",
+        "emoji": "💬"
+    },
+    {
+        "id": 403,
+        "start": 1151.947,
+        "end": 1154.036,
+        "text": "Um dia Trem partida!",
+        "emoji": "💬"
+    },
+    {
+        "id": 404,
+        "start": 1154.056,
+        "end": 1155.863,
+        "text": "O rato estava andando",
+        "emoji": "💬"
+    },
+    {
+        "id": 405,
+        "start": 1158.753,
+        "end": 1160.505,
+        "text": "Está com fome, urso polar?",
+        "emoji": "💬"
+    },
+    {
+        "id": 406,
+        "start": 1160.704,
+        "end": 1166.134,
+        "text": "Próxima parada veterinário.",
+        "emoji": "💬"
+    },
+    {
+        "id": 407,
+        "start": 1166.154,
+        "end": 1166.796,
+        "text": "Obrigada.",
+        "emoji": "💬"
+    },
+    {
+        "id": 408,
+        "start": 1167.398,
+        "end": 1168.9,
+        "text": "Bom dia, Carlinha.",
+        "emoji": "💬"
+    },
+    {
+        "id": 409,
+        "start": 1168.921,
+        "end": 1170.403,
+        "text": "Bom dia, doutora Glenda.",
+        "emoji": "💬"
+    },
+    {
+        "id": 410,
+        "start": 1170.523,
+        "end": 1172.346,
+        "text": "Temos um dia muito cheio hoje.",
+        "emoji": "💬"
+    },
+    {
+        "id": 411,
+        "start": 1172.427,
+        "end": 1176.074,
+        "text": "Um tigre doente 6 tambás doentes.",
+        "emoji": "💬"
+    },
+    {
+        "id": 412,
+        "start": 1176.514,
+        "end": 1178.137,
+        "text": "Está complicado.",
+        "emoji": "💬"
+    },
+    {
+        "id": 413,
+        "start": 1178.117,
+        "end": 1181.802,
+        "text": "1 urso polar muito bravo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 414,
+        "start": 1181.822,
+        "end": 1183.664,
+        "text": "Só precisa fazer cócegas nele.",
+        "emoji": "💬"
+    },
+    {
+        "id": 415,
+        "start": 1183.985,
+        "end": 1186.307,
+        "text": "Olha, cuti, cuti, cuti.",
+        "emoji": "💬"
+    },
+    {
+        "id": 416,
+        "start": 1186.327,
+        "end": 1186.548,
+        "text": "Viu?",
+        "emoji": "💬"
+    },
+    {
+        "id": 417,
+        "start": 1186.849,
+        "end": 1189.492,
+        "text": "O que a gente faria sem você, Glenda?",
+        "emoji": "💬"
+    },
+    {
+        "id": 418,
+        "start": 1189.512,
+        "end": 1191.674,
+        "text": "Trem chegando.",
+        "emoji": "💬"
+    },
+    {
+        "id": 419,
+        "start": 1191.735,
+        "end": 1192.817,
+        "text": "Trabalho, trabalho.",
+        "emoji": "💬"
+    },
+    {
+        "id": 420,
+        "start": 1192.876,
+        "end": 1194.259,
+        "text": "Até amanhã.",
+        "emoji": "💬"
+    },
+    {
+        "id": 421,
+        "start": 1194.278,
+        "end": 1195.659,
+        "text": "Tchauzinho, Glenda.",
+        "emoji": "💬"
+    },
+    {
+        "id": 422,
+        "start": 1195.679,
+        "end": 1197.693,
+        "text": "Trem partido.",
+        "emoji": "💬"
+    },
+    {
+        "id": 423,
+        "start": 1200.001,
+        "end": 1201.784,
+        "text": "Próxima parada, a Cris.",
+        "emoji": "💬"
+    },
+    {
+        "id": 424,
+        "start": 1203.086,
+        "end": 1203.648,
+        "text": "Obrigada.",
+        "emoji": "💬"
+    },
+    {
+        "id": 425,
+        "start": 1204.308,
+        "end": 1206.132,
+        "text": "Poppy, a sua mãe chegou.",
+        "emoji": "💬"
+    },
+    {
+        "id": 426,
+        "start": 1206.371,
+        "end": 1208.875,
+        "text": "Ela teve um dia muito legal.",
+        "emoji": "💬"
+    },
+    {
+        "id": 427,
+        "start": 1208.895,
+        "end": 1209.936,
+        "text": "Ah, essa é minha garota.",
+        "emoji": "💬"
+    },
+    {
+        "id": 428,
+        "start": 1211.278,
+        "end": 1212.721,
+        "text": "Trem chegando.",
+        "emoji": "💬"
+    },
+    {
+        "id": 429,
+        "start": 1212.902,
+        "end": 1213.462,
+        "text": "Obrigada.",
+        "emoji": "💬"
+    },
+    {
+        "id": 430,
+        "start": 1214.384,
+        "end": 1216.067,
+        "text": "Trem partido.",
+        "emoji": "💬"
+    },
+    {
+        "id": 431,
+        "start": 1216.086,
+        "end": 1217.048,
+        "text": "Dorme, dorme.",
+        "emoji": "💬"
+    },
+    {
+        "id": 432,
+        "start": 1219.09,
+        "end": 1220.072,
+        "text": "Bom dia, Poppy.",
+        "emoji": "💬"
+    },
+    {
+        "id": 433,
+        "start": 1220.393,
+        "end": 1221.355,
+        "text": "Hora de trabalhar.",
+        "emoji": "💬"
+    },
+    {
+        "id": 434,
+        "start": 1221.715,
+        "end": 1222.175,
+        "text": "Tchau, Sr.",
+        "emoji": "💬"
+    },
+    {
+        "id": 435,
+        "start": 1222.195,
+        "end": 1223.485,
+        "text": "Marido.",
+        "emoji": "💬"
+    },
+    {
+        "id": 436,
+        "start": 1224.577,
+        "end": 1226.217,
+        "text": "O trem passou da estação.",
+        "emoji": "💬"
+    },
+    {
+        "id": 437,
+        "start": 1226.579,
+        "end": 1228.347,
+        "text": "Ei, espera, tô indo!",
+        "emoji": "💬"
+    },
+    {
+        "id": 438,
+        "start": 1228.729,
+        "end": 1230.852,
+        "text": "Ah, trem parando.",
+        "emoji": "💬"
+    },
+    {
+        "id": 439,
+        "start": 1230.872,
+        "end": 1231.854,
+        "text": "Tá bom, pode ir.",
+        "emoji": "💬"
+    },
+    {
+        "id": 440,
+        "start": 1232.233,
+        "end": 1233.115,
+        "text": "Ah, desculpe.",
+        "emoji": "💬"
+    },
+    {
+        "id": 441,
+        "start": 1233.455,
+        "end": 1238.323,
+        "text": "Nada de comida e bebida, nada de pé no banco, e esse gato tem que ficar no seu colo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 442,
+        "start": 1238.864,
+        "end": 1241.007,
+        "text": "Ah, só faz o trem andar, amigão.",
+        "emoji": "💬"
+    },
+    {
+        "id": 443,
+        "start": 1241.027,
+        "end": 1241.186,
+        "text": "O quê?",
+        "emoji": "💬"
+    },
+    {
+        "id": 444,
+        "start": 1241.607,
+        "end": 1242.63,
+        "text": "Sua trevitinha.",
+        "emoji": "💬"
+    },
+    {
+        "id": 445,
+        "start": 1242.91,
+        "end": 1245.394,
+        "text": "Espera aí, me mostra a sua passagem.",
+        "emoji": "💬"
+    },
+    {
+        "id": 446,
+        "start": 1245.854,
+        "end": 1247.757,
+        "text": "Ah, claro, ela tá aqui.",
+        "emoji": "💬"
+    },
+    {
+        "id": 447,
+        "start": 1247.737,
+        "end": 1251.361,
+        "text": "Tá tudo bem.",
+        "emoji": "💬"
+    },
+    {
+        "id": 448,
+        "start": 1251.381,
+        "end": 1253.163,
+        "text": "Vem com mamãe, Gosmentinha.",
+        "emoji": "💬"
+    },
+    {
+        "id": 449,
+        "start": 1253.423,
+        "end": 1254.884,
+        "text": "O tempo tá correndo, Bingo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 450,
+        "start": 1254.904,
+        "end": 1255.965,
+        "text": "Tic-tac, tic-tac, tic-tac.",
+        "emoji": "💬"
+    },
+    {
+        "id": 451,
+        "start": 1255.986,
+        "end": 1257.548,
+        "text": "Mas preciso pegar a Gosmentinha.",
+        "emoji": "💬"
+    },
+    {
+        "id": 452,
+        "start": 1257.567,
+        "end": 1258.628,
+        "text": "Escova seus dentes.",
+        "emoji": "💬"
+    },
+    {
+        "id": 453,
+        "start": 1258.909,
+        "end": 1259.91,
+        "text": "Eu pego ela.",
+        "emoji": "💬"
+    },
+    {
+        "id": 454,
+        "start": 1259.93,
+        "end": 1260.471,
+        "text": "Tudo bem.",
+        "emoji": "💬"
+    },
+    {
+        "id": 455,
+        "start": 1260.611,
+        "end": 1262.512,
+        "text": "Não, vai procurar seu chapéu.",
+        "emoji": "💬"
+    },
+    {
+        "id": 456,
+        "start": 1262.573,
+        "end": 1263.653,
+        "text": "Eu vou pegar a Gosmentinha.",
+        "emoji": "💬"
+    },
+    {
+        "id": 457,
+        "start": 1263.733,
+        "end": 1264.855,
+        "text": "Quanto tempo?",
+        "emoji": "💬"
+    },
+    {
+        "id": 458,
+        "start": 1264.875,
+        "end": 1265.977,
+        "text": "Tic-tac, tic-tac, tic-tac.",
+        "emoji": "💬"
+    },
+    {
+        "id": 459,
+        "start": 1265.997,
+        "end": 1267.077,
+        "text": "Não consigo achar.",
+        "emoji": "💬"
+    },
+    {
+        "id": 460,
+        "start": 1267.258,
+        "end": 1268.098,
+        "text": "Já procurou?",
+        "emoji": "💬"
+    },
+    {
+        "id": 461,
+        "start": 1268.419,
+        "end": 1271.502,
+        "text": "Sim, já procurei em tudo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 462,
+        "start": 1271.522,
+        "end": 1272.423,
+        "text": "Tá bem ali.",
+        "emoji": "💬"
+    },
+    {
+        "id": 463,
+        "start": 1272.963,
+        "end": 1273.845,
+        "text": "Ah, é?",
+        "emoji": "💬"
+    },
+    {
+        "id": 464,
+        "start": 1273.825,
+        "end": 1275.688,
+        "text": "Vamos, Gosmentinha.",
+        "emoji": "💬"
+    },
+    {
+        "id": 465,
+        "start": 1276.769,
+        "end": 1280.296,
+        "text": "Como é mesmo aquilo que o vovô falava quando era um soldado?",
+        "emoji": "💬"
+    },
+    {
+        "id": 466,
+        "start": 1280.536,
+        "end": 1281.557,
+        "text": "Anda logo, espera.",
+        "emoji": "💬"
+    },
+    {
+        "id": 467,
+        "start": 1282.298,
+        "end": 1283.56,
+        "text": "Anda logo, espera.",
+        "emoji": "💬"
+    },
+    {
+        "id": 468,
+        "start": 1283.881,
+        "end": 1284.663,
+        "text": "Bingo!",
+        "emoji": "💬"
+    },
+    {
+        "id": 469,
+        "start": 1284.682,
+        "end": 1286.285,
+        "text": "Os dentes!",
+        "emoji": "💬"
+    },
+    {
+        "id": 470,
+        "start": 1286.305,
+        "end": 1288.328,
+        "text": "Ah, é?",
+        "emoji": "💬"
+    },
+    {
+        "id": 471,
+        "start": 1288.348,
+        "end": 1289.15,
+        "text": "Desculpa.",
+        "emoji": "💬"
+    },
+    {
+        "id": 472,
+        "start": 1289.17,
+        "end": 1290.172,
+        "text": "Tá tudo bem?",
+        "emoji": "💬"
+    },
+    {
+        "id": 473,
+        "start": 1290.192,
+        "end": 1290.913,
+        "text": "Tudo bem.",
+        "emoji": "💬"
+    },
+    {
+        "id": 474,
+        "start": 1290.932,
+        "end": 1293.396,
+        "text": "Bom, então me ajuda a arrumar isso.",
+        "emoji": "💬"
+    },
+    {
+        "id": 475,
+        "start": 1293.416,
+        "end": 1295.259,
+        "text": "Porque eu tenho que ajudar?",
+        "emoji": "💬"
+    },
+    {
+        "id": 476,
+        "start": 1295.24,
+        "end": 1296.58,
+        "text": "Tá bom.",
+        "emoji": "💬"
+    },
+    {
+        "id": 477,
+        "start": 1297.721,
+        "end": 1299.723,
+        "text": "Ah, a Gosmentira tá lá!",
+        "emoji": "💬"
+    },
+    {
+        "id": 478,
+        "start": 1299.743,
+        "end": 1301.085,
+        "text": "Eu pego!",
+        "emoji": "💬"
+    },
+    {
+        "id": 479,
+        "start": 1301.105,
+        "end": 1302.006,
+        "text": "A minha banana!",
+        "emoji": "💬"
+    },
+    {
+        "id": 480,
+        "start": 1302.346,
+        "end": 1304.288,
+        "text": "Eu pego!",
+        "emoji": "💬"
+    },
+    {
+        "id": 481,
+        "start": 1304.307,
+        "end": 1306.39,
+        "text": "Vamos lá!",
+        "emoji": "💬"
+    },
+    {
+        "id": 482,
+        "start": 1306.41,
+        "end": 1308.491,
+        "text": "Obrigada!",
+        "emoji": "💬"
+    },
+    {
+        "id": 483,
+        "start": 1308.511,
+        "end": 1310.354,
+        "text": "Prego de pasta.",
+        "emoji": "💬"
+    },
+    {
+        "id": 484,
+        "start": 1310.374,
+        "end": 1311.134,
+        "text": "Ok, já chega.",
+        "emoji": "💬"
+    },
+    {
+        "id": 485,
+        "start": 1311.153,
+        "end": 1313.016,
+        "text": "Eu quero vocês na porta em um minuto.",
+        "emoji": "💬"
+    },
+    {
+        "id": 486,
+        "start": 1313.036,
+        "end": 1315.818,
+        "text": "Posso colocar meu chapéu igual ao do vovô?",
+        "emoji": "💬"
+    },
+    {
+        "id": 487,
+        "start": 1315.838,
+        "end": 1317.94,
+        "text": "Com o lado virado assim?",
+        "emoji": "💬"
+    },
+    {
+        "id": 488,
+        "start": 1317.96,
+        "end": 1319.182,
+        "text": "Ah, olha, Bluey.",
+        "emoji": "💬"
+    },
+    {
+        "id": 489,
+        "start": 1319.201,
+        "end": 1320.001,
+        "text": "Deixa!",
+        "emoji": "💬"
+    },
+    {
+        "id": 490,
+        "start": 1320.122,
+        "end": 1320.762,
+        "text": "Tá bom.",
+        "emoji": "💬"
+    },
+    {
+        "id": 491,
+        "start": 1321.103,
+        "end": 1321.983,
+        "text": "Vai lá e pega o boto.",
+        "emoji": "💬"
+    },
+    {
+        "id": 492,
+        "start": 1322.064,
+        "end": 1323.786,
+        "text": "Mas anda logo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 493,
+        "start": 1323.806,
+        "end": 1325.247,
+        "text": "Desculpa!",
+        "emoji": "💬"
+    },
+    {
+        "id": 494,
+        "start": 1325.227,
+        "end": 1327.77,
+        "text": "Olha os patins!",
+        "emoji": "💬"
+    },
+    {
+        "id": 495,
+        "start": 1327.971,
+        "end": 1328.372,
+        "text": "Ah!",
+        "emoji": "💬"
+    },
+    {
+        "id": 496,
+        "start": 1328.392,
+        "end": 1329.795,
+        "text": "Mãe, a gosmentinha!",
+        "emoji": "💬"
+    },
+    {
+        "id": 497,
+        "start": 1329.815,
+        "end": 1330.296,
+        "text": "Desculpa!",
+        "emoji": "💬"
+    },
+    {
+        "id": 498,
+        "start": 1331.217,
+        "end": 1333.801,
+        "text": "Vamos, gosmentinha!",
+        "emoji": "💬"
+    },
+    {
+        "id": 499,
+        "start": 1334.583,
+        "end": 1335.144,
+        "text": "Ih!",
+        "emoji": "💬"
+    },
+    {
+        "id": 500,
+        "start": 1335.163,
+        "end": 1335.965,
+        "text": "Tic, tac, tic, parando!",
+        "emoji": "💬"
+    },
+    {
+        "id": 501,
+        "start": 1336.046,
+        "end": 1336.125,
+        "text": "Uh!",
+        "emoji": "💬"
+    },
+    {
+        "id": 502,
+        "start": 1336.961,
+        "end": 1337.488,
+        "text": "muito bem!",
+        "emoji": "💬"
+    },
+    {
+        "id": 503,
+        "start": 1337.508,
+        "end": 1340.753,
+        "text": "Agora é hora de Mas antes vou colocar meus patins.",
+        "emoji": "💬"
+    },
+    {
+        "id": 504,
+        "start": 1341.555,
+        "end": 1343.057,
+        "text": "Bingo, não temos tempo!",
+        "emoji": "💬"
+    },
+    {
+        "id": 505,
+        "start": 1344.642,
+        "end": 1346.764,
+        "text": "Tá bom, deixa eu colocar pra você.",
+        "emoji": "💬"
+    },
+    {
+        "id": 506,
+        "start": 1346.804,
+        "end": 1348.507,
+        "text": "Não, você conta o tempo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 507,
+        "start": 1348.867,
+        "end": 1349.509,
+        "text": "Tá bom.",
+        "emoji": "💬"
+    },
+    {
+        "id": 508,
+        "start": 1349.989,
+        "end": 1350.671,
+        "text": "3, 2, 1, vai.",
+        "emoji": "💬"
+    },
+    {
+        "id": 509,
+        "start": 1350.711,
+        "end": 1353.295,
+        "text": "Tic-tac, tic-tac, tic-tac, tic-tac, tic-tac, tic-tac.",
+        "emoji": "💬"
+    },
+    {
+        "id": 510,
+        "start": 1353.315,
+        "end": 1356.56,
+        "text": "A gente não pode ir sem levar gosmentinha.",
+        "emoji": "💬"
+    },
+    {
+        "id": 511,
+        "start": 1358.081,
+        "end": 1359.444,
+        "text": "eu vou dar uma ajuda pra ela.",
+        "emoji": "💬"
+    },
+    {
+        "id": 512,
+        "start": 1359.465,
+        "end": 1360.688,
+        "text": "Encontrei um botão!",
+        "emoji": "💬"
+    },
+    {
+        "id": 513,
+        "start": 1361.429,
+        "end": 1361.489,
+        "text": "Tá.",
+        "emoji": "💬"
+    },
+    {
+        "id": 514,
+        "start": 1361.509,
+        "end": 1363.231,
+        "text": "Louie, pode pegar meu taco de hockey?",
+        "emoji": "💬"
+    },
+    {
+        "id": 515,
+        "start": 1363.251,
+        "end": 1364.855,
+        "text": "Preciso tirar a gosmentinha do teto.",
+        "emoji": "💬"
+    },
+    {
+        "id": 516,
+        "start": 1364.934,
+        "end": 1365.695,
+        "text": "Tá bom.",
+        "emoji": "💬"
+    },
+    {
+        "id": 517,
+        "start": 1365.675,
+        "end": 1370.764,
+        "text": "O coelhinho passa atrás do jardim Não, não.",
+        "emoji": "💬"
+    },
+    {
+        "id": 518,
+        "start": 1370.785,
+        "end": 1371.586,
+        "text": "Tenta outra vez.",
+        "emoji": "💬"
+    },
+    {
+        "id": 519,
+        "start": 1372.147,
+        "end": 1374.271,
+        "text": "Não vou brincar de coceguinhas de caranguejo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 520,
+        "start": 1374.592,
+        "end": 1375.514,
+        "text": "Oh, por que não?",
+        "emoji": "💬"
+    },
+    {
+        "id": 521,
+        "start": 1375.713,
+        "end": 1377.277,
+        "text": "Porque eu detesto coceguinhas.",
+        "emoji": "💬"
+    },
+    {
+        "id": 522,
+        "start": 1377.979,
+        "end": 1378.298,
+        "text": "Por quê?",
+        "emoji": "💬"
+    },
+    {
+        "id": 523,
+        "start": 1378.318,
+        "end": 1379.642,
+        "text": "Porque são de caranguejo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 524,
+        "start": 1381.384,
+        "end": 1382.487,
+        "text": "Mas é legal brincar disso, pai.",
+        "emoji": "💬"
+    },
+    {
+        "id": 525,
+        "start": 1382.886,
+        "end": 1385.372,
+        "text": "Legal pra você, mas não pra mim.",
+        "emoji": "💬"
+    },
+    {
+        "id": 526,
+        "start": 1385.352,
+        "end": 1386.514,
+        "text": "Tá bom, Bingo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 527,
+        "start": 1386.534,
+        "end": 1389.24,
+        "text": "Esse caso vai precisar de uma super cara de dó.",
+        "emoji": "💬"
+    },
+    {
+        "id": 528,
+        "start": 1389.641,
+        "end": 1391.134,
+        "text": "Sim, super dó.",
+        "emoji": "💬"
+    },
+    {
+        "id": 529,
+        "start": 1391.724,
+        "end": 1398.278,
+        "text": "Vamos colocar essas orelhas pra trás e vou precisar ver um pouquinho de lágrimas.",
+        "emoji": "💬"
+    },
+    {
+        "id": 530,
+        "start": 1398.298,
+        "end": 1399.56,
+        "text": "Muito bom!",
+        "emoji": "💬"
+    },
+    {
+        "id": 531,
+        "start": 1399.581,
+        "end": 1401.566,
+        "text": "E agora segura isso aqui.",
+        "emoji": "💬"
+    },
+    {
+        "id": 532,
+        "start": 1402.166,
+        "end": 1404.171,
+        "text": "Beleza, é hora do show.",
+        "emoji": "💬"
+    },
+    {
+        "id": 533,
+        "start": 1404.801,
+        "end": 1406.5,
+        "text": "O que vocês querem?",
+        "emoji": "💬"
+    },
+    {
+        "id": 534,
+        "start": 1407.342,
+        "end": 1409.884,
+        "text": "Porque você nunca brinca com a gente.",
+        "emoji": "💬"
+    },
+    {
+        "id": 535,
+        "start": 1410.105,
+        "end": 1411.186,
+        "text": "O quê?",
+        "emoji": "💬"
+    },
+    {
+        "id": 536,
+        "start": 1411.206,
+        "end": 1412.708,
+        "text": "Tá sempre no trabalho.",
+        "emoji": "💬"
+    },
+    {
+        "id": 537,
+        "start": 1413.108,
+        "end": 1414.83,
+        "text": "Eu nunca tô no trabalho.",
+        "emoji": "💬"
+    },
+    {
+        "id": 538,
+        "start": 1414.851,
+        "end": 1418.055,
+        "text": "Parece até que você não ama a gente.",
+        "emoji": "💬"
+    },
+    {
+        "id": 539,
+        "start": 1418.075,
+        "end": 1419.876,
+        "text": "Tá de brincadeira, né?",
+        "emoji": "💬"
+    },
+    {
+        "id": 540,
+        "start": 1419.896,
+        "end": 1423.0,
+        "text": "Como você não é capaz de amar suas próprias filhas.",
+        "emoji": "💬"
+    },
+    {
+        "id": 541,
+        "start": 1423.641,
+        "end": 1424.822,
+        "text": "Ah, mas essa agora.",
+        "emoji": "💬"
+    },
+    {
+        "id": 542,
+        "start": 1424.942,
+        "end": 1425.623,
+        "text": "Tá bom.",
+        "emoji": "💬"
+    },
+    {
+        "id": 543,
+        "start": 1426.423,
+        "end": 1426.644,
+        "text": "Eba!",
+        "emoji": "💬"
+    },
+    {
+        "id": 544,
+        "start": 1428.286,
+        "end": 1430.067,
+        "text": "Isso foi impressionante.",
+        "emoji": "💬"
+    },
+    {
+        "id": 545,
+        "start": 1430.087,
+        "end": 1434.073,
+        "text": "Esse episódio se chama Cosseguinhas de Caranguejo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 546,
+        "start": 1435.938,
+        "end": 1437.685,
+        "text": "Que lindo dia de praia.",
+        "emoji": "💬"
+    },
+    {
+        "id": 547,
+        "start": 1438.327,
+        "end": 1441.054,
+        "text": "Um pouco sozinho é claro, mas maravilhoso.",
+        "emoji": "💬"
+    },
+    {
+        "id": 548,
+        "start": 1441.074,
+        "end": 1444.421,
+        "text": "Seria melhor se tivesse um amor verdadeiro pra compartilhar.",
+        "emoji": "💬"
+    },
+    {
+        "id": 549,
+        "start": 1445.282,
+        "end": 1447.688,
+        "text": "Talvez algum dia eu encontre ela.",
+        "emoji": "💬"
+    },
+    {
+        "id": 550,
+        "start": 1447.708,
+        "end": 1448.71,
+        "text": "Muito bem.",
+        "emoji": "💬"
+    },
+    {
+        "id": 551,
+        "start": 1448.73,
+        "end": 1452.518,
+        "text": "Agora é hora de voltar pra minha casa vazia.",
+        "emoji": "💬"
+    },
+    {
+        "id": 552,
+        "start": 1452.498,
+        "end": 1457.302,
+        "text": "Eu vou dar a volta e pegar a minha toalha.",
+        "emoji": "💬"
+    },
+    {
+        "id": 553,
+        "start": 1459.485,
+        "end": 1460.906,
+        "text": "Não sacudir a areia?",
+        "emoji": "💬"
+    },
+    {
+        "id": 554,
+        "start": 1461.807,
+        "end": 1462.949,
+        "text": "Agora vou pra casa.",
+        "emoji": "💬"
+    },
+    {
+        "id": 555,
+        "start": 1465.112,
+        "end": 1468.595,
+        "text": "Cadê você, meu verdadeiro amor?",
+        "emoji": "💬"
+    },
+    {
+        "id": 556,
+        "start": 1468.654,
+        "end": 1471.918,
+        "text": "Por que você não vem pra mim?",
+        "emoji": "💬"
+    },
+    {
+        "id": 557,
+        "start": 1471.939,
+        "end": 1476.884,
+        "text": "Ah, Lar, doce e solitário Lar.",
+        "emoji": "💬"
+    },
+    {
+        "id": 558,
+        "start": 1476.923,
+        "end": 1479.427,
+        "text": "Beleza, hora do cochilo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 559,
+        "start": 1479.447,
+        "end": 1482.369,
+        "text": "Talvez eu sonhe com meu verdadeiro amor.",
+        "emoji": "💬"
+    },
+    {
+        "id": 560,
+        "start": 1484.546,
+        "end": 1491.453,
+        "text": "Coceguinhas, coceguinhas, coceguinhas.",
+        "emoji": "💬"
+    },
+    {
+        "id": 561,
+        "start": 1491.473,
+        "end": 1491.875,
+        "text": "Coceguinhas!",
+        "emoji": "💬"
+    },
+    {
+        "id": 562,
+        "start": 1491.895,
+        "end": 1493.8,
+        "text": "O que foi isso?",
+        "emoji": "💬"
+    },
+    {
+        "id": 563,
+        "start": 1494.221,
+        "end": 1496.206,
+        "text": "Devo ter sonhado com coceguinhas.",
+        "emoji": "💬"
+    },
+    {
+        "id": 564,
+        "start": 1496.889,
+        "end": 1498.052,
+        "text": "Podemos brincar com isso.",
+        "emoji": "💬"
+    },
+    {
+        "id": 565,
+        "start": 1498.153,
+        "end": 1499.717,
+        "text": "Fiquem à vontade.",
+        "emoji": "💬"
+    },
+    {
+        "id": 566,
+        "start": 1499.697,
+        "end": 1503.161,
+        "text": "Finge que isso é água.",
+        "emoji": "💬"
+    },
+    {
+        "id": 567,
+        "start": 1503.181,
+        "end": 1504.081,
+        "text": "É, e são os peixes.",
+        "emoji": "💬"
+    },
+    {
+        "id": 568,
+        "start": 1506.384,
+        "end": 1510.528,
+        "text": "Finge que eu sou a mamãe peixe e você é o bebê peixe.",
+        "emoji": "💬"
+    },
+    {
+        "id": 569,
+        "start": 1510.99,
+        "end": 1512.51,
+        "text": "Tá bom.",
+        "emoji": "💬"
+    },
+    {
+        "id": 570,
+        "start": 1512.691,
+        "end": 1519.077,
+        "text": "O cachorro do manual não fala pra deixar o papelão por baixo?",
+        "emoji": "💬"
+    },
+    {
+        "id": 571,
+        "start": 1519.098,
+        "end": 1522.261,
+        "text": "Não aceito o conselho de um cachorro de manual.",
+        "emoji": "💬"
+    },
+    {
+        "id": 572,
+        "start": 1522.241,
+        "end": 1525.306,
+        "text": "Uh, finge que isso é terra.",
+        "emoji": "💬"
+    },
+    {
+        "id": 573,
+        "start": 1525.326,
+        "end": 1526.807,
+        "text": "E finge que a gente é sapo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 574,
+        "start": 1527.189,
+        "end": 1529.171,
+        "text": "É, sapo-chorro.",
+        "emoji": "💬"
+    },
+    {
+        "id": 575,
+        "start": 1529.25,
+        "end": 1530.011,
+        "text": "Sapo-chorro.",
+        "emoji": "💬"
+    },
+    {
+        "id": 576,
+        "start": 1530.413,
+        "end": 1531.894,
+        "text": "Rubber.",
+        "emoji": "💬"
+    },
+    {
+        "id": 577,
+        "start": 1531.914,
+        "end": 1534.659,
+        "text": "É, mas finge que ainda é meu bebê sapo-chorro.",
+        "emoji": "💬"
+    },
+    {
+        "id": 578,
+        "start": 1534.679,
+        "end": 1535.078,
+        "text": "Ah, não.",
+        "emoji": "💬"
+    },
+    {
+        "id": 579,
+        "start": 1535.46,
+        "end": 1538.764,
+        "text": "É melhor fingir que eu virei um sapo-chorro criança.",
+        "emoji": "💬"
+    },
+    {
+        "id": 580,
+        "start": 1538.784,
+        "end": 1539.525,
+        "text": "Ah, tá legal.",
+        "emoji": "💬"
+    },
+    {
+        "id": 581,
+        "start": 1539.545,
+        "end": 1541.668,
+        "text": "Rubber, rubber.",
+        "emoji": "💬"
+    },
+    {
+        "id": 582,
+        "start": 1542.389,
+        "end": 1542.528,
+        "text": "Rubber!",
+        "emoji": "💬"
+    },
+    {
+        "id": 583,
+        "start": 1542.509,
+        "end": 1546.212,
+        "text": "A parte brilhante não tem que ficar pra cima?",
+        "emoji": "💬"
+    },
+    {
+        "id": 584,
+        "start": 1546.232,
+        "end": 1548.115,
+        "text": "Acho que não tem problema.",
+        "emoji": "💬"
+    },
+    {
+        "id": 585,
+        "start": 1548.195,
+        "end": 1550.097,
+        "text": "Acho que tem.",
+        "emoji": "💬"
+    },
+    {
+        "id": 586,
+        "start": 1550.177,
+        "end": 1553.342,
+        "text": "Vamos usar isso desse jeito.",
+        "emoji": "💬"
+    },
+    {
+        "id": 587,
+        "start": 1553.362,
+        "end": 1555.023,
+        "text": "É, podemos ser lagartixas.",
+        "emoji": "💬"
+    },
+    {
+        "id": 588,
+        "start": 1555.304,
+        "end": 1557.125,
+        "text": "Lagartixas fazem assim.",
+        "emoji": "💬"
+    },
+    {
+        "id": 589,
+        "start": 1557.686,
+        "end": 1560.63,
+        "text": "Vamos fingir que tem moscas.",
+        "emoji": "💬"
+    },
+    {
+        "id": 590,
+        "start": 1560.65,
+        "end": 1565.394,
+        "text": "E eu te ensino a pegar elas, porque eu sou a mamãe lagartixa.",
+        "emoji": "💬"
+    },
+    {
+        "id": 591,
+        "start": 1565.755,
+        "end": 1569.36,
+        "text": "Segurou, Taffy?",
+        "emoji": "💬"
+    },
+    {
+        "id": 592,
+        "start": 1569.339,
+        "end": 1571.302,
+        "text": "Ah, não!",
+        "emoji": "💬"
+    },
+    {
+        "id": 593,
+        "start": 1571.322,
+        "end": 1572.442,
+        "text": "Desculpa!",
+        "emoji": "💬"
+    },
+    {
+        "id": 594,
+        "start": 1572.462,
+        "end": 1573.964,
+        "text": "Amor, pensei que tinha segurado.",
+        "emoji": "💬"
+    },
+    {
+        "id": 595,
+        "start": 1573.985,
+        "end": 1575.125,
+        "text": "Eu pedi desculpa.",
+        "emoji": "💬"
+    },
+    {
+        "id": 596,
+        "start": 1575.546,
+        "end": 1576.907,
+        "text": "Ah, soltou tudo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 597,
+        "start": 1577.028,
+        "end": 1581.112,
+        "text": "Bom, foi por isso que o cachorro do manual disse pra colocar o papelão por baixo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 598,
+        "start": 1581.132,
+        "end": 1582.673,
+        "text": "Ah, tá bom.",
+        "emoji": "💬"
+    },
+    {
+        "id": 599,
+        "start": 1582.692,
+        "end": 1583.994,
+        "text": "E ela?",
+        "emoji": "💬"
+    },
+    {
+        "id": 600,
+        "start": 1584.769,
+        "end": 1588.679,
+        "text": "Claro que a culpa foi minha.",
+        "emoji": "💬"
+    },
+    {
+        "id": 601,
+        "start": 1588.699,
+        "end": 1589.84,
+        "text": "Rápido, bingo!",
+        "emoji": "💬"
+    },
+    {
+        "id": 602,
+        "start": 1589.86,
+        "end": 1590.3,
+        "text": "Lagartixas não nadam!",
+        "emoji": "💬"
+    },
+    {
+        "id": 603,
+        "start": 1590.32,
+        "end": 1592.363,
+        "text": "É só fingir que somos peixes de novo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 604,
+        "start": 1592.383,
+        "end": 1594.105,
+        "text": "Não, já fizemos isso.",
+        "emoji": "💬"
+    },
+    {
+        "id": 605,
+        "start": 1594.125,
+        "end": 1595.346,
+        "text": "Tá bom, vou por aqui.",
+        "emoji": "💬"
+    },
+    {
+        "id": 606,
+        "start": 1595.365,
+        "end": 1597.288,
+        "text": "Sai da frente, papelão.",
+        "emoji": "💬"
+    },
+    {
+        "id": 607,
+        "start": 1598.601,
+        "end": 1599.764,
+        "text": "Uh!",
+        "emoji": "💬"
+    },
+    {
+        "id": 608,
+        "start": 1599.785,
+        "end": 1601.409,
+        "text": "Vamos sentir que isso é um vulcão!",
+        "emoji": "💬"
+    },
+    {
+        "id": 609,
+        "start": 1601.97,
+        "end": 1604.255,
+        "text": "E podemos sentir dinossauros!",
+        "emoji": "💬"
+    },
+    {
+        "id": 610,
+        "start": 1604.275,
+        "end": 1604.415,
+        "text": "É!",
+        "emoji": "💬"
+    },
+    {
+        "id": 611,
+        "start": 1604.556,
+        "end": 1605.257,
+        "text": "2 T-Rex!",
+        "emoji": "💬"
+    },
+    {
+        "id": 612,
+        "start": 1605.719,
+        "end": 1609.117,
+        "text": "Eu sou a mãe T-Rex!",
+        "emoji": "💬"
+    },
+    {
+        "id": 613,
+        "start": 1611.03,
+        "end": 1612.954,
+        "text": "Tá, vou dar uma martelada só.",
+        "emoji": "💬"
+    },
+    {
+        "id": 614,
+        "start": 1613.375,
+        "end": 1614.94,
+        "text": "Cuidado com meu Au!",
+        "emoji": "💬"
+    },
+    {
+        "id": 615,
+        "start": 1614.92,
+        "end": 1617.081,
+        "text": "Eu também!",
+        "emoji": "💬"
+    },
+    {
+        "id": 616,
+        "start": 1617.101,
+        "end": 1618.063,
+        "text": "Vai, bingo!",
+        "emoji": "💬"
+    },
+    {
+        "id": 617,
+        "start": 1618.083,
+        "end": 1618.844,
+        "text": "Rápido, voa!",
+        "emoji": "💬"
+    },
+    {
+        "id": 618,
+        "start": 1618.864,
+        "end": 1622.267,
+        "text": "Então somos passarinhos!",
+        "emoji": "💬"
+    },
+    {
+        "id": 619,
+        "start": 1622.287,
+        "end": 1622.988,
+        "text": "Beleza!",
+        "emoji": "💬"
+    },
+    {
+        "id": 620,
+        "start": 1623.208,
+        "end": 1624.088,
+        "text": "O que vamos ser?",
+        "emoji": "💬"
+    },
+    {
+        "id": 621,
+        "start": 1624.108,
+        "end": 1626.371,
+        "text": "Eu vou ser um leão do circo!",
+        "emoji": "💬"
+    },
+    {
+        "id": 622,
+        "start": 1626.431,
+        "end": 1629.575,
+        "text": "E eu vou correr bem rápido de volta para a selva!",
+        "emoji": "💬"
+    },
+    {
+        "id": 623,
+        "start": 1629.595,
+        "end": 1629.634,
+        "text": "É!",
+        "emoji": "💬"
+    },
+    {
+        "id": 624,
+        "start": 1629.654,
+        "end": 1631.516,
+        "text": "Então eu vou ser o domador de leão!",
+        "emoji": "💬"
+    },
+    {
+        "id": 625,
+        "start": 1631.536,
+        "end": 1632.697,
+        "text": "E eu vou ser muito mau!",
+        "emoji": "💬"
+    },
+    {
+        "id": 626,
+        "start": 1633.018,
+        "end": 1634.639,
+        "text": "E por isso você vai querer fugir!",
+        "emoji": "💬"
+    },
+    {
+        "id": 627,
+        "start": 1635.74,
+        "end": 1635.78,
+        "text": "É!",
+        "emoji": "💬"
+    },
+    {
+        "id": 628,
+        "start": 1635.8,
+        "end": 1637.101,
+        "text": "Eu vou ser acrobata!",
+        "emoji": "💬"
+    },
+    {
+        "id": 629,
+        "start": 1637.402,
+        "end": 1640.045,
+        "text": "E vou ser casada domador de leão!",
+        "emoji": "💬"
+    },
+    {
+        "id": 630,
+        "start": 1640.065,
+        "end": 1640.184,
+        "text": "É!",
+        "emoji": "💬"
+    },
+    {
+        "id": 631,
+        "start": 1640.164,
+        "end": 1641.366,
+        "text": "Peraí, o quê?",
+        "emoji": "💬"
+    },
+    {
+        "id": 632,
+        "start": 1641.386,
+        "end": 1644.072,
+        "text": "Eu vou ser a plateia e isso a minha pipoca.",
+        "emoji": "💬"
+    },
+    {
+        "id": 633,
+        "start": 1644.092,
+        "end": 1645.494,
+        "text": "Eu vou ser a apresentadora.",
+        "emoji": "💬"
+    },
+    {
+        "id": 634,
+        "start": 1645.755,
+        "end": 1647.337,
+        "text": "Ela é a chefe de todo mundo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 635,
+        "start": 1647.639,
+        "end": 1649.601,
+        "text": "Tá, mas eu sou a plateia.",
+        "emoji": "💬"
+    },
+    {
+        "id": 636,
+        "start": 1649.923,
+        "end": 1652.067,
+        "text": "Você não pode me dizer o que fazer.",
+        "emoji": "💬"
+    },
+    {
+        "id": 637,
+        "start": 1652.146,
+        "end": 1652.768,
+        "text": "Tem razão.",
+        "emoji": "💬"
+    },
+    {
+        "id": 638,
+        "start": 1652.788,
+        "end": 1653.73,
+        "text": "Vamos começar.",
+        "emoji": "💬"
+    },
+    {
+        "id": 639,
+        "start": 1654.31,
+        "end": 1654.49,
+        "text": "É!",
+        "emoji": "💬"
+    },
+    {
+        "id": 640,
+        "start": 1654.632,
+        "end": 1656.715,
+        "text": "Preciso de mais pipoca.",
+        "emoji": "💬"
+    },
+    {
+        "id": 641,
+        "start": 1656.996,
+        "end": 1658.589,
+        "text": "De novo não.",
+        "emoji": "💬"
+    },
+    {
+        "id": 642,
+        "start": 1664.009,
+        "end": 1671.849,
+        "text": "Ô, Hércules, eu posso ser o piloto da moto agora?",
+        "emoji": "💬"
+    },
+    {
+        "id": 643,
+        "start": 1672.05,
+        "end": 1673.595,
+        "text": "Não, você é o obstáculo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 644,
+        "start": 1673.615,
+        "end": 1675.519,
+        "text": "Seu obstáculo é chato.",
+        "emoji": "💬"
+    },
+    {
+        "id": 645,
+        "start": 1675.639,
+        "end": 1678.027,
+        "text": "Foi isso que eu falei ou não vai brincar mais, tá bom?",
+        "emoji": "💬"
+    },
+    {
+        "id": 646,
+        "start": 1678.427,
+        "end": 1680.313,
+        "text": "Tá bom.",
+        "emoji": "💬"
+    },
+    {
+        "id": 647,
+        "start": 1680.293,
+        "end": 1681.47,
+        "text": "Prontos!",
+        "emoji": "💬"
+    },
+    {
+        "id": 648,
+        "start": 1684.422,
+        "end": 1686.806,
+        "text": "Muito bem, senhoras e senhores.",
+        "emoji": "💬"
+    },
+    {
+        "id": 649,
+        "start": 1686.826,
+        "end": 1687.807,
+        "text": "Bem-vindos ao circo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 650,
+        "start": 1688.63,
+        "end": 1693.539,
+        "text": "Nosso primeiro ato será O que eu devo apresentar?",
+        "emoji": "💬"
+    },
+    {
+        "id": 651,
+        "start": 1694.081,
+        "end": 1695.183,
+        "text": "Eu tive uma ideia.",
+        "emoji": "💬"
+    },
+    {
+        "id": 652,
+        "start": 1695.324,
+        "end": 1696.346,
+        "text": "Tá bom, diz aí.",
+        "emoji": "💬"
+    },
+    {
+        "id": 653,
+        "start": 1697.087,
+        "end": 1700.775,
+        "text": "O nosso primeiro ato será o pulo do leão pelo arco.",
+        "emoji": "💬"
+    },
+    {
+        "id": 654,
+        "start": 1701.616,
+        "end": 1701.677,
+        "text": "Uh!",
+        "emoji": "💬"
+    },
+    {
+        "id": 655,
+        "start": 1701.656,
+        "end": 1703.339,
+        "text": "Pula, pula, leãozinho.",
+        "emoji": "💬"
+    },
+    {
+        "id": 656,
+        "start": 1703.461,
+        "end": 1704.802,
+        "text": "Vem pegar o petisco.",
+        "emoji": "💬"
+    },
+    {
+        "id": 657,
+        "start": 1704.822,
+        "end": 1707.048,
+        "text": "Não, você é um domador malvado, lembra?",
+        "emoji": "💬"
+    },
+    {
+        "id": 658,
+        "start": 1707.387,
+        "end": 1708.23,
+        "text": "Ah é, eu esqueci.",
+        "emoji": "💬"
+    },
+    {
+        "id": 659,
+        "start": 1708.57,
+        "end": 1709.893,
+        "text": "Pula, seu leão bobo!",
+        "emoji": "💬"
+    },
+    {
+        "id": 660,
+        "start": 1710.293,
+        "end": 1711.395,
+        "text": "Rá!",
+        "emoji": "💬"
+    },
+    {
+        "id": 661,
+        "start": 1711.415,
+        "end": 1713.701,
+        "text": "Seja bonzinho com o leão marido.",
+        "emoji": "💬"
+    },
+    {
+        "id": 662,
+        "start": 1713.721,
+        "end": 1714.982,
+        "text": "Eu não sou seu marido!",
+        "emoji": "💬"
+    },
+    {
+        "id": 663,
+        "start": 1715.083,
+        "end": 1715.945,
+        "text": "Rá!",
+        "emoji": "💬"
+    },
+    {
+        "id": 664,
+        "start": 1718.721,
+        "end": 1720.913,
+        "text": "Você não ganha petisco.",
+        "emoji": "💬"
+    },
+    {
+        "id": 665,
+        "start": 1724.557,
+        "end": 1727.682,
+        "text": "Blu, o Mackenzie não quer fingir que é meu marido.",
+        "emoji": "💬"
+    },
+    {
+        "id": 666,
+        "start": 1727.702,
+        "end": 1730.287,
+        "text": "Mackenzie, pode fingir que você é o marido da Cacau?",
+        "emoji": "💬"
+    },
+    {
+        "id": 667,
+        "start": 1730.307,
+        "end": 1732.19,
+        "text": "Mas eu não quero fazer isso.",
+        "emoji": "💬"
+    },
+    {
+        "id": 668,
+        "start": 1732.21,
+        "end": 1733.871,
+        "text": "Desculpa, Cacau, ele não quer.",
+        "emoji": "💬"
+    },
+    {
+        "id": 669,
+        "start": 1734.211,
+        "end": 1735.614,
+        "text": "Você pode mandar nele?",
+        "emoji": "💬"
+    },
+    {
+        "id": 670,
+        "start": 1735.855,
+        "end": 1737.197,
+        "text": "Bom, não.",
+        "emoji": "💬"
+    },
+    {
+        "id": 671,
+        "start": 1737.217,
+        "end": 1740.902,
+        "text": "É, se ele não quer, a Blu não pode mandar.",
+        "emoji": "💬"
+    },
+    {
+        "id": 672,
+        "start": 1740.922,
+        "end": 1744.287,
+        "text": "Tá bom.",
+        "emoji": "💬"
+    },
+    {
+        "id": 673,
+        "start": 1744.267,
+        "end": 1747.351,
+        "text": "Oi, pai.",
+        "emoji": "💬"
+    },
+    {
+        "id": 674,
+        "start": 1747.831,
+        "end": 1748.331,
+        "text": "Oi, Chloe.",
+        "emoji": "💬"
+    },
+    {
+        "id": 675,
+        "start": 1748.751,
+        "end": 1749.733,
+        "text": "O que você está lendo?",
+        "emoji": "💬"
+    },
+    {
+        "id": 676,
+        "start": 1750.054,
+        "end": 1752.918,
+        "text": "Eu estou lendo artigos sobre polvos.",
+        "emoji": "💬"
+    },
+    {
+        "id": 677,
+        "start": 1752.938,
+        "end": 1753.818,
+        "text": "Para quê?",
+        "emoji": "💬"
+    },
+    {
+        "id": 678,
+        "start": 1753.838,
+        "end": 1757.083,
+        "text": "Bom, eu pensei que poderia me ajudar na brincadeira do polvo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 679,
+        "start": 1758.264,
+        "end": 1760.346,
+        "text": "Na verdade, os polvos são bem inteligentes.",
+        "emoji": "💬"
+    },
+    {
+        "id": 680,
+        "start": 1760.726,
+        "end": 1761.688,
+        "text": "É sério?",
+        "emoji": "💬"
+    },
+    {
+        "id": 681,
+        "start": 1761.708,
+        "end": 1762.71,
+        "text": "E você estava certa.",
+        "emoji": "💬"
+    },
+    {
+        "id": 682,
+        "start": 1762.869,
+        "end": 1764.286,
+        "text": "Eles coletam tesouros, viu?",
+        "emoji": "💬"
+    },
+    {
+        "id": 683,
+        "start": 1764.892,
+        "end": 1768.476,
+        "text": "Eles coletam objetos para deixar as casas mais fortes.",
+        "emoji": "💬"
+    },
+    {
+        "id": 684,
+        "start": 1768.697,
+        "end": 1771.32,
+        "text": "Então, desculpa por falar que você não sabia.",
+        "emoji": "💬"
+    },
+    {
+        "id": 685,
+        "start": 1771.299,
+        "end": 1774.246,
+        "text": "Desculpe falar que o pai da Bluey era mais divertido que você.",
+        "emoji": "💬"
+    },
+    {
+        "id": 686,
+        "start": 1774.626,
+        "end": 1775.148,
+        "text": "Está tudo bem.",
+        "emoji": "💬"
+    },
+    {
+        "id": 687,
+        "start": 1775.467,
+        "end": 1776.63,
+        "text": "Deve ser mesmo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 688,
+        "start": 1776.65,
+        "end": 1778.654,
+        "text": "Mas você também é. Sério?",
+        "emoji": "💬"
+    },
+    {
+        "id": 689,
+        "start": 1778.976,
+        "end": 1785.188,
+        "text": "O meu problema é que toda vez que eu faço alguma coisa, você fala, não, mas os povos não fazem isso.",
+        "emoji": "💬"
+    },
+    {
+        "id": 690,
+        "start": 1785.208,
+        "end": 1785.869,
+        "text": "Eu falo?",
+        "emoji": "💬"
+    },
+    {
+        "id": 691,
+        "start": 1785.889,
+        "end": 1786.369,
+        "text": "Fala.",
+        "emoji": "💬"
+    },
+    {
+        "id": 692,
+        "start": 1786.63,
+        "end": 1792.583,
+        "text": "Bom, isso é engraçado, porque toda vez que eu falo alguma coisa, você diz, não, mas os povos não fazem isso.",
+        "emoji": "💬"
+    },
+    {
+        "id": 693,
+        "start": 1792.563,
+        "end": 1795.708,
+        "text": "Bom, e se a gente fizer uma regra?",
+        "emoji": "💬"
+    },
+    {
+        "id": 694,
+        "start": 1795.828,
+        "end": 1799.434,
+        "text": "Ninguém pode falar, mas os polvos não fazem isso.",
+        "emoji": "💬"
+    },
+    {
+        "id": 695,
+        "start": 1799.595,
+        "end": 1799.936,
+        "text": "Tá bom.",
+        "emoji": "💬"
+    },
+    {
+        "id": 696,
+        "start": 1800.396,
+        "end": 1801.88,
+        "text": "E o que a gente vai falar?",
+        "emoji": "💬"
+    },
+    {
+        "id": 697,
+        "start": 1801.9,
+        "end": 1804.124,
+        "text": "E se a gente falar Sim!",
+        "emoji": "💬"
+    },
+    {
+        "id": 698,
+        "start": 1804.764,
+        "end": 1806.366,
+        "text": "Os polvos fazem isso!",
+        "emoji": "💬"
+    },
+    {
+        "id": 699,
+        "start": 1806.548,
+        "end": 1811.261,
+        "text": "É, mas na língua do polvo vai ficar mais ou menos assim.",
+        "emoji": "💬"
+    },
+    {
+        "id": 700,
+        "start": 1813.985,
+        "end": 1815.884,
+        "text": "mais alguma curiosidade sobre os polvos?",
+        "emoji": "💬"
+    },
+    {
+        "id": 701,
+        "start": 1815.985,
+        "end": 1816.646,
+        "text": "Bom, tem.",
+        "emoji": "💬"
+    },
+    {
+        "id": 702,
+        "start": 1817.087,
+        "end": 1821.175,
+        "text": "Olha, quando um polvo está assustado e quer escapar, ele solta uma nuvem de tinta.",
+        "emoji": "💬"
+    },
+    {
+        "id": 703,
+        "start": 1822.157,
+        "end": 1822.239,
+        "text": "Uau!",
+        "emoji": "💬"
+    },
+    {
+        "id": 704,
+        "start": 1822.86,
+        "end": 1823.221,
+        "text": "Uh!",
+        "emoji": "💬"
+    },
+    {
+        "id": 705,
+        "start": 1823.24,
+        "end": 1823.761,
+        "text": "O que é isso?",
+        "emoji": "💬"
+    },
+    {
+        "id": 706,
+        "start": 1823.782,
+        "end": 1825.065,
+        "text": "É um peixe elétrico.",
+        "emoji": "💬"
+    },
+    {
+        "id": 707,
+        "start": 1825.365,
+        "end": 1828.451,
+        "text": "Ele pode produzir sua própria eletricidade.",
+        "emoji": "💬"
+    },
+    {
+        "id": 708,
+        "start": 1828.471,
+        "end": 1828.771,
+        "text": "Uau!",
+        "emoji": "💬"
+    },
+    {
+        "id": 709,
+        "start": 1833.272,
+        "end": 1833.438,
+        "text": "Oh!",
+        "emoji": "💬"
+    },
+    {
+        "id": 710,
+        "start": 1833.953,
+        "end": 1834.954,
+        "text": "O que mais tem ali?",
+        "emoji": "💬"
+    },
+    {
+        "id": 711,
+        "start": 1834.974,
+        "end": 1836.076,
+        "text": "Bom, tá vendo isso?",
+        "emoji": "💬"
+    },
+    {
+        "id": 712,
+        "start": 1836.096,
+        "end": 1837.238,
+        "text": "É um peixe voador.",
+        "emoji": "💬"
+    },
+    {
+        "id": 713,
+        "start": 1837.258,
+        "end": 1839.079,
+        "text": "Um peixe que consegue voar?",
+        "emoji": "💬"
+    },
+    {
+        "id": 714,
+        "start": 1839.361,
+        "end": 1839.76,
+        "text": "Sim!",
+        "emoji": "💬"
+    },
+    {
+        "id": 715,
+        "start": 1839.901,
+        "end": 1842.545,
+        "text": "Pequenas distâncias, mas ele consegue.",
+        "emoji": "💬"
+    },
+    {
+        "id": 716,
+        "start": 1842.565,
+        "end": 1842.625,
+        "text": "Que",
+        "emoji": "💬"
+    },
+    {
+        "id": 717,
+        "start": 1846.018,
+        "end": 1846.326,
+        "text": "Bluey.",
+        "emoji": "💬"
+    },
+    {
+        "id": 718,
+        "start": 1846.667,
+        "end": 1847.628,
+        "text": "Oi, Chloe.",
+        "emoji": "💬"
+    },
+    {
+        "id": 719,
+        "start": 1847.65,
+        "end": 1849.412,
+        "text": "Quer brincar de polvo com a gente?",
+        "emoji": "💬"
+    },
+    {
+        "id": 720,
+        "start": 1849.432,
+        "end": 1850.213,
+        "text": "Oh, quero sim.",
+        "emoji": "💬"
+    },
+    {
+        "id": 721,
+        "start": 1850.233,
+        "end": 1854.78,
+        "text": "Tá bom, dessa vez somos o peixe elétrico.",
+        "emoji": "💬"
+    },
+    {
+        "id": 722,
+        "start": 1854.881,
+        "end": 1857.144,
+        "text": "Tá bom, eu vou ser o polvo de anéis azuis.",
+        "emoji": "💬"
+    },
+    {
+        "id": 723,
+        "start": 1857.705,
+        "end": 1860.451,
+        "text": "Esse anão, esse daí é venenoso.",
+        "emoji": "💬"
+    },
+    {
+        "id": 724,
+        "start": 1860.471,
+        "end": 1863.516,
+        "text": "Você congela por 4 segundos se ele te tocar.",
+        "emoji": "💬"
+    },
+    {
+        "id": 725,
+        "start": 1863.935,
+        "end": 1864.557,
+        "text": "Uh, beleza.",
+        "emoji": "💬"
+    },
+    {
+        "id": 726,
+        "start": 1864.837,
+        "end": 1869.204,
+        "text": "Vamos lá.",
+        "emoji": "💬"
+    },
+    {
+        "id": 727,
+        "start": 1869.184,
+        "end": 1871.126,
+        "text": "Ele te pegou!",
+        "emoji": "💬"
+    },
+    {
+        "id": 728,
+        "start": 1871.527,
+        "end": 1871.827,
+        "text": "1, 2, 3!",
+        "emoji": "💬"
+    },
+    {
+        "id": 729,
+        "start": 1871.847,
+        "end": 1875.451,
+        "text": "Não se preocupe, eu sou um peixe elétrico!",
+        "emoji": "💬"
+    },
+    {
+        "id": 730,
+        "start": 1875.471,
+        "end": 1877.573,
+        "text": "Espera, você tem que dar o dinheiro do ingresso.",
+        "emoji": "💬"
+    },
+    {
+        "id": 731,
+        "start": 1877.593,
+        "end": 1877.913,
+        "text": "Ah, é?",
+        "emoji": "💬"
+    },
+    {
+        "id": 732,
+        "start": 1877.932,
+        "end": 1878.513,
+        "text": "Toma aqui.",
+        "emoji": "💬"
+    },
+    {
+        "id": 733,
+        "start": 1878.534,
+        "end": 1879.494,
+        "text": "Obrigada.",
+        "emoji": "💬"
+    },
+    {
+        "id": 734,
+        "start": 1879.515,
+        "end": 1880.796,
+        "text": "O seu ingresso.",
+        "emoji": "💬"
+    },
+    {
+        "id": 735,
+        "start": 1881.175,
+        "end": 1885.78,
+        "text": "Olha, se você não gostar do passeio de observação de baleia, posso devolver o seu dinheiro.",
+        "emoji": "💬"
+    },
+    {
+        "id": 736,
+        "start": 1885.8,
+        "end": 1886.5,
+        "text": "Maravilha.",
+        "emoji": "💬"
+    },
+    {
+        "id": 737,
+        "start": 1886.761,
+        "end": 1888.022,
+        "text": "Mas isso não vai acontecer.",
+        "emoji": "💬"
+    },
+    {
+        "id": 738,
+        "start": 1888.103,
+        "end": 1891.046,
+        "text": "Esse vai ser o melhor passeio de observação de baleia que você já fez.",
+        "emoji": "💬"
+    },
+    {
+        "id": 739,
+        "start": 1891.066,
+        "end": 1892.866,
+        "text": "Eu não posso garantir isso.",
+        "emoji": "💬"
+    },
+    {
+        "id": 740,
+        "start": 1892.887,
+        "end": 1893.927,
+        "text": "Todos a bordo!",
+        "emoji": "💬"
+    },
+    {
+        "id": 741,
+        "start": 1893.949,
+        "end": 1895.529,
+        "text": "Ô, Bluey, fala mais baixo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 742,
+        "start": 1895.509,
+        "end": 1897.133,
+        "text": "Lá vamos nós!",
+        "emoji": "💬"
+    },
+    {
+        "id": 743,
+        "start": 1897.192,
+        "end": 1900.919,
+        "text": "É um lindo dia para fazer um passeio de barco.",
+        "emoji": "💬"
+    },
+    {
+        "id": 744,
+        "start": 1900.939,
+        "end": 1902.422,
+        "text": "O mar está bem calminho.",
+        "emoji": "💬"
+    },
+    {
+        "id": 745,
+        "start": 1902.442,
+        "end": 1904.987,
+        "text": "É Vai ser um passeio tranquilo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 746,
+        "start": 1905.126,
+        "end": 1905.527,
+        "text": "Ou não!",
+        "emoji": "💬"
+    },
+    {
+        "id": 747,
+        "start": 1905.867,
+        "end": 1907.13,
+        "text": "O mar ficou agitado!",
+        "emoji": "💬"
+    },
+    {
+        "id": 748,
+        "start": 1907.15,
+        "end": 1907.73,
+        "text": "O quê?",
+        "emoji": "💬"
+    },
+    {
+        "id": 749,
+        "start": 1907.75,
+        "end": 1909.134,
+        "text": "Segura firme, cliente!",
+        "emoji": "💬"
+    },
+    {
+        "id": 750,
+        "start": 1909.153,
+        "end": 1910.415,
+        "text": "Lá vem uma onda",
+        "emoji": "💬"
+    },
+    {
+        "id": 751,
+        "start": 1913.949,
+        "end": 1915.15,
+        "text": "o mar ficou agitado.",
+        "emoji": "💬"
+    },
+    {
+        "id": 752,
+        "start": 1915.17,
+        "end": 1918.574,
+        "text": "O mar tá bem calmo e Olha, chegamos nas baleias.",
+        "emoji": "💬"
+    },
+    {
+        "id": 753,
+        "start": 1918.814,
+        "end": 1919.413,
+        "text": "Não, não, não.",
+        "emoji": "💬"
+    },
+    {
+        "id": 754,
+        "start": 1919.433,
+        "end": 1921.175,
+        "text": "As baleias ainda estão muito longe.",
+        "emoji": "💬"
+    },
+    {
+        "id": 755,
+        "start": 1921.557,
+        "end": 1924.72,
+        "text": "E outra coisa, o barco não decide se o mar tá agitado.",
+        "emoji": "💬"
+    },
+    {
+        "id": 756,
+        "start": 1924.74,
+        "end": 1926.02,
+        "text": "É o piloto do barco que vê.",
+        "emoji": "💬"
+    },
+    {
+        "id": 757,
+        "start": 1926.602,
+        "end": 1927.081,
+        "text": "É?",
+        "emoji": "💬"
+    },
+    {
+        "id": 758,
+        "start": 1927.201,
+        "end": 1929.264,
+        "text": "primeiro ponto, baleias não sabem falar.",
+        "emoji": "💬"
+    },
+    {
+        "id": 759,
+        "start": 1929.444,
+        "end": 1932.647,
+        "text": "E segundo ponto, hoje o mar não vai ficar agitado.",
+        "emoji": "💬"
+    },
+    {
+        "id": 760,
+        "start": 1932.668,
+        "end": 1936.051,
+        "text": "Bom, eu vou encontrar o mar agitado.",
+        "emoji": "💬"
+    },
+    {
+        "id": 761,
+        "start": 1936.072,
+        "end": 1937.012,
+        "text": "Vamos lá já.",
+        "emoji": "💬"
+    },
+    {
+        "id": 762,
+        "start": 1937.032,
+        "end": 1939.454,
+        "text": "Aqui estamos, mar agitado.",
+        "emoji": "💬"
+    },
+    {
+        "id": 763,
+        "start": 1939.434,
+        "end": 1939.875,
+        "text": "Não.",
+        "emoji": "💬"
+    },
+    {
+        "id": 764,
+        "start": 1941.026,
+        "end": 1943.241,
+        "text": "vou ficar velejando até achar um mar agitado.",
+        "emoji": "💬"
+    },
+    {
+        "id": 765,
+        "start": 1943.823,
+        "end": 1944.964,
+        "text": "Ah, tá tudo bem.",
+        "emoji": "💬"
+    },
+    {
+        "id": 766,
+        "start": 1945.125,
+        "end": 1946.346,
+        "text": "Segure o café da manhã.",
+        "emoji": "💬"
+    },
+    {
+        "id": 767,
+        "start": 1946.386,
+        "end": 1947.087,
+        "text": "Lá vamos nós.",
+        "emoji": "💬"
+    },
+    {
+        "id": 768,
+        "start": 1947.127,
+        "end": 1948.371,
+        "text": "Segura firme, cliente.",
+        "emoji": "💬"
+    },
+    {
+        "id": 769,
+        "start": 1949.692,
+        "end": 1952.357,
+        "text": "Desculpa, cliente.",
+        "emoji": "💬"
+    },
+    {
+        "id": 770,
+        "start": 1952.377,
+        "end": 1954.961,
+        "text": "Parece que mesmo sem querer, a gente conseguiu chegar no mar agitado.",
+        "emoji": "💬"
+    },
+    {
+        "id": 771,
+        "start": 1954.981,
+        "end": 1958.288,
+        "text": "Como assim, sem querer?",
+        "emoji": "💬"
+    },
+    {
+        "id": 772,
+        "start": 1958.268,
+        "end": 1961.951,
+        "text": "Por favor, não vai pro lugar do almoço antes da tempestade passar.",
+        "emoji": "💬"
+    },
+    {
+        "id": 773,
+        "start": 1962.432,
+        "end": 1963.594,
+        "text": "A tempestade acabou.",
+        "emoji": "💬"
+    },
+    {
+        "id": 774,
+        "start": 1963.673,
+        "end": 1965.477,
+        "text": "E olha, chegamos nas baleias.",
+        "emoji": "💬"
+    },
+    {
+        "id": 775,
+        "start": 1965.797,
+        "end": 1966.238,
+        "text": "Cuidado, tartarugas",
+        "emoji": "💬"
+    },
+    {
+        "id": 776,
+        "start": 1970.273,
+        "end": 1974.007,
+        "text": "tudo bem.",
+        "emoji": "💬"
+    },
+    {
+        "id": 777,
+        "start": 1974.186,
+        "end": 1981.915,
+        "text": "E agora chegamos na Oda gigante!",
+        "emoji": "💬"
+    },
+    {
+        "id": 778,
+        "start": 1982.276,
+        "end": 1983.718,
+        "text": "Ah não!",
+        "emoji": "💬"
+    },
+    {
+        "id": 779,
+        "start": 1983.698,
+        "end": 1984.829,
+        "text": "Cancei.",
+        "emoji": "💬"
+    },
+    {
+        "id": 780,
+        "start": 1989.485,
+        "end": 1990.826,
+        "text": "Você tá bem, cliente?",
+        "emoji": "💬"
+    },
+    {
+        "id": 781,
+        "start": 1990.885,
+        "end": 1992.007,
+        "text": "Sim, eu tô bem, sim.",
+        "emoji": "💬"
+    },
+    {
+        "id": 782,
+        "start": 1992.027,
+        "end": 1993.429,
+        "text": "Não quer o dinheiro de volta?",
+        "emoji": "💬"
+    },
+    {
+        "id": 783,
+        "start": 1993.509,
+        "end": 1995.131,
+        "text": "Não, isso é muito legal.",
+        "emoji": "💬"
+    },
+    {
+        "id": 784,
+        "start": 1995.33,
+        "end": 1997.794,
+        "text": "Mas a gente já tá chegando nas baleias?",
+        "emoji": "💬"
+    },
+    {
+        "id": 785,
+        "start": 1997.814,
+        "end": 1998.094,
+        "text": "Já?",
+        "emoji": "💬"
+    },
+    {
+        "id": 786,
+        "start": 1998.114,
+        "end": 1998.694,
+        "text": "Não.",
+        "emoji": "💬"
+    },
+    {
+        "id": 787,
+        "start": 2000.257,
+        "end": 2002.118,
+        "text": "Oh, tem alguém na porta.",
+        "emoji": "💬"
+    },
+    {
+        "id": 788,
+        "start": 2002.139,
+        "end": 2004.642,
+        "text": "Relaxa, a mamãe atende.",
+        "emoji": "💬"
+    },
+    {
+        "id": 789,
+        "start": 2004.662,
+        "end": 2006.846,
+        "text": "Ei, ovelhas não andam!",
+        "emoji": "💬"
+    },
+    {
+        "id": 790,
+        "start": 2007.545,
+        "end": 2012.17,
+        "text": "Oi, o que acha de economizar R¥ twocentos por ano na conta de energia?",
+        "emoji": "💬"
+    },
+    {
+        "id": 791,
+        "start": 2012.15,
+        "end": 2016.416,
+        "text": "Como é que é?",
+        "emoji": "💬"
+    },
+    {
+        "id": 792,
+        "start": 2016.436,
+        "end": 2018.902,
+        "text": "Ah, tem mais alguém que possa falar comigo?",
+        "emoji": "💬"
+    },
+    {
+        "id": 793,
+        "start": 2018.961,
+        "end": 2021.425,
+        "text": "Vou chamar minha mãe.",
+        "emoji": "💬"
+    },
+    {
+        "id": 794,
+        "start": 2021.445,
+        "end": 2022.247,
+        "text": "Ei, me solta!",
+        "emoji": "💬"
+    },
+    {
+        "id": 795,
+        "start": 2022.268,
+        "end": 2023.589,
+        "text": "Vassinho!",
+        "emoji": "💬"
+    },
+    {
+        "id": 796,
+        "start": 2023.61,
+        "end": 2026.074,
+        "text": "Ah, eu volto a outra hora.",
+        "emoji": "💬"
+    },
+    {
+        "id": 797,
+        "start": 2026.094,
+        "end": 2027.195,
+        "text": "Eu sei o que você está fazendo!",
+        "emoji": "💬"
+    },
+    {
+        "id": 798,
+        "start": 2027.477,
+        "end": 2030.173,
+        "text": "Você não quer que eu veja",
+        "emoji": "💬"
+    },
+    {
+        "id": 799,
+        "start": 2030.786,
+        "end": 2032.505,
+        "text": "Mas isso não vai dar certo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 800,
+        "start": 2032.525,
+        "end": 2034.248,
+        "text": "Pronto.",
+        "emoji": "💬"
+    },
+    {
+        "id": 801,
+        "start": 2034.268,
+        "end": 2036.992,
+        "text": "Para onde você vai, ovelhinha?",
+        "emoji": "💬"
+    },
+    {
+        "id": 802,
+        "start": 2038.049,
+        "end": 2038.527,
+        "text": "Mãe?",
+        "emoji": "💬"
+    },
+    {
+        "id": 803,
+        "start": 2040.014,
+        "end": 2041.199,
+        "text": "Você tá aí dentro?",
+        "emoji": "💬"
+    },
+    {
+        "id": 804,
+        "start": 2042.163,
+        "end": 2043.829,
+        "text": "Sim, Blue, e eu tô aqui.",
+        "emoji": "💬"
+    },
+    {
+        "id": 805,
+        "start": 2044.311,
+        "end": 2047.389,
+        "text": "Desculpa se eu fiz alguma coisa que te deixou chateada.",
+        "emoji": "💬"
+    },
+    {
+        "id": 806,
+        "start": 2049.505,
+        "end": 2052.635,
+        "text": "Você não fez nada que me deixou chateada, meu bem.",
+        "emoji": "💬"
+    },
+    {
+        "id": 807,
+        "start": 2052.875,
+        "end": 2054.998,
+        "text": "Então por que você não quer ver a gente?",
+        "emoji": "💬"
+    },
+    {
+        "id": 808,
+        "start": 2055.018,
+        "end": 2056.539,
+        "text": "Eu quero ver vocês, amor.",
+        "emoji": "💬"
+    },
+    {
+        "id": 809,
+        "start": 2056.88,
+        "end": 2059.525,
+        "text": "Mas pode ser bem trabalhoso cuidar de crianças.",
+        "emoji": "💬"
+    },
+    {
+        "id": 810,
+        "start": 2059.885,
+        "end": 2063.05,
+        "text": "Às vezes, as mães só precisam de 20 minutos.",
+        "emoji": "💬"
+    },
+    {
+        "id": 811,
+        "start": 2063.07,
+        "end": 2064.192,
+        "text": "Poxa, eu não entendo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 812,
+        "start": 2064.271,
+        "end": 2067.134,
+        "text": "Algum dia vai entender, minha querida.",
+        "emoji": "💬"
+    },
+    {
+        "id": 813,
+        "start": 2070.177,
+        "end": 2072.643,
+        "text": "Mas o que está acontecendo?",
+        "emoji": "💬"
+    },
+    {
+        "id": 814,
+        "start": 2072.663,
+        "end": 2074.626,
+        "text": "O papai não quer que eu incomode você.",
+        "emoji": "💬"
+    },
+    {
+        "id": 815,
+        "start": 2075.547,
+        "end": 2076.608,
+        "text": "Oh, entendi.",
+        "emoji": "💬"
+    },
+    {
+        "id": 816,
+        "start": 2076.628,
+        "end": 2079.251,
+        "text": "Mas não vai funcionar.",
+        "emoji": "💬"
+    },
+    {
+        "id": 817,
+        "start": 2079.271,
+        "end": 2079.902,
+        "text": "O que está acontecendo",
+        "emoji": "💬"
+    },
+    {
+        "id": 818,
+        "start": 2081.295,
+        "end": 2082.155,
+        "text": "Auende!",
+        "emoji": "💬"
+    },
+    {
+        "id": 819,
+        "start": 2082.175,
+        "end": 2082.757,
+        "text": "Vai, vai,",
+        "emoji": "💬"
+    },
+    {
+        "id": 820,
+        "start": 2090.786,
+        "end": 2091.668,
+        "text": "Solta!",
+        "emoji": "💬"
+    },
+    {
+        "id": 821,
+        "start": 2091.648,
+        "end": 2093.632,
+        "text": "Solta já!",
+        "emoji": "💬"
+    },
+    {
+        "id": 822,
+        "start": 2093.954,
+        "end": 2096.279,
+        "text": "Você é uma ovelhinha muito levada!",
+        "emoji": "💬"
+    },
+    {
+        "id": 823,
+        "start": 2096.721,
+        "end": 2098.163,
+        "text": "Desculpa, Wendy!",
+        "emoji": "💬"
+    },
+    {
+        "id": 824,
+        "start": 2098.184,
+        "end": 2100.51,
+        "text": "Ele não consegue escutar o que ninguém fala!",
+        "emoji": "💬"
+    },
+    {
+        "id": 825,
+        "start": 2101.152,
+        "end": 2101.552,
+        "text": "Já chega!",
+        "emoji": "💬"
+    },
+    {
+        "id": 826,
+        "start": 2101.693,
+        "end": 2103.398,
+        "text": "Eu vou chamar a Tilly!",
+        "emoji": "💬"
+    },
+    {
+        "id": 827,
+        "start": 2104.4,
+        "end": 2107.326,
+        "text": "Ovelhinha",
+        "emoji": "💬"
+    },
+    {
+        "id": 828,
+        "start": 2109.889,
+        "end": 2110.393,
+        "text": "Ai, caramba.",
+        "emoji": "💬"
+    },
+    {
+        "id": 829,
+        "start": 2111.193,
+        "end": 2115.038,
+        "text": "Isso não vai acontecer de novo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 830,
+        "start": 2117.001,
+        "end": 2118.543,
+        "text": "Era uma vez um pequeno vilarejo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 831,
+        "start": 2118.563,
+        "end": 2122.447,
+        "text": "E no vilarejo, todo mundo andava descalço.",
+        "emoji": "💬"
+    },
+    {
+        "id": 832,
+        "start": 2122.467,
+        "end": 2122.668,
+        "text": "Ah!",
+        "emoji": "💬"
+    },
+    {
+        "id": 833,
+        "start": 2122.688,
+        "end": 2124.929,
+        "text": "Unicórcio, não consigo ver a página.",
+        "emoji": "💬"
+    },
+    {
+        "id": 834,
+        "start": 2126.532,
+        "end": 2128.295,
+        "text": "Ih, que diferença fácil.",
+        "emoji": "💬"
+    },
+    {
+        "id": 835,
+        "start": 2128.335,
+        "end": 2129.735,
+        "text": "Ah, eu tinha esquecido desse bordão.",
+        "emoji": "💬"
+    },
+    {
+        "id": 836,
+        "start": 2129.755,
+        "end": 2134.282,
+        "text": "Se ficar na frente das palavras, a mamãe não vai conseguir ler a história.",
+        "emoji": "💬"
+    },
+    {
+        "id": 837,
+        "start": 2134.302,
+        "end": 2134.362,
+        "text": "Ih!",
+        "emoji": "💬"
+    },
+    {
+        "id": 838,
+        "start": 2134.342,
+        "end": 2135.503,
+        "text": "Que diferença faz?",
+        "emoji": "💬"
+    },
+    {
+        "id": 839,
+        "start": 2135.644,
+        "end": 2137.045,
+        "text": "As histórias são legais.",
+        "emoji": "💬"
+    },
+    {
+        "id": 840,
+        "start": 2137.487,
+        "end": 2138.788,
+        "text": "A minha história era legal.",
+        "emoji": "💬"
+    },
+    {
+        "id": 841,
+        "start": 2138.909,
+        "end": 2140.23,
+        "text": "E tinha um unicórnio nela.",
+        "emoji": "💬"
+    },
+    {
+        "id": 842,
+        "start": 2140.471,
+        "end": 2142.414,
+        "text": "Nesta aqui não tem nenhum unicórnio.",
+        "emoji": "💬"
+    },
+    {
+        "id": 843,
+        "start": 2142.514,
+        "end": 2144.177,
+        "text": "E o final é muito chato.",
+        "emoji": "💬"
+    },
+    {
+        "id": 844,
+        "start": 2144.197,
+        "end": 2147.081,
+        "text": "Ela só faz um Não dá nenhuma espolha.",
+        "emoji": "💬"
+    },
+    {
+        "id": 845,
+        "start": 2147.382,
+        "end": 2147.983,
+        "text": "Por que não?",
+        "emoji": "💬"
+    },
+    {
+        "id": 846,
+        "start": 2148.264,
+        "end": 2151.628,
+        "text": "Porque a Bluey não sabe o final.",
+        "emoji": "💬"
+    },
+    {
+        "id": 847,
+        "start": 2151.648,
+        "end": 2152.59,
+        "text": "Que diferença faz?",
+        "emoji": "💬"
+    },
+    {
+        "id": 848,
+        "start": 2152.711,
+        "end": 2155.534,
+        "text": "Unicórcio, eu quero te transformar em um unicórnio legal.",
+        "emoji": "💬"
+    },
+    {
+        "id": 849,
+        "start": 2155.715,
+        "end": 2157.117,
+        "text": "Tá bom, tá bom, tá bom.",
+        "emoji": "💬"
+    },
+    {
+        "id": 850,
+        "start": 2157.137,
+        "end": 2158.8,
+        "text": "Por favor, continua, Milly.",
+        "emoji": "💬"
+    },
+    {
+        "id": 851,
+        "start": 2158.82,
+        "end": 2161.023,
+        "text": "Eu não vou estragar o final.",
+        "emoji": "💬"
+    },
+    {
+        "id": 852,
+        "start": 2161.003,
+        "end": 2163.086,
+        "text": "Ela faz sapatos.",
+        "emoji": "💬"
+    },
+    {
+        "id": 853,
+        "start": 2163.106,
+        "end": 2166.471,
+        "text": "Unicórcio!",
+        "emoji": "💬"
+    },
+    {
+        "id": 854,
+        "start": 2166.99,
+        "end": 2170.335,
+        "text": "Um dia, a rainha decidiu sair da casinha e dar uma volta.",
+        "emoji": "💬"
+    },
+    {
+        "id": 855,
+        "start": 2170.855,
+        "end": 2172.297,
+        "text": "Mudei de ideia.",
+        "emoji": "💬"
+    },
+    {
+        "id": 856,
+        "start": 2172.318,
+        "end": 2172.757,
+        "text": "Ah, espere.",
+        "emoji": "💬"
+    },
+    {
+        "id": 857,
+        "start": 2172.778,
+        "end": 2173.719,
+        "text": "Mudei de novo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 858,
+        "start": 2173.739,
+        "end": 2174.84,
+        "text": "Na verdade, eu vou.",
+        "emoji": "💬"
+    },
+    {
+        "id": 859,
+        "start": 2174.94,
+        "end": 2175.561,
+        "text": "Não, não vou.",
+        "emoji": "💬"
+    },
+    {
+        "id": 860,
+        "start": 2175.581,
+        "end": 2176.101,
+        "text": "Eu vou sim.",
+        "emoji": "💬"
+    },
+    {
+        "id": 861,
+        "start": 2176.181,
+        "end": 2176.782,
+        "text": "Sabe, Tess?",
+        "emoji": "💬"
+    },
+    {
+        "id": 862,
+        "start": 2176.802,
+        "end": 2177.284,
+        "text": "Sabe, Tess?",
+        "emoji": "💬"
+    },
+    {
+        "id": 863,
+        "start": 2177.304,
+        "end": 2177.704,
+        "text": "Sabe, Tess?",
+        "emoji": "💬"
+    },
+    {
+        "id": 864,
+        "start": 2177.724,
+        "end": 2178.045,
+        "text": "Sabe, Tess?",
+        "emoji": "💬"
+    },
+    {
+        "id": 865,
+        "start": 2178.065,
+        "end": 2179.186,
+        "text": "Sabe, Tess?",
+        "emoji": "💬"
+    },
+    {
+        "id": 866,
+        "start": 2179.206,
+        "end": 2179.887,
+        "text": "Sabe, Tess?",
+        "emoji": "💬"
+    },
+    {
+        "id": 867,
+        "start": 2179.907,
+        "end": 2181.489,
+        "text": "Para, Unicórcio.",
+        "emoji": "💬"
+    },
+    {
+        "id": 868,
+        "start": 2181.509,
+        "end": 2182.206,
+        "text": "Esse comportamento",
+        "emoji": "💬"
+    },
+    {
+        "id": 869,
+        "start": 2183.65,
+        "end": 2183.771,
+        "text": "Uh!",
+        "emoji": "💬"
+    },
+    {
+        "id": 870,
+        "start": 2183.811,
+        "end": 2187.735,
+        "text": "Esse também Podemos continuar?",
+        "emoji": "💬"
+    },
+    {
+        "id": 871,
+        "start": 2188.277,
+        "end": 2190.639,
+        "text": "Ah, sim.",
+        "emoji": "💬"
+    },
+    {
+        "id": 872,
+        "start": 2190.619,
+        "end": 2193.864,
+        "text": "Então a rainha deu alguns passos e pisou num espinho.",
+        "emoji": "💬"
+    },
+    {
+        "id": 873,
+        "start": 2194.364,
+        "end": 2194.543,
+        "text": "Ai!",
+        "emoji": "💬"
+    },
+    {
+        "id": 874,
+        "start": 2196.865,
+        "end": 2198.088,
+        "text": "Unicórcio, isso é maldade!",
+        "emoji": "💬"
+    },
+    {
+        "id": 875,
+        "start": 2198.228,
+        "end": 2200.711,
+        "text": "O que você sentiria se pisassem um espinho?",
+        "emoji": "💬"
+    },
+    {
+        "id": 876,
+        "start": 2200.73,
+        "end": 2201.231,
+        "text": "Eu ia gostar!",
+        "emoji": "💬"
+    },
+    {
+        "id": 877,
+        "start": 2201.411,
+        "end": 2204.376,
+        "text": "Eu ia gostar tanto que ia dançar!",
+        "emoji": "💬"
+    },
+    {
+        "id": 878,
+        "start": 2204.416,
+        "end": 2206.797,
+        "text": "Você não ia dançar!",
+        "emoji": "💬"
+    },
+    {
+        "id": 879,
+        "start": 2206.818,
+        "end": 2207.458,
+        "text": "Ia chorar que nem a rainha!",
+        "emoji": "💬"
+    },
+    {
+        "id": 880,
+        "start": 2207.9,
+        "end": 2211.423,
+        "text": "Acho que ela devia usar sapato!",
+        "emoji": "💬"
+    },
+    {
+        "id": 881,
+        "start": 2211.443,
+        "end": 2211.663,
+        "text": "Unicórcio!",
+        "emoji": "💬"
+    },
+    {
+        "id": 882,
+        "start": 2211.744,
+        "end": 2212.644,
+        "text": "Continuando.",
+        "emoji": "💬"
+    },
+    {
+        "id": 883,
+        "start": 2212.625,
+        "end": 2216.635,
+        "text": "A rainha descobriu que o reino inteiro estava coberto de espinhos.",
+        "emoji": "💬"
+    },
+    {
+        "id": 884,
+        "start": 2216.654,
+        "end": 2217.577,
+        "text": "O que ela ia fazer?",
+        "emoji": "💬"
+    },
+    {
+        "id": 885,
+        "start": 2217.856,
+        "end": 2219.802,
+        "text": "Fazer sapatos!",
+        "emoji": "💬"
+    },
+    {
+        "id": 886,
+        "start": 2219.822,
+        "end": 2220.163,
+        "text": "Ah!",
+        "emoji": "💬"
+    },
+    {
+        "id": 887,
+        "start": 2220.503,
+        "end": 2221.326,
+        "text": "Bluey!",
+        "emoji": "💬"
+    },
+    {
+        "id": 888,
+        "start": 2221.346,
+        "end": 2222.467,
+        "text": "Oh, já sei!",
+        "emoji": "💬"
+    },
+    {
+        "id": 889,
+        "start": 2222.487,
+        "end": 2223.369,
+        "text": "Unicórcio!",
+        "emoji": "💬"
+    },
+    {
+        "id": 890,
+        "start": 2223.751,
+        "end": 2225.114,
+        "text": "Qual sua comida favorita?",
+        "emoji": "💬"
+    },
+    {
+        "id": 891,
+        "start": 2226.177,
+        "end": 2227.701,
+        "text": "Crianças!",
+        "emoji": "💬"
+    },
+    {
+        "id": 892,
+        "start": 2227.721,
+        "end": 2227.88,
+        "text": "Uh!",
+        "emoji": "💬"
+    },
+    {
+        "id": 893,
+        "start": 2228.443,
+        "end": 2229.123,
+        "text": "É brincadeira!",
+        "emoji": "💬"
+    },
+    {
+        "id": 894,
+        "start": 2229.284,
+        "end": 2231.269,
+        "text": "Gosto de frango frito!",
+        "emoji": "💬"
+    },
+    {
+        "id": 895,
+        "start": 2231.288,
+        "end": 2231.389,
+        "text": "Uh!",
+        "emoji": "💬"
+    },
+    {
+        "id": 896,
+        "start": 2231.429,
+        "end": 2232.19,
+        "text": "Ótimo!",
+        "emoji": "💬"
+    },
+    {
+        "id": 897,
+        "start": 2232.371,
+        "end": 2232.512,
+        "text": "Olha!",
+        "emoji": "💬"
+    },
+    {
+        "id": 898,
+        "start": 2232.572,
+        "end": 2234.356,
+        "text": "Aqui tem frango frito!",
+        "emoji": "💬"
+    },
+    {
+        "id": 899,
+        "start": 2234.376,
+        "end": 2235.097,
+        "text": "Ah, obrigado!",
+        "emoji": "💬"
+    },
+    {
+        "id": 900,
+        "start": 2235.117,
+        "end": 2237.403,
+        "text": "É muita gentileza!",
+        "emoji": "💬"
+    },
+    {
+        "id": 901,
+        "start": 2237.423,
+        "end": 2240.05,
+        "text": "Tá, vamos continuar, então!",
+        "emoji": "💬"
+    }
+]

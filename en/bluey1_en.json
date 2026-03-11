@@ -1,0 +1,2291 @@
+[
+    {
+        "id": 1,
+        "start": 0.0,
+        "end": 2.12,
+        "text": "[Music] BLUEY THEME TUNE",
+        "emoji": "💬"
+    },
+    {
+        "id": 2,
+        "start": 4.92,
+        "end": 8.4,
+        "text": "Chilling on the couch, reading about the Prime Minister.",
+        "emoji": "💬"
+    },
+    {
+        "id": 3,
+        "start": 8.44,
+        "end": 10.2,
+        "text": "Oh, what's he done now?",
+        "emoji": "💬"
+    },
+    {
+        "id": 4,
+        "start": 10.2,
+        "end": 12.72,
+        "text": "Dad, can you play a song on your phone for us?",
+        "emoji": "💬"
+    },
+    {
+        "id": 5,
+        "start": 12.72,
+        "end": 15.88,
+        "text": "Ah... yeah, OK. As long as it's not too annoying.",
+        "emoji": "💬"
+    },
+    {
+        "id": 6,
+        "start": 15.88,
+        "end": 17.44,
+        "text": "No, it's not annoying.",
+        "emoji": "💬"
+    },
+    {
+        "id": 7,
+        "start": 17.44,
+        "end": 18.48,
+        "text": "What's it called?",
+        "emoji": "💬"
+    },
+    {
+        "id": 8,
+        "start": 18.48,
+        "end": 19.72,
+        "text": "Burger dog!",
+        "emoji": "💬"
+    },
+    {
+        "id": 9,
+        "start": 19.72,
+        "end": 21.64,
+        "text": "Burger dog.",
+        "emoji": "💬"
+    },
+    {
+        "id": 10,
+        "start": 21.68,
+        "end": 23.64,
+        "text": "OK. There you go.",
+        "emoji": "💬"
+    },
+    {
+        "id": 11,
+        "start": 24.04,
+        "end": 24.76,
+        "text": "# Burger Dog",
+        "emoji": "💬"
+    },
+    {
+        "id": 12,
+        "start": 24.76,
+        "end": 26.2,
+        "text": "# B-Burger Dog",
+        "emoji": "💬"
+    },
+    {
+        "id": 13,
+        "start": 26.2,
+        "end": 27.32,
+        "text": "# He has pickles",
+        "emoji": "💬"
+    },
+    {
+        "id": 14,
+        "start": 27.32,
+        "end": 28.64,
+        "text": "# And he has cheese",
+        "emoji": "💬"
+    },
+    {
+        "id": 15,
+        "start": 28.64,
+        "end": 29.68,
+        "text": "# Burger Dog",
+        "emoji": "💬"
+    },
+    {
+        "id": 16,
+        "start": 29.68,
+        "end": 31.08,
+        "text": "# B-Burger Dog",
+        "emoji": "💬"
+    },
+    {
+        "id": 17,
+        "start": 31.08,
+        "end": 34.08,
+        "text": "# Fluffy bun with some sesame seeds",
+        "emoji": "💬"
+    },
+    {
+        "id": 18,
+        "start": 34.52,
+        "end": 35.4,
+        "text": "# Burger Dog",
+        "emoji": "💬"
+    },
+    {
+        "id": 19,
+        "start": 35.4,
+        "end": 36.88,
+        "text": "# B-Burger Dog",
+        "emoji": "💬"
+    },
+    {
+        "id": 20,
+        "start": 36.88,
+        "end": 39.2,
+        "text": "# Yap-yap-yap-yap-yap-yap-yap",
+        "emoji": "💬"
+    },
+    {
+        "id": 21,
+        "start": 39.2,
+        "end": 40.24,
+        "text": "# Burger Dog",
+        "emoji": "💬"
+    },
+    {
+        "id": 22,
+        "start": 40.24,
+        "end": 41.68,
+        "text": "# B-Burger Dog",
+        "emoji": "💬"
+    },
+    {
+        "id": 23,
+        "start": 41.68,
+        "end": 44.2,
+        "text": "# He was a weiner, but now he’s a Burger Dog",
+        "emoji": "💬"
+    },
+    {
+        "id": 24,
+        "start": 44.2,
+        "end": 46.2,
+        "text": "# Burger Dog, B-Burger Dog #",
+        "emoji": "💬"
+    },
+    {
+        "id": 25,
+        "start": 46.84,
+        "end": 47.6,
+        "text": "Hey!",
+        "emoji": "💬"
+    },
+    {
+        "id": 26,
+        "start": 47.6,
+        "end": 50.24,
+        "text": "Ah, sorry, kids – my phone's ran out of battery.",
+        "emoji": "💬"
+    },
+    {
+        "id": 27,
+        "start": 50.32,
+        "end": 51.6,
+        "text": "No, it hasn't!",
+        "emoji": "💬"
+    },
+    {
+        "id": 28,
+        "start": 51.6,
+        "end": 53.04,
+        "text": "Show us!",
+        "emoji": "💬"
+    },
+    {
+        "id": 29,
+        "start": 53.04,
+        "end": 53.52,
+        "text": "Hey!",
+        "emoji": "💬"
+    },
+    {
+        "id": 30,
+        "start": 53.52,
+        "end": 55.0,
+        "text": "[Bluey] You’re tricking us! [Bingo] Argh!",
+        "emoji": "💬"
+    },
+    {
+        "id": 31,
+        "start": 55.0,
+        "end": 57.44,
+        "text": "[Bluey] Just because the screen is black...  - Get off me!",
+        "emoji": "💬"
+    },
+    {
+        "id": 32,
+        "start": 57.44,
+        "end": 59.52,
+        "text": "- ...doesn’t mean it's out of battery!  - Bluey!",
+        "emoji": "💬"
+    },
+    {
+        "id": 33,
+        "start": 59.52,
+        "end": 60.36,
+        "text": "I know!",
+        "emoji": "💬"
+    },
+    {
+        "id": 34,
+        "start": 60.36,
+        "end": 63.48,
+        "text": "Look, I really want to listen to Hamburger Dog too,",
+        "emoji": "💬"
+    },
+    {
+        "id": 35,
+        "start": 63.6,
+        "end": 65.72,
+        "text": "it's a hauntingly beautiful song.",
+        "emoji": "💬"
+    },
+    {
+        "id": 36,
+        "start": 65.72,
+        "end": 67.28,
+        "text": "But, you know, these new phones,",
+        "emoji": "💬"
+    },
+    {
+        "id": 37,
+        "start": 67.28,
+        "end": 69.76,
+        "text": "when you update the software, it stops your battery.",
+        "emoji": "💬"
+    },
+    {
+        "id": 38,
+        "start": 69.76,
+        "end": 72.24,
+        "text": "You know, they're trying to make you get the flash new one. - (Groans)",
+        "emoji": "💬"
+    },
+    {
+        "id": 39,
+        "start": 72.24,
+        "end": 74.44,
+        "text": "But I'm not having it! - Rrr-rrr!",
+        "emoji": "💬"
+    },
+    {
+        "id": 40,
+        "start": 74.44,
+        "end": 76.72,
+        "text": "Rrr! - It's out of battery, kid.",
+        "emoji": "💬"
+    },
+    {
+        "id": 41,
+        "start": 76.72,
+        "end": 78.84,
+        "text": "Trust me, I would never lie to you.",
+        "emoji": "💬"
+    },
+    {
+        "id": 42,
+        "start": 78.84,
+        "end": 81.84,
+        "text": "(PHONE RINGS)",
+        "emoji": "💬"
+    },
+    {
+        "id": 43,
+        "start": 86.8,
+        "end": 87.76,
+        "text": "Hello?",
+        "emoji": "💬"
+    },
+    {
+        "id": 44,
+        "start": 87.76,
+        "end": 91.08,
+        "text": "Are you lying to your children again?  [Bluey and Bingo] Yes.",
+        "emoji": "💬"
+    },
+    {
+        "id": 45,
+        "start": 91.08,
+        "end": 94.08,
+        "text": "[Music] BLUEY THEME TUNE",
+        "emoji": "💬"
+    },
+    {
+        "id": 46,
+        "start": 96.6,
+        "end": 97.8,
+        "text": "- Huh! - (GIGGLES)",
+        "emoji": "💬"
+    },
+    {
+        "id": 47,
+        "start": 97.8,
+        "end": 100.16,
+        "text": "All right. A brand new Bingo 3000.",
+        "emoji": "💬"
+    },
+    {
+        "id": 48,
+        "start": 100.16,
+        "end": 101.48,
+        "text": "Come and check it out.",
+        "emoji": "💬"
+    },
+    {
+        "id": 49,
+        "start": 101.48,
+        "end": 103.6,
+        "text": "Just pop these down.  - Boop!",
+        "emoji": "💬"
+    },
+    {
+        "id": 50,
+        "start": 103.6,
+        "end": 105.12,
+        "text": "Hey, what?",
+        "emoji": "💬"
+    },
+    {
+        "id": 51,
+        "start": 105.84,
+        "end": 106.6,
+        "text": "Boop!",
+        "emoji": "💬"
+    },
+    {
+        "id": 52,
+        "start": 106.6,
+        "end": 108.44,
+        "text": "Well, that's not right.",
+        "emoji": "💬"
+    },
+    {
+        "id": 53,
+        "start": 110.12,
+        "end": 110.84,
+        "text": "There we go. - Boop!",
+        "emoji": "💬"
+    },
+    {
+        "id": 54,
+        "start": 110.84,
+        "end": 111.64,
+        "text": "Hey!",
+        "emoji": "💬"
+    },
+    {
+        "id": 55,
+        "start": 111.64,
+        "end": 113.92,
+        "text": "Oh, man. This thing's busted.",
+        "emoji": "💬"
+    },
+    {
+        "id": 56,
+        "start": 113.92,
+        "end": 116.44,
+        "text": "- (GIGGLES) - Must be a number on here somewhere.",
+        "emoji": "💬"
+    },
+    {
+        "id": 57,
+        "start": 116.44,
+        "end": 117.52,
+        "text": "Here we go.",
+        "emoji": "💬"
+    },
+    {
+        "id": 58,
+        "start": 117.52,
+        "end": 121.48,
+        "text": "3-3-3-4-4-4-5-3-3.",
+        "emoji": "💬"
+    },
+    {
+        "id": 59,
+        "start": 121.48,
+        "end": 122.16,
+        "text": "Typical.",
+        "emoji": "💬"
+    },
+    {
+        "id": 60,
+        "start": 122.16,
+        "end": 123.64,
+        "text": "(GIGGLES)",
+        "emoji": "💬"
+    },
+    {
+        "id": 61,
+        "start": 123.64,
+        "end": 125.4,
+        "text": "Technical support.",
+        "emoji": "💬"
+    },
+    {
+        "id": 62,
+        "start": 127.8,
+        "end": 128.52,
+        "text": "Boop!",
+        "emoji": "💬"
+    },
+    {
+        "id": 63,
+        "start": 128.52,
+        "end": 130.84,
+        "text": "Er, yeah, hello? Yes, I'm fine, yeah.",
+        "emoji": "💬"
+    },
+    {
+        "id": 64,
+        "start": 130.84,
+        "end": 132.84,
+        "text": "Look, I just bought a Bingo 3000.",
+        "emoji": "💬"
+    },
+    {
+        "id": 65,
+        "start": 132.84,
+        "end": 135.84,
+        "text": "I'm having some problem with the bottom kind of legs bit.",
+        "emoji": "💬"
+    },
+    {
+        "id": 66,
+        "start": 136.32,
+        "end": 139.32,
+        "text": "Yeah, you straighten them out and they just go back up. - Boop!",
+        "emoji": "💬"
+    },
+    {
+        "id": 67,
+        "start": 139.32,
+        "end": 141.64,
+        "text": "Yeah, I tried that. Doesn't work.",
+        "emoji": "💬"
+    },
+    {
+        "id": 68,
+        "start": 141.64,
+        "end": 143.48,
+        "text": "Oh, OK. Yeah, I'll try that.",
+        "emoji": "💬"
+    },
+    {
+        "id": 69,
+        "start": 143.48,
+        "end": 146.04,
+        "text": "So grab this bit, yeah? Now what? - (GIGGLES)",
+        "emoji": "💬"
+    },
+    {
+        "id": 70,
+        "start": 146.04,
+        "end": 148.84,
+        "text": "Just jiggle it? OK. Jiggle, jiggle, jiggle!",
+        "emoji": "💬"
+    },
+    {
+        "id": 71,
+        "start": 148.84,
+        "end": 151.12,
+        "text": "Gnnnnn! OK, I’ve jiggled it.",
+        "emoji": "💬"
+    },
+    {
+        "id": 72,
+        "start": 151.12,
+        "end": 152.64,
+        "text": "Just try this again.",
+        "emoji": "💬"
+    },
+    {
+        "id": 73,
+        "start": 152.64,
+        "end": 154.44,
+        "text": "- Boop! - Nah, didn't work, mate.",
+        "emoji": "💬"
+    },
+    {
+        "id": 74,
+        "start": 154.44,
+        "end": 156.04,
+        "text": "What else you got?",
+        "emoji": "💬"
+    },
+    {
+        "id": 75,
+        "start": 156.04,
+        "end": 158.36,
+        "text": "Yeah, OK. I'm looking underneath.",
+        "emoji": "💬"
+    },
+    {
+        "id": 76,
+        "start": 158.36,
+        "end": 162.44,
+        "text": "Just poke around? OK, can do. - (SQUEALS)",
+        "emoji": "💬"
+    },
+    {
+        "id": 77,
+        "start": 163.88,
+        "end": 164.44,
+        "text": "Boop!",
+        "emoji": "💬"
+    },
+    {
+        "id": 78,
+        "start": 164.44,
+        "end": 166.72,
+        "text": "Nah, mate – didn’t work. Still busted.",
+        "emoji": "💬"
+    },
+    {
+        "id": 79,
+        "start": 166.72,
+        "end": 171.64,
+        "text": "Now what? Poke the front bit? OK. - (SQUEALS)",
+        "emoji": "💬"
+    },
+    {
+        "id": 80,
+        "start": 173.04,
+        "end": 173.4,
+        "text": "Boop!",
+        "emoji": "💬"
+    },
+    {
+        "id": 81,
+        "start": 173.4,
+        "end": 176.16,
+        "text": "Nah. Look, mate, I want my money back.",
+        "emoji": "💬"
+    },
+    {
+        "id": 82,
+        "start": 176.16,
+        "end": 176.96,
+        "text": "What?",
+        "emoji": "💬"
+    },
+    {
+        "id": 83,
+        "start": 176.96,
+        "end": 179.8,
+        "text": "Mate, I'm not driving all the way back into you guys, all right?",
+        "emoji": "💬"
+    },
+    {
+        "id": 84,
+        "start": 179.8,
+        "end": 181.32,
+        "text": "I’ve got finals footy this arv...",
+        "emoji": "💬"
+    },
+    {
+        "id": 85,
+        "start": 181.32,
+        "end": 183.12,
+        "text": "You guys come pick it up.",
+        "emoji": "💬"
+    },
+    {
+        "id": 86,
+        "start": 183.12,
+        "end": 185.04,
+        "text": "I don’t know, send a taxi!",
+        "emoji": "💬"
+    },
+    {
+        "id": 87,
+        "start": 185.04,
+        "end": 186.8,
+        "text": "What do you mean, you're not going to do that?",
+        "emoji": "💬"
+    },
+    {
+        "id": 88,
+        "start": 186.8,
+        "end": 188.2,
+        "text": "Ah, forget you!",
+        "emoji": "💬"
+    },
+    {
+        "id": 89,
+        "start": 188.36,
+        "end": 192.92,
+        "text": "That's it! Grrr! - (SQUEALS)",
+        "emoji": "💬"
+    },
+    {
+        "id": 90,
+        "start": 194.28,
+        "end": 194.96,
+        "text": "(GASPS)",
+        "emoji": "💬"
+    },
+    {
+        "id": 91,
+        "start": 194.96,
+        "end": 197.24,
+        "text": "It worked! It worked! - Boop!",
+        "emoji": "💬"
+    },
+    {
+        "id": 92,
+        "start": 197.24,
+        "end": 198.76,
+        "text": "Argh!",
+        "emoji": "💬"
+    },
+    {
+        "id": 93,
+        "start": 202.68,
+        "end": 205.32,
+        "text": "Bingo 3000? Magazine.",
+        "emoji": "💬"
+    },
+    {
+        "id": 94,
+        "start": 205.68,
+        "end": 208.12,
+        "text": "Boop... boop... boop...",
+        "emoji": "💬"
+    },
+    {
+        "id": 95,
+        "start": 208.12,
+        "end": 210.92,
+        "text": "- Hmm. I thought this thing would be faster. - ..boop... boop... boop...",
+        "emoji": "💬"
+    },
+    {
+        "id": 96,
+        "start": 210.92,
+        "end": 212.32,
+        "text": "Don't get me started.",
+        "emoji": "💬"
+    },
+    {
+        "id": 97,
+        "start": 212.32,
+        "end": 214.76,
+        "text": "[Music] BLUEY THEME TUNE",
+        "emoji": "💬"
+    },
+    {
+        "id": 98,
+        "start": 217.36,
+        "end": 219.72,
+        "text": "[Music] BURGER DOG",
+        "emoji": "💬"
+    },
+    {
+        "id": 99,
+        "start": 220.32,
+        "end": 221.6,
+        "text": "[Muffin’s Dad, off-screen] OK... go.",
+        "emoji": "💬"
+    },
+    {
+        "id": 100,
+        "start": 221.6,
+        "end": 223.32,
+        "text": "Hi everybody, I’m Muffin.",
+        "emoji": "💬"
+    },
+    {
+        "id": 101,
+        "start": 223.32,
+        "end": 225.96,
+        "text": "Welcome to my unboxing video.",
+        "emoji": "💬"
+    },
+    {
+        "id": 102,
+        "start": 226.32,
+        "end": 228.72,
+        "text": "Er, Dad... I have to go to the toilet. [Muffin’s Dad] Muffin! (BEEP)",
+        "emoji": "💬"
+    },
+    {
+        "id": 103,
+        "start": 228.72,
+        "end": 231.2,
+        "text": "Hi, welcome to my unboxing video.",
+        "emoji": "💬"
+    },
+    {
+        "id": 104,
+        "start": 231.2,
+        "end": 234.4,
+        "text": "Today we're going to open this dump truck.",
+        "emoji": "💬"
+    },
+    {
+        "id": 105,
+        "start": 234.4,
+        "end": 235.4,
+        "text": "(PING)",
+        "emoji": "💬"
+    },
+    {
+        "id": 106,
+        "start": 235.4,
+        "end": 237.4,
+        "text": "Dad, I don't want a Dump Truck.",
+        "emoji": "💬"
+    },
+    {
+        "id": 107,
+        "start": 237.4,
+        "end": 239.6,
+        "text": "I want Cat Squad Kitty Island.",
+        "emoji": "💬"
+    },
+    {
+        "id": 108,
+        "start": 239.6,
+        "end": 241.56,
+        "text": "[Muffin’s Dad] Muffin, this is the one they sent us, OK?",
+        "emoji": "💬"
+    },
+    {
+        "id": 109,
+        "start": 241.56,
+        "end": 242.76,
+        "text": "Just say the line.",
+        "emoji": "💬"
+    },
+    {
+        "id": 110,
+        "start": 242.76,
+        "end": 245.64,
+        "text": "But I want Cat Squad Kitty Island! (BEEP)",
+        "emoji": "💬"
+    },
+    {
+        "id": 111,
+        "start": 245.64,
+        "end": 248.16,
+        "text": "OK, so, I open this bit.",
+        "emoji": "💬"
+    },
+    {
+        "id": 112,
+        "start": 248.16,
+        "end": 250.44,
+        "text": "Eh. Eh...  EHH!",
+        "emoji": "💬"
+    },
+    {
+        "id": 113,
+        "start": 250.6,
+        "end": 252.52,
+        "text": "It's stuck! EEE!",
+        "emoji": "💬"
+    },
+    {
+        "id": 114,
+        "start": 252.72,
+        "end": 254.76,
+        "text": "Aaagh! Yagh! Agh! [Muffin’s Dad] Don’t break it, Muffin!",
+        "emoji": "💬"
+    },
+    {
+        "id": 115,
+        "start": 255.32,
+        "end": 258.08,
+        "text": "Agh, come on! Yagh! Agh!",
+        "emoji": "💬"
+    },
+    {
+        "id": 116,
+        "start": 258.08,
+        "end": 259.76,
+        "text": "[Muffin] I told you.  - Agh!",
+        "emoji": "💬"
+    },
+    {
+        "id": 117,
+        "start": 259.76,
+        "end": 263.64,
+        "text": "Agh... you’ve really done a number on this thing. (BEEP)",
+        "emoji": "💬"
+    },
+    {
+        "id": 118,
+        "start": 263.8,
+        "end": 266.32,
+        "text": "This is a dump truck.",
+        "emoji": "💬"
+    },
+    {
+        "id": 119,
+        "start": 266.32,
+        "end": 267.36,
+        "text": "[Muffin’s Dad] Push the button.",
+        "emoji": "💬"
+    },
+    {
+        "id": 120,
+        "start": 267.36,
+        "end": 271.28,
+        "text": "(SIGHS) You push this button, and it does this.",
+        "emoji": "💬"
+    },
+    {
+        "id": 121,
+        "start": 272.48,
+        "end": 274.04,
+        "text": "[Muffin’s Dad] Push it harder.",
+        "emoji": "💬"
+    },
+    {
+        "id": 122,
+        "start": 274.92,
+        "end": 276.36,
+        "text": "It's not working!",
+        "emoji": "💬"
+    },
+    {
+        "id": 123,
+        "start": 276.36,
+        "end": 277.52,
+        "text": "[Muffin’s Dad] Push it properly.",
+        "emoji": "💬"
+    },
+    {
+        "id": 124,
+        "start": 277.52,
+        "end": 278.64,
+        "text": "I am! (BEEP)",
+        "emoji": "💬"
+    },
+    {
+        "id": 125,
+        "start": 278.64,
+        "end": 281.92,
+        "text": "You have to remember to put batteries in it first.",
+        "emoji": "💬"
+    },
+    {
+        "id": 126,
+        "start": 283.32,
+        "end": 284.84,
+        "text": "[Muffin’s Dad] Oh, thank f... (BEEP)",
+        "emoji": "💬"
+    },
+    {
+        "id": 127,
+        "start": 286.72,
+        "end": 288.76,
+        "text": "Oh, that's pretty cool. (BEEP)",
+        "emoji": "💬"
+    },
+    {
+        "id": 128,
+        "start": 288.76,
+        "end": 291.76,
+        "text": "Maybe I should put some rocks in the back.",
+        "emoji": "💬"
+    },
+    {
+        "id": 129,
+        "start": 293.36,
+        "end": 295.12,
+        "text": "(LOUDLY EATS SWEETS)",
+        "emoji": "💬"
+    },
+    {
+        "id": 130,
+        "start": 295.12,
+        "end": 298.04,
+        "text": "Hey! (CARRIES ON EATING LOUDLY) Agh! - No! That’s for the video! Gimme those! (BEEP)",
+        "emoji": "💬"
+    },
+    {
+        "id": 131,
+        "start": 298.28,
+        "end": 299.88,
+        "text": "This is a dump truck.",
+        "emoji": "💬"
+    },
+    {
+        "id": 132,
+        "start": 299.88,
+        "end": 302.12,
+        "text": "It is the worst toy ever.",
+        "emoji": "💬"
+    },
+    {
+        "id": 133,
+        "start": 302.12,
+        "end": 303.68,
+        "text": "I hate it.",
+        "emoji": "💬"
+    },
+    {
+        "id": 134,
+        "start": 304.32,
+        "end": 305.6,
+        "text": "[Socks] Can I have it?",
+        "emoji": "💬"
+    },
+    {
+        "id": 135,
+        "start": 305.6,
+        "end": 306.8,
+        "text": "No! It's mine!",
+        "emoji": "💬"
+    },
+    {
+        "id": 136,
+        "start": 306.8,
+        "end": 309.6,
+        "text": "[Music] BURGER DOG",
+        "emoji": "💬"
+    },
+    {
+        "id": 137,
+        "start": 309.6,
+        "end": 312.04,
+        "text": "[Music] BLUEY THEME TUNE",
+        "emoji": "💬"
+    },
+    {
+        "id": 138,
+        "start": 315.72,
+        "end": 317.28,
+        "text": "Look at this, girls.",
+        "emoji": "💬"
+    },
+    {
+        "id": 139,
+        "start": 317.28,
+        "end": 319.56,
+        "text": "[Together] What is it?  - It's a letter!",
+        "emoji": "💬"
+    },
+    {
+        "id": 140,
+        "start": 319.56,
+        "end": 321.8,
+        "text": "It was written by your daddy for school",
+        "emoji": "💬"
+    },
+    {
+        "id": 141,
+        "start": 321.8,
+        "end": 323.52,
+        "text": "when he was just a little boy.",
+        "emoji": "💬"
+    },
+    {
+        "id": 142,
+        "start": 323.8,
+        "end": 326.76,
+        "text": "[Together] Ooh! - I've saved it all these years.",
+        "emoji": "💬"
+    },
+    {
+        "id": 143,
+        "start": 326.76,
+        "end": 328.32,
+        "text": "Would you like me to read it?",
+        "emoji": "💬"
+    },
+    {
+        "id": 144,
+        "start": 328.32,
+        "end": 329.72,
+        "text": "[Together] Yes, please!",
+        "emoji": "💬"
+    },
+    {
+        "id": 145,
+        "start": 329.72,
+        "end": 332.04,
+        "text": "OK, here we go.",
+        "emoji": "💬"
+    },
+    {
+        "id": 146,
+        "start": 332.04,
+        "end": 334.24,
+        "text": "“My name is Bandit Heller.”",
+        "emoji": "💬"
+    },
+    {
+        "id": 147,
+        "start": 334.24,
+        "end": 336.08,
+        "text": "Oh, he spelled Healer wrong.",
+        "emoji": "💬"
+    },
+    {
+        "id": 148,
+        "start": 336.08,
+        "end": 336.96,
+        "text": "[Together] (GIGGLE)",
+        "emoji": "💬"
+    },
+    {
+        "id": 149,
+        "start": 336.96,
+        "end": 339.72,
+        "text": "“I am fiv years old.”",
+        "emoji": "💬"
+    },
+    {
+        "id": 150,
+        "start": 339.72,
+        "end": 342.72,
+        "text": "I think he means five years old. [Together] (GIGGLE)",
+        "emoji": "💬"
+    },
+    {
+        "id": 151,
+        "start": 342.92,
+        "end": 345.92,
+        "text": "Your daddy wasn't a very good speller, was he?",
+        "emoji": "💬"
+    },
+    {
+        "id": 152,
+        "start": 346.16,
+        "end": 352.04,
+        "text": "“For my bathday, my mom bogort me a skatboard.”",
+        "emoji": "💬"
+    },
+    {
+        "id": 153,
+        "start": 352.04,
+        "end": 357.52,
+        "text": "- [Together] (GIGGLE) - “The clower of my skatboard is... gren”?",
+        "emoji": "💬"
+    },
+    {
+        "id": 154,
+        "start": 357.72,
+        "end": 361.68,
+        "text": "I think he means the colour of his skateboard was green.",
+        "emoji": "💬"
+    },
+    {
+        "id": 155,
+        "start": 361.88,
+        "end": 367.12,
+        "text": "“I ride my skatboard on the drivway after skol.”",
+        "emoji": "💬"
+    },
+    {
+        "id": 156,
+        "start": 367.12,
+        "end": 372.12,
+        "text": "Oh, Bandy, that's not even close to how you spell school.",
+        "emoji": "💬"
+    },
+    {
+        "id": 157,
+        "start": 372.12,
+        "end": 374.08,
+        "text": "“I have a brid.”",
+        "emoji": "💬"
+    },
+    {
+        "id": 158,
+        "start": 374.08,
+        "end": 376.56,
+        "text": "A “brid”? What’s he on about?",
+        "emoji": "💬"
+    },
+    {
+        "id": 159,
+        "start": 376.56,
+        "end": 379.32,
+        "text": "“My brid's nam is Conan.”",
+        "emoji": "💬"
+    },
+    {
+        "id": 160,
+        "start": 379.32,
+        "end": 382.32,
+        "text": "Oh, he's talking about his bird. [Together] (GIGGLE)",
+        "emoji": "💬"
+    },
+    {
+        "id": 161,
+        "start": 382.72,
+        "end": 385.92,
+        "text": "- “I fed Conan everyeye day.”",
+        "emoji": "💬"
+    },
+    {
+        "id": 162,
+        "start": 386.48,
+        "end": 393.24,
+        "text": "“His winks are gren and blooo and his bek is yillow.”",
+        "emoji": "💬"
+    },
+    {
+        "id": 163,
+        "start": 393.68,
+        "end": 397.32,
+        "text": "Well... I think his wings are green and blue",
+        "emoji": "💬"
+    },
+    {
+        "id": 164,
+        "start": 397.32,
+        "end": 400.72,
+        "text": "and his beak is yellow. Or his back. [Together] (GIGGLE)",
+        "emoji": "💬"
+    },
+    {
+        "id": 165,
+        "start": 400.96,
+        "end": 404.64,
+        "text": "- “My browther is keld Rad.”",
+        "emoji": "💬"
+    },
+    {
+        "id": 166,
+        "start": 405.0,
+        "end": 408.0,
+        "text": "“My otter browther is keld Strip.”",
+        "emoji": "💬"
+    },
+    {
+        "id": 167,
+        "start": 408.24,
+        "end": 411.24,
+        "text": "“Strip is good and so is Rad,",
+        "emoji": "💬"
+    },
+    {
+        "id": 168,
+        "start": 411.24,
+        "end": 414.96,
+        "text": "but Rad is good too.” What’s he on about?",
+        "emoji": "💬"
+    },
+    {
+        "id": 169,
+        "start": 415.36,
+        "end": 420.92,
+        "text": "“My Dad is good, but he shorts at Rad when Rad plays fotty.”",
+        "emoji": "💬"
+    },
+    {
+        "id": 170,
+        "start": 420.92,
+        "end": 425.04,
+        "text": "[Together] (GIGGLE)  - Oh, he shouts at Rad when Rad plays footy.",
+        "emoji": "💬"
+    },
+    {
+        "id": 171,
+        "start": 425.28,
+        "end": 427.92,
+        "text": "Oh yeah, he did. [Together] (GIGGLE)",
+        "emoji": "💬"
+    },
+    {
+        "id": 172,
+        "start": 427.92,
+        "end": 430.24,
+        "text": "“I loave my mum.”",
+        "emoji": "💬"
+    },
+    {
+        "id": 173,
+        "start": 430.24,
+        "end": 431.76,
+        "text": "[All three, together] Aww...",
+        "emoji": "💬"
+    },
+    {
+        "id": 174,
+        "start": 431.76,
+        "end": 435.52,
+        "text": "“She is the bast mum in the wahol worl.”",
+        "emoji": "💬"
+    },
+    {
+        "id": 175,
+        "start": 436.56,
+        "end": 440.28,
+        "text": "“But I don lick the food she corks.”",
+        "emoji": "💬"
+    },
+    {
+        "id": 176,
+        "start": 440.72,
+        "end": 443.16,
+        "text": "“It tasts disgarsting.”",
+        "emoji": "💬"
+    },
+    {
+        "id": 177,
+        "start": 443.16,
+        "end": 447.96,
+        "text": "“Especkialy her lazarniya.”",
+        "emoji": "💬"
+    },
+    {
+        "id": 178,
+        "start": 447.96,
+        "end": 451.08,
+        "text": "“It is lak etting vommm-it.”",
+        "emoji": "💬"
+    },
+    {
+        "id": 179,
+        "start": 451.32,
+        "end": 453.92,
+        "text": "What? Oooh... [Together] (SQUEAL)",
+        "emoji": "💬"
+    },
+    {
+        "id": 180,
+        "start": 453.92,
+        "end": 455.68,
+        "text": "“The end.”",
+        "emoji": "💬"
+    },
+    {
+        "id": 181,
+        "start": 455.68,
+        "end": 457.48,
+        "text": "Oh, Bandy.",
+        "emoji": "💬"
+    },
+    {
+        "id": 182,
+        "start": 457.48,
+        "end": 459.76,
+        "text": "I'm back! [Together] (SQUEAL)",
+        "emoji": "💬"
+    },
+    {
+        "id": 183,
+        "start": 460.2,
+        "end": 461.76,
+        "text": "You staying for dinner, Bandy?",
+        "emoji": "💬"
+    },
+    {
+        "id": 184,
+        "start": 461.76,
+        "end": 464.64,
+        "text": "I'm making my lasaaaa-gna.",
+        "emoji": "💬"
+    },
+    {
+        "id": 185,
+        "start": 464.64,
+        "end": 466.24,
+        "text": "Oh, great.",
+        "emoji": "💬"
+    },
+    {
+        "id": 186,
+        "start": 466.24,
+        "end": 467.64,
+        "text": "[Music] BLUEY THEME TUNE",
+        "emoji": "💬"
+    },
+    {
+        "id": 187,
+        "start": 471.24,
+        "end": 472.8,
+        "text": "Oh, man. I'm starving.",
+        "emoji": "💬"
+    },
+    {
+        "id": 188,
+        "start": 472.8,
+        "end": 476.2,
+        "text": "I need to eat something.  - Ah, no. Bandit.",
+        "emoji": "💬"
+    },
+    {
+        "id": 189,
+        "start": 476.28,
+        "end": 478.76,
+        "text": "What, am I not allowed to eat food if I'm hungry?",
+        "emoji": "💬"
+    },
+    {
+        "id": 190,
+        "start": 478.76,
+        "end": 480.88,
+        "text": "What kind of a regime is this?",
+        "emoji": "💬"
+    },
+    {
+        "id": 191,
+        "start": 480.88,
+        "end": 484.32,
+        "text": "- (Sighs) Carry on.  - I could go some chicken bucket.",
+        "emoji": "💬"
+    },
+    {
+        "id": 192,
+        "start": 484.32,
+        "end": 487.04,
+        "text": "Oh, I don't want to get in the car, though. Too much traffic.",
+        "emoji": "💬"
+    },
+    {
+        "id": 193,
+        "start": 487.04,
+        "end": 488.16,
+        "text": "That'll take ages.",
+        "emoji": "💬"
+    },
+    {
+        "id": 194,
+        "start": 488.16,
+        "end": 489.56,
+        "text": "I'm hungry now.",
+        "emoji": "💬"
+    },
+    {
+        "id": 195,
+        "start": 489.56,
+        "end": 493.12,
+        "text": "I'm just going to eat one of the kids.  - Agh!",
+        "emoji": "💬"
+    },
+    {
+        "id": 196,
+        "start": 493.56,
+        "end": 496.32,
+        "text": "You know the kids don't agree with you.",
+        "emoji": "💬"
+    },
+    {
+        "id": 197,
+        "start": 496.44,
+        "end": 499.16,
+        "text": "Ah, she'll be right. I'll have a peppermint tea after.",
+        "emoji": "💬"
+    },
+    {
+        "id": 198,
+        "start": 499.16,
+        "end": 503.4,
+        "text": "Put a bit of salt on first. Chew, chew, chew. Swallow.",
+        "emoji": "💬"
+    },
+    {
+        "id": 199,
+        "start": 503.72,
+        "end": 505.2,
+        "text": "Oh, man, that was good.",
+        "emoji": "💬"
+    },
+    {
+        "id": 200,
+        "start": 505.2,
+        "end": 506.72,
+        "text": "Kids really fill you up.",
+        "emoji": "💬"
+    },
+    {
+        "id": 201,
+        "start": 506.72,
+        "end": 508.16,
+        "text": "Was that so bad, Mum?",
+        "emoji": "💬"
+    },
+    {
+        "id": 202,
+        "start": 508.16,
+        "end": 510.36,
+        "text": "I'm just saying, the last time you ate a kid,",
+        "emoji": "💬"
+    },
+    {
+        "id": 203,
+        "start": 510.36,
+        "end": 511.2,
+        "text": "you were up all night.",
+        "emoji": "💬"
+    },
+    {
+        "id": 204,
+        "start": 511.44,
+        "end": 514.08,
+        "text": "It's all good. Oh, hang on.",
+        "emoji": "💬"
+    },
+    {
+        "id": 205,
+        "start": 514.08,
+        "end": 515.52,
+        "text": "Ugh. Oh, man.",
+        "emoji": "💬"
+    },
+    {
+        "id": 206,
+        "start": 515.52,
+        "end": 517.92,
+        "text": "Something's not sitting right. - See?",
+        "emoji": "💬"
+    },
+    {
+        "id": 207,
+        "start": 517.92,
+        "end": 519.96,
+        "text": "- He-he! Hi! - Ah, Bingo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 208,
+        "start": 519.96,
+        "end": 521.44,
+        "text": "I'm not feeling so good.",
+        "emoji": "💬"
+    },
+    {
+        "id": 209,
+        "start": 521.44,
+        "end": 523.28,
+        "text": "It might have been something I ate...",
+        "emoji": "💬"
+    },
+    {
+        "id": 210,
+        "start": 523.28,
+        "end": 524.72,
+        "text": "Might have been?",
+        "emoji": "💬"
+    },
+    {
+        "id": 211,
+        "start": 524.72,
+        "end": 527.72,
+        "text": "Oh, man, guts are crook.",
+        "emoji": "💬"
+    },
+    {
+        "id": 212,
+        "start": 528.12,
+        "end": 531.12,
+        "text": "(MAKES VOMITING NOISE)",
+        "emoji": "💬"
+    },
+    {
+        "id": 213,
+        "start": 532.04,
+        "end": 533.04,
+        "text": "Ah, sorry, Bingo.",
+        "emoji": "💬"
+    },
+    {
+        "id": 214,
+        "start": 533.04,
+        "end": 534.48,
+        "text": "I didn't mean to chunder on you.",
+        "emoji": "💬"
+    },
+    {
+        "id": 215,
+        "start": 534.48,
+        "end": 537.0,
+        "text": "- That's OK. - Urgh.",
+        "emoji": "💬"
+    },
+    {
+        "id": 216,
+        "start": 537.0,
+        "end": 539.12,
+        "text": "(BURPS) - Are you finished?",
+        "emoji": "💬"
+    },
+    {
+        "id": 217,
+        "start": 539.12,
+        "end": 540.48,
+        "text": "- Yep.  - Good.",
+        "emoji": "💬"
+    },
+    {
+        "id": 218,
+        "start": 540.48,
+        "end": 542.6,
+        "text": "I hope you've learned your lesson.",
+        "emoji": "💬"
+    },
+    {
+        "id": 219,
+        "start": 542.6,
+        "end": 546.4,
+        "text": "Oh, man. Still a bit hungry. (SNIFFS)",
+        "emoji": "💬"
+    },
+    {
+        "id": 220,
+        "start": 546.44,
+        "end": 549.72,
+        "text": "Mm. Smells OK... Hoo-argh!",
+        "emoji": "💬"
+    },
+    {
+        "id": 221,
+        "start": 549.72,
+        "end": 552.12,
+        "text": "(SQUEALING) - Ah, Bandit, no!",
+        "emoji": "💬"
+    },
+    {
+        "id": 222,
+        "start": 552.12,
+        "end": 554.48,
+        "text": "[Music] BLUEY THEME TUNE",
+        "emoji": "💬"
+    },
+    {
+        "id": 223,
+        "start": 555.16,
+        "end": 557.28,
+        "text": "(GIGGLING)",
+        "emoji": "💬"
+    },
+    {
+        "id": 224,
+        "start": 557.28,
+        "end": 558.6,
+        "text": "Can we have a story, Dad?",
+        "emoji": "💬"
+    },
+    {
+        "id": 225,
+        "start": 558.6,
+        "end": 560.44,
+        "text": "OK. How about the three little pigs?",
+        "emoji": "💬"
+    },
+    {
+        "id": 226,
+        "start": 560.44,
+        "end": 562.8,
+        "text": "[Together] Yeah!  - Can you make it funny?",
+        "emoji": "💬"
+    },
+    {
+        "id": 227,
+        "start": 562.8,
+        "end": 565.92,
+        "text": "OK. One day, there were these three little pigs called Jingo,",
+        "emoji": "💬"
+    },
+    {
+        "id": 228,
+        "start": 565.92,
+        "end": 567.96,
+        "text": "Gruey and, er... Jimmy or something.",
+        "emoji": "💬"
+    },
+    {
+        "id": 229,
+        "start": 567.96,
+        "end": 570.04,
+        "text": "But Jimmy was on a team building course for work,",
+        "emoji": "💬"
+    },
+    {
+        "id": 230,
+        "start": 570.04,
+        "end": 571.4,
+        "text": "so we won't see him much.",
+        "emoji": "💬"
+    },
+    {
+        "id": 231,
+        "start": 572.0,
+        "end": 574.92,
+        "text": "So the first pig, Jingo, built her house out of straw.",
+        "emoji": "💬"
+    },
+    {
+        "id": 232,
+        "start": 574.92,
+        "end": 576.76,
+        "text": "And one day, the Big Bad Wolf rocks up",
+        "emoji": "💬"
+    },
+    {
+        "id": 233,
+        "start": 576.76,
+        "end": 578.72,
+        "text": "and says, “Little pig, little pig, let me in.”",
+        "emoji": "💬"
+    },
+    {
+        "id": 234,
+        "start": 578.76,
+        "end": 581.64,
+        "text": "But Jingo says, “No way, mate. I’m making nachos.”",
+        "emoji": "💬"
+    },
+    {
+        "id": 235,
+        "start": 581.64,
+        "end": 582.68,
+        "text": "So the wolf’s like,",
+        "emoji": "💬"
+    },
+    {
+        "id": 236,
+        "start": 582.68,
+        "end": 585.32,
+        "text": "“Ah, I just want to talk to you about your electricity provider.”",
+        "emoji": "💬"
+    },
+    {
+        "id": 237,
+        "start": 585.32,
+        "end": 587.0,
+        "text": "Jingo’s like, “Oh, that sounds good,”",
+        "emoji": "💬"
+    },
+    {
+        "id": 238,
+        "start": 587.0,
+        "end": 589.0,
+        "text": "and she's about to open the door and then she remembers –",
+        "emoji": "💬"
+    },
+    {
+        "id": 239,
+        "start": 589.0,
+        "end": 591.92,
+        "text": "“Hang on! I've got solar! Jog on, chief.”",
+        "emoji": "💬"
+    },
+    {
+        "id": 240,
+        "start": 591.92,
+        "end": 595.84,
+        "text": "So the Big Bad Wolf huffed and puffed and blew the house in.  - Dad...",
+        "emoji": "💬"
+    },
+    {
+        "id": 241,
+        "start": 595.96,
+        "end": 599.76,
+        "text": "(WHISPERS) - So Jingo called the police, and the police came,",
+        "emoji": "💬"
+    },
+    {
+        "id": 242,
+        "start": 600.0,
+        "end": 602.08,
+        "text": "and the little pig, Jingo, was cacking herself",
+        "emoji": "💬"
+    },
+    {
+        "id": 243,
+        "start": 602.08,
+        "end": 603.48,
+        "text": "and filming it all on her phone",
+        "emoji": "💬"
+    },
+    {
+        "id": 244,
+        "start": 603.48,
+        "end": 604.84,
+        "text": "and posting it on the ‘Gram",
+        "emoji": "💬"
+    },
+    {
+        "id": 245,
+        "start": 604.84,
+        "end": 606.16,
+        "text": "and getting heaps of new followers",
+        "emoji": "💬"
+    },
+    {
+        "id": 246,
+        "start": 606.16,
+        "end": 607.08,
+        "text": "And the wolf’s all like,",
+        "emoji": "💬"
+    },
+    {
+        "id": 247,
+        "start": 607.08,
+        "end": 608.28,
+        "text": "“I didn't do nothing!”",
+        "emoji": "💬"
+    },
+    {
+        "id": 248,
+        "start": 608.28,
+        "end": 610.52,
+        "text": "but the cops aren’t buying all that and they’re like,",
+        "emoji": "💬"
+    },
+    {
+        "id": 249,
+        "start": 610.52,
+        "end": 611.88,
+        "text": "“You got three priors, mate,",
+        "emoji": "💬"
+    },
+    {
+        "id": 250,
+        "start": 611.88,
+        "end": 614.68,
+        "text": "and that Monaro’s stolen, so tell it to the judge, buddy.”",
+        "emoji": "💬"
+    },
+    {
+        "id": 251,
+        "start": 614.68,
+        "end": 616.56,
+        "text": "So they put the wolf in jail.",
+        "emoji": "💬"
+    },
+    {
+        "id": 252,
+        "start": 616.56,
+        "end": 618.56,
+        "text": "Then the other pig, Gruey,",
+        "emoji": "💬"
+    },
+    {
+        "id": 253,
+        "start": 618.56,
+        "end": 620.64,
+        "text": "came and helped rebuild Jingo's house.",
+        "emoji": "💬"
+    },
+    {
+        "id": 254,
+        "start": 620.64,
+        "end": 623.8,
+        "text": "but this time, she used Besser blocks. - Dad, wait!",
+        "emoji": "💬"
+    },
+    {
+        "id": 255,
+        "start": 623.8,
+        "end": 625.28,
+        "text": "- Ah, yep. - (WHISPERS)",
+        "emoji": "💬"
+    },
+    {
+        "id": 256,
+        "start": 625.68,
+        "end": 628.32,
+        "text": "And they built a rad pool shaped like an ice cream cone",
+        "emoji": "💬"
+    },
+    {
+        "id": 257,
+        "start": 628.32,
+        "end": 631.4,
+        "text": "and filled it with lemonade. Wow. Good idea.",
+        "emoji": "💬"
+    },
+    {
+        "id": 258,
+        "start": 631.4,
+        "end": 634.2,
+        "text": "Meanwhile, the Big Bad Wolf scored a softy judge",
+        "emoji": "💬"
+    },
+    {
+        "id": 259,
+        "start": 634.2,
+        "end": 635.88,
+        "text": "and was out of jail on good behaviour.",
+        "emoji": "💬"
+    },
+    {
+        "id": 260,
+        "start": 636.2,
+        "end": 638.96,
+        "text": "But the judge said, “You gotta go say sorry to those pigs,",
+        "emoji": "💬"
+    },
+    {
+        "id": 261,
+        "start": 638.96,
+        "end": 640.52,
+        "text": "or you're back in here, buddy.”",
+        "emoji": "💬"
+    },
+    {
+        "id": 262,
+        "start": 640.52,
+        "end": 642.64,
+        "text": "So the wolf walked round to Jingo’s new joint",
+        "emoji": "💬"
+    },
+    {
+        "id": 263,
+        "start": 642.64,
+        "end": 645.0,
+        "text": "and Jingo and Gruey said, “Yeah, mate, it’s all cool.",
+        "emoji": "💬"
+    },
+    {
+        "id": 264,
+        "start": 645.0,
+        "end": 646.24,
+        "text": "Just don't try and eat us.”",
+        "emoji": "💬"
+    },
+    {
+        "id": 265,
+        "start": 646.24,
+        "end": 647.0,
+        "text": "And the wolf's like,",
+        "emoji": "💬"
+    },
+    {
+        "id": 266,
+        "start": 647.0,
+        "end": 650.08,
+        "text": "“Yeah, fair enough. I'm going vegan anyway. I just did tofu.”",
+        "emoji": "💬"
+    },
+    {
+        "id": 267,
+        "start": 650.08,
+        "end": 652.8,
+        "text": "So they invited him in for a swim to try and make friends,",
+        "emoji": "💬"
+    },
+    {
+        "id": 268,
+        "start": 652.8,
+        "end": 655.8,
+        "text": "but he kept peeing in the pool! [Together] Eeuuww!",
+        "emoji": "💬"
+    },
+    {
+        "id": 269,
+        "start": 656.2,
+        "end": 658.8,
+        "text": "So the pigs were like, “Stop peeing in our pool, mate!",
+        "emoji": "💬"
+    },
+    {
+        "id": 270,
+        "start": 658.8,
+        "end": 660.6,
+        "text": "It’s lemonade and we're trying to drink it!”",
+        "emoji": "💬"
+    },
+    {
+        "id": 271,
+        "start": 660.6,
+        "end": 662.48,
+        "text": "But really, even if it wasn't lemonade,",
+        "emoji": "💬"
+    },
+    {
+        "id": 272,
+        "start": 662.48,
+        "end": 663.52,
+        "text": "you shouldn't do it anyway.",
+        "emoji": "💬"
+    },
+    {
+        "id": 273,
+        "start": 663.52,
+        "end": 664.52,
+        "text": "It's full of nitrates",
+        "emoji": "💬"
+    },
+    {
+        "id": 274,
+        "start": 664.52,
+        "end": 666.84,
+        "text": "and now we're going to have to put heaps of algicide in.",
+        "emoji": "💬"
+    },
+    {
+        "id": 275,
+        "start": 666.84,
+        "end": 668.68,
+        "text": "But the Big Bad Wolf kept saying,",
+        "emoji": "💬"
+    },
+    {
+        "id": 276,
+        "start": 668.68,
+        "end": 670.24,
+        "text": "“Look, I didn’t pee in the pool!”",
+        "emoji": "💬"
+    },
+    {
+        "id": 277,
+        "start": 670.24,
+        "end": 670.96,
+        "text": "And the pigs are like,",
+        "emoji": "💬"
+    },
+    {
+        "id": 278,
+        "start": 670.96,
+        "end": 672.2,
+        "text": "“Yeah, you did,” and he’s like,",
+        "emoji": "💬"
+    },
+    {
+        "id": 279,
+        "start": 672.2,
+        "end": 673.88,
+        "text": "“Nah-ah, I don't do that sort of thing.",
+        "emoji": "💬"
+    },
+    {
+        "id": 280,
+        "start": 673.88,
+        "end": 675.08,
+        "text": "It's against my religion.”",
+        "emoji": "💬"
+    },
+    {
+        "id": 281,
+        "start": 675.08,
+        "end": 677.64,
+        "text": "So the next day, they put the stuff in the pool",
+        "emoji": "💬"
+    },
+    {
+        "id": 282,
+        "start": 677.64,
+        "end": 680.12,
+        "text": "that makes lemonade turn purple if you pee in it.",
+        "emoji": "💬"
+    },
+    {
+        "id": 283,
+        "start": 680.12,
+        "end": 681.88,
+        "text": "They didn't tell this to the Big Bad Wolf.",
+        "emoji": "💬"
+    },
+    {
+        "id": 284,
+        "start": 681.88,
+        "end": 684.28,
+        "text": "And he’s there swimming, eating some couscous,",
+        "emoji": "💬"
+    },
+    {
+        "id": 285,
+        "start": 684.28,
+        "end": 685.56,
+        "text": "talking about the Broncos.",
+        "emoji": "💬"
+    },
+    {
+        "id": 286,
+        "start": 685.56,
+        "end": 688.16,
+        "text": "Then he goes all quiet and stares into space for a second",
+        "emoji": "💬"
+    },
+    {
+        "id": 287,
+        "start": 688.16,
+        "end": 689.92,
+        "text": "with this sort of faraway look in his eyes.",
+        "emoji": "💬"
+    },
+    {
+        "id": 288,
+        "start": 689.92,
+        "end": 691.68,
+        "text": "And the kids are like, “Here we go... ”",
+        "emoji": "💬"
+    },
+    {
+        "id": 289,
+        "start": 691.68,
+        "end": 694.16,
+        "text": "And suddenly the lemonade turns purple around him",
+        "emoji": "💬"
+    },
+    {
+        "id": 290,
+        "start": 694.16,
+        "end": 694.92,
+        "text": "and the pigs are like,",
+        "emoji": "💬"
+    },
+    {
+        "id": 291,
+        "start": 694.92,
+        "end": 697.24,
+        "text": "“Ah, see! You’re a grub!”",
+        "emoji": "💬"
+    },
+    {
+        "id": 292,
+        "start": 697.24,
+        "end": 699.56,
+        "text": "So the wolf was really embarrassed and he ran out crying",
+        "emoji": "💬"
+    },
+    {
+        "id": 293,
+        "start": 699.56,
+        "end": 700.56,
+        "text": "and they never saw him again.",
+        "emoji": "💬"
+    },
+    {
+        "id": 294,
+        "start": 700.56,
+        "end": 701.84,
+        "text": "But apparently, he went on to become",
+        "emoji": "💬"
+    },
+    {
+        "id": 295,
+        "start": 701.84,
+        "end": 703.32,
+        "text": "quite a successful tennis player.",
+        "emoji": "💬"
+    },
+    {
+        "id": 296,
+        "start": 703.32,
+        "end": 704.6,
+        "text": "So, you know, the system works.",
+        "emoji": "💬"
+    },
+    {
+        "id": 297,
+        "start": 704.6,
+        "end": 705.56,
+        "text": "The end.",
+        "emoji": "💬"
+    },
+    {
+        "id": 298,
+        "start": 705.56,
+        "end": 707.08,
+        "text": "[Together] Again!  - No.",
+        "emoji": "💬"
+    },
+    {
+        "id": 299,
+        "start": 707.16,
+        "end": 709.52,
+        "text": "[Music] BLUEY THEME TUNE",
+        "emoji": "💬"
+    },
+    {
+        "id": 300,
+        "start": 712.16,
+        "end": 714.8,
+        "text": "One day, there was a lovely big field",
+        "emoji": "💬"
+    },
+    {
+        "id": 301,
+        "start": 714.8,
+        "end": 719.28,
+        "text": "with grass blowing gently in the breeze. (BLOWS) - (GIGGLES)",
+        "emoji": "💬"
+    },
+    {
+        "id": 302,
+        "start": 719.48,
+        "end": 721.72,
+        "text": "When along came... an antelope!",
+        "emoji": "💬"
+    },
+    {
+        "id": 303,
+        "start": 721.72,
+        "end": 723.92,
+        "text": "Doing, doing, doing! Doing-doing-doing!",
+        "emoji": "💬"
+    },
+    {
+        "id": 304,
+        "start": 723.92,
+        "end": 727.36,
+        "text": "But the antelope was chased away by a... cheetah!",
+        "emoji": "💬"
+    },
+    {
+        "id": 305,
+        "start": 727.36,
+        "end": 730.0,
+        "text": "Purr! Purr! Purr! Purr!",
+        "emoji": "💬"
+    },
+    {
+        "id": 306,
+        "start": 730.0,
+        "end": 731.88,
+        "text": "Then the cheetah got tired",
+        "emoji": "💬"
+    },
+    {
+        "id": 307,
+        "start": 731.88,
+        "end": 735.28,
+        "text": "and along came some tiny little ants.",
+        "emoji": "💬"
+    },
+    {
+        "id": 308,
+        "start": 735.28,
+        "end": 738.04,
+        "text": "(MEUW NOISE) - (GIGGLES)",
+        "emoji": "💬"
+    },
+    {
+        "id": 309,
+        "start": 738.24,
+        "end": 741.24,
+        "text": "But then came an elephant.",
+        "emoji": "💬"
+    },
+    {
+        "id": 310,
+        "start": 741.24,
+        "end": 744.88,
+        "text": "Boom-ba-ba, boom-ba-ba, boom-ba-ba, boom!",
+        "emoji": "💬"
+    },
+    {
+        "id": 311,
+        "start": 745.04,
+        "end": 747.0,
+        "text": "The elephant left. Phew!",
+        "emoji": "💬"
+    },
+    {
+        "id": 312,
+        "start": 747.0,
+        "end": 751.6,
+        "text": "And along came a spider.  - (SQUEALS)",
+        "emoji": "💬"
+    },
+    {
+        "id": 313,
+        "start": 751.88,
+        "end": 752.84,
+        "text": "Go away, spider!",
+        "emoji": "💬"
+    },
+    {
+        "id": 314,
+        "start": 753.24,
+        "end": 755.92,
+        "text": "No more creepy animals, thanks.  - Phew.",
+        "emoji": "💬"
+    },
+    {
+        "id": 315,
+        "start": 755.92,
+        "end": 759.76,
+        "text": "- Oh, wait, here's a snake! Sssss! - Aaaah!",
+        "emoji": "💬"
+    },
+    {
+        "id": 316,
+        "start": 759.84,
+        "end": 761.76,
+        "text": "Frog! Ribbit. - (LAUGHS)",
+        "emoji": "💬"
+    },
+    {
+        "id": 317,
+        "start": 762.04,
+        "end": 763.48,
+        "text": "Ribbit. - (LAUGHS)",
+        "emoji": "💬"
+    },
+    {
+        "id": 318,
+        "start": 763.56,
+        "end": 764.76,
+        "text": "Ribbit. - (LAUGHS)",
+        "emoji": "💬"
+    },
+    {
+        "id": 319,
+        "start": 764.92,
+        "end": 768.28,
+        "text": "Ah, the frog’s gone and along comes a pussycat.",
+        "emoji": "💬"
+    },
+    {
+        "id": 320,
+        "start": 768.36,
+        "end": 769.16,
+        "text": "Oh, no!",
+        "emoji": "💬"
+    },
+    {
+        "id": 321,
+        "start": 769.16,
+        "end": 772.36,
+        "text": "Oh, no, Bingo. This cat wants to have a nap.",
+        "emoji": "💬"
+    },
+    {
+        "id": 322,
+        "start": 772.36,
+        "end": 775.88,
+        "text": "She uses her claws to make a nice bed!",
+        "emoji": "💬"
+    },
+    {
+        "id": 323,
+        "start": 775.88,
+        "end": 779.12,
+        "text": "Miaow! Miaow! Miaow! Miaow!  - (SQUEALS)",
+        "emoji": "💬"
+    },
+    {
+        "id": 324,
+        "start": 779.28,
+        "end": 781.64,
+        "text": "Ah, the cat’s asleep.",
+        "emoji": "💬"
+    },
+    {
+        "id": 325,
+        "start": 781.8,
+        "end": 784.8,
+        "text": "All is well. - Ahh...",
+        "emoji": "💬"
+    },
+    {
+        "id": 326,
+        "start": 786.8,
+        "end": 788.64,
+        "text": "Dinosaur! Roar!",
+        "emoji": "💬"
+    },
+    {
+        "id": 327,
+        "start": 788.72,
+        "end": 791.64,
+        "text": "[Music] BLUEY THEME TUNE",
+        "emoji": "💬"
+    }
+]

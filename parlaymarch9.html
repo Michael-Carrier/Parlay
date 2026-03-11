@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Parlay - Language Practice</title>
+    <link rel="stylesheet" href="https://pyscript.net/latest/pyscript.css" />
+    <script defer src="https://pyscript.net/latest/pyscript.js"></script>
+    
+    <style>
+        body { font-family: 'Segoe UI', system-ui, sans-serif; margin: 0; background: #f8f9fa; }
+        
+        /* Splash Screen */
+        #login-screen {
+            display: flex; flex-direction: column; align-items: center; justify-content: center;
+            height: 100vh; background: #1a1a1a; color: white;
+        }
+
+        /* Top Nav */
+        .top-nav {
+            display: none; justify-content: space-between; align-items: center;
+            background: white; padding: 10px 30px; border-bottom: 1px solid #ddd;
+            position: sticky; top: 0;
+        }
+
+        .nav-center { display: flex; gap: 10px; }
+        .nav-btn {
+            padding: 8px 15px; border: 1px solid #333; background: white;
+            border-radius: 5px; cursor: pointer; font-size: 14px;
+        }
+        .nav-btn:hover { background: #333; color: white; }
+
+        .nav-right { display: flex; gap: 10px; }
+        select { padding: 5px; border-radius: 4px; border: 1px solid #ccc; }
+
+        .main-content { padding: 20px; display: none; }
+        .hero-title { font-size: 4rem; letter-spacing: -2px; margin: 0; }
+
+        .transcript-row:hover {
+            background-color: #e9ecef;
+            border-radius: 8px;
+            transform: scale(1.01);
+            transition: 0.2s;
+        }
+
+    </style>
+</head>
+<body>
+
+    <div id="login-screen">
+        <h1 class="hero-title">Parlay</h1>
+        <p>Who is joining the conversation?</p>
+        <select id="user-select" style="width: 200px; padding: 10px;">
+            <option>Loading users...</option>
+        </select>
+        <button id="enter-btn" style="margin-top:20px; padding: 10px 40px; cursor:pointer; background:#fff; border:none; font-weight:bold;">Enter</button>
+    </div>
+
+    <nav class="top-nav" id="top-nav">
+        <div id="active-user" style="font-weight:bold;">User: —</div>
+        
+        <div class="nav-center">
+            <button class="nav-btn" onclick="showProgressReport()">Progress Report</button>
+            <button class="nav-btn" onclick="showLetsRead()">Let's Read</button>
+            <button class="nav-btn">We Recommend</button>
+            <button class="nav-btn">Review</button>
+        </div>
+
+        <div class="nav-right">
+            <select id="lang-select"></select>
+            <select id="level-select"></select>
+        </div>
+    </nav>
+
+    <main class="main-content" id="main-content">
+        <div style="background:white; padding:40px; border-radius:10px; border:1px solid #eee; min-height:300px;">
+            <h2>Welcome to the Practice Space</h2>
+            <p>Your session settings are ready in the top right.</p>
+        </div>
+    </main>
+
+<script>
+
+    // Global variables to track the current state
+    let currentEpisodeLines = [];
+    let currentIndex = 0;
+
+    // This is your live database in memory
+    let studentDatabase = {
+        "user": "Michael",
+        "history": {} 
+    };
+
+
+
+    async function showLetsRead() {
+        const panel = document.getElementById('main-content');
+        panel.innerHTML = `<h2>Escolha um episódio (Portuguese)</h2><div id="bookshelf" style="display:grid; grid-template-columns: 1fr 1fr; gap:15px;"></div>`;
+
+        try {
+            // 1. Fetch the list of episodes
+            const response = await fetch('./pt/manifest.json');
+            const data = await response.json();
+            const bookshelf = document.getElementById('bookshelf');
+
+            // 2. Create a button for each JSON file found
+            data.episodes.forEach(ep => {
+                const btn = document.createElement('button');
+                btn.className = "nav-btn";
+                btn.style.padding = "20px";
+                btn.innerText = ep.title;
+                btn.onclick = () => loadEpisode(ep.file);
+                bookshelf.appendChild(btn);
+            });
+        } catch (e) {
+            panel.innerHTML = "<p>Error loading the episode list. Make sure manifest.json exists in /pt/</p>";
+        }
+    }
+
+
+    async function loadEpisode(filePath) {
+        const panel = document.getElementById('main-content');
+        panel.innerHTML = "<h3>Carregando...</h3>";
+
+        try {
+            const response = await fetch(filePath);
+            // Save the lines globally so we can move between them
+            currentEpisodeLines = await response.json();
+            
+            // Start by focusing on the very first line (Index 0)
+            showLineFocus(0);
+        } catch (e) {
+            panel.innerHTML = "<p>Error: Could not load the episode file.</p>";
+            console.error(e);
+        }
+    }
+
+    function openFocusWindow(line) {
+        // Create a simple overlay
+        const overlay = document.createElement('div');
+        overlay.id = "focus-overlay";
+        overlay.style = "position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.8); display:flex; align-items:center; justify-content:center; z-index:1000;";
+        
+        overlay.innerHTML = `
+            <div style="background:white; padding:40px; border-radius:15px; max-width:500px; text-align:center; position:relative;">
+                <button onclick="closeFocusWindow()" style="position:absolute; top:10px; right:10px; border:none; background:none; font-size:20px; cursor:pointer;">✕</button>
+                <span style="font-size:4rem;">${line.emoji || '💬'}</span>
+                <h2 style="margin:20px 0;">${line.text}</h2>
+                
+                <div style="display:flex; gap:10px; justify-content:center; margin-top:30px;">
+                    <button class="nav-btn" style="background:#007bff; color:white; border:none;" onclick="playSnippet(${line.start}, ${line.end})">
+                        Listen to Clip 🔊
+                    </button>
+                    <button class="nav-btn" style="background:#28a745; color:white; border:none;" onclick="startSpeechRecognition('${line.text}')">
+                        Start Practice 🎤
+                    </button>
+                </div>
+                <div id="stt-feedback" style="margin-top:20px; font-weight:bold; color: #555;"></div>
+            </div>
+        `;
+        document.body.appendChild(overlay);
+    }
+
+        function showLineFocus(index) {
+        currentIndex = index;
+        const line = currentEpisodeLines[index];
+        const panel = document.getElementById('main-content');
+
+        panel.innerHTML = `
+            <div id="drill-container" style="max-width: 600px; margin: 0 auto; text-align: center;">
+                
+                <div style="background: white; padding: 30px; border-radius: 10px; border: 1px solid #ddd; margin-bottom: 20px;">
+                    <span style="font-size: 3rem;">${line.emoji || '💬'}</span>
+                    <h1 style="font-size: 2.5rem; margin: 10px 0;">${line.text}</h1>
+                </div>
+
+                <div style="background: #eef2f7; padding: 20px; border-radius: 10px; border: 2px dashed #cbd5e0; min-height: 100px; margin-bottom: 20px;">
+                    <p id="stt-output" style="color: #4a5568; font-style: italic;">Your speech will appear here...</p>
+                    <button id="record-btn" class="nav-btn" style="background: #ff4757; color: white; border: none; padding: 15px 30px; font-size: 1.2rem;" onclick="startRecording()">
+                        🎤 Start Recording
+                    </button>
+                </div>
+
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 40px;">
+                    <button class="nav-btn" onclick="changeLine(-1)" ${currentIndex === 0 ? 'disabled' : ''}>← Previous</button>
+                    <span>Line ${currentIndex + 1} of ${currentEpisodeLines.length}</span>
+                    <button class="nav-btn" onclick="changeLine(1)" ${currentIndex === currentEpisodeLines.length - 1 ? 'disabled' : ''}>Next →</button>
+                </div>
+
+                <div id="youtube-placeholder" style="margin-top: 20px; color: #888; font-size: 0.8rem;">
+                    (YouTube Widget will load here)
+                </div>
+            </div>
+        `;
+    }
+
+    function changeLine(step) {
+        const newIndex = currentIndex + step;
+        if (newIndex >= 0 && newIndex < currentEpisodeLines.length) {
+            showLineFocus(newIndex);
+        }
+    }
+
+
+    function updateWordHistory(results) {
+        results.forEach(item => {
+            const word = item.word;
+            
+            if (!studentDatabase.history[word]) {
+                studentDatabase.history[word] = [];
+            }
+
+            // Add the latest attempt (true/false)
+            studentDatabase.history[word].push(item.success);
+            
+            // Optional: Keep only the last 10 attempts to keep the JSON small
+            if (studentDatabase.history[word].length > 10) {
+                studentDatabase.history[word].shift();
+            }
+        });
+        
+        console.log("Updated History for:", studentDatabase.user);
+    }
+
+    // This connects to the browser's built-in "ear"
+    const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+    let recognition;
+
+    if (SpeechRecognition) {
+        recognition = new SpeechRecognition();
+        recognition.continuous = false;
+        // Set this based on your lang-select dropdown!
+        recognition.lang = 'pt-BR'; 
+        recognition.interimResults = false;
+
+        recognition.onresult = (event) => {
+            const transcript = event.results[0][0].transcript;
+            const targetText = currentEpisodeLines[currentIndex].text;
+            const output = document.getElementById('stt-output');
+
+            // 1. Clean punctuation and lowercase for the LOGIC
+            const cleanSpeech = transcript.toLowerCase().replace(/[.,!?;:]/g, "").split(" ");
+            const cleanTarget = targetText.toLowerCase().replace(/[.,!?;:]/g, "").split(" ");
+            
+            // 2. Keep the original words for the DISPLAY (so it looks nice)
+            const displayTarget = targetText.split(" ");
+
+            let highlightedHTML = "";
+            let sessionResults = [];
+
+            cleanTarget.forEach((word, i) => {
+                // Check if the word exists anywhere in the user's speech snippet
+                const isCorrect = cleanSpeech.includes(word);
+                const color = isCorrect ? "#28a745" : "#dc3545";
+                
+                // Use the original word (with punctuation) for the UI
+                highlightedHTML += `<span style="color: ${color}; font-weight: bold; font-size: 1.5rem;">${displayTarget[i]} </span>`;
+                
+                sessionResults.push({ word: word, success: isCorrect });
+            });
+
+            output.innerHTML = `<div>${highlightedHTML}</div><p style="color:#888;">AI heard: "${transcript}"</p>`;
+            
+            // Save to your background database
+            updateWordHistory(sessionResults);
+        };
+
+
+        recognition.onend = () => {
+            const btn = document.getElementById('record-btn');
+            btn.innerText = "🎤 Start Recording";
+            btn.style.opacity = "1";
+        };
+    }
+
+    function startRecording() {
+        if (!recognition) {
+            alert("Speech recognition is not supported in this browser. Try Chrome!");
+            return;
+        }
+
+        // Update the UI to show we are listening
+        const output = document.getElementById('stt-output');
+        const btn = document.getElementById('record-btn');
+        
+        output.innerText = "Listening...";
+        btn.innerText = "🛑 Listening...";
+        btn.style.opacity = "0.5";
+
+        recognition.start();
+    }
+
+    function closeFocusWindow() {
+        const overlay = document.getElementById('focus-overlay');
+        if (overlay) overlay.remove();
+    }    
+
+    function openBook(story) {
+        const panel = document.getElementById('main-panel');
+        panel.innerHTML = `<h2>${story.title}</h2><div id="reader-view"></div>`;
+        
+        story.pages.forEach(page => {
+            panel.innerHTML += `
+                <div style="display:flex; align-items:center; margin-bottom:20px; border-bottom:1px solid #eee; padding-bottom:10px;">
+                    <img src="${page.img}" style="width:150px; border-radius:10px; margin-right:20px;">
+                    <p style="font-size:1.2rem;">${page.text}</p>
+                </div>
+            `;
+        });
+    }
+
+    function showProgressReport() {
+        const panel = document.getElementById('main-content');
+        
+        // Convert the live history into a clean string for inspection
+        const rawData = JSON.stringify(studentDatabase.history, null, 2);
+        const words = Object.keys(studentDatabase.history);
+
+        panel.innerHTML = `
+            <div style="background: white; padding: 30px; border-radius: 15px; border: 1px solid #eee;">
+                <h2>Data Audit: ${studentDatabase.user}</h2>
+                <p>Unique words recorded: <strong>${words.length}</strong></p>
+                
+                <div style="margin-top:20px;">
+                    <h4 style="color:#666;">Raw JSON History:</h4>
+                    <pre style="background: #2d3436; color: #fab1a0; padding: 20px; border-radius: 10px; max-height: 300px; overflow-y: scroll; font-family: monospace; font-size: 0.9rem;">
+    ${words.length > 0 ? rawData : "// No words recorded yet. Go read a line!"}
+                    </pre>
+                </div>
+
+                <button class="nav-btn" style="margin-top: 20px;" onclick="showLetsRead()">Back to Reading</button>
+            </div>
+        `;
+    }
+
+
+
+    async function loadConfigs() {
+        try {
+            // 1. Load Users
+            const userRes = await fetch('./users.json');
+            const userData = await userRes.json();
+            const userDrop = document.getElementById('user-select');
+            userDrop.innerHTML = ""; // Clear "Loading..."
+            userData.friends.forEach(name => {
+                let opt = new Option(name, name);
+                userDrop.add(opt);
+            });
+
+            // 2. Load Languages
+            const langRes = await fetch('./languages.json');
+            const langData = await langRes.json();
+            const langDrop = document.getElementById('lang-select');
+            langData.supported_languages.forEach(lang => {
+                let opt = new Option(lang.name, lang.code);
+                langDrop.add(opt);
+            });
+
+            // 3. Load Levels
+            const levelRes = await fetch('./levels.json');
+            const levelData = await levelRes.json();
+            const levelDrop = document.getElementById('level-select');
+            levelData.proficiency_levels.forEach(lvl => {
+                let opt = new Option(lvl.id, lvl.id);
+                levelDrop.add(opt);
+            });
+
+        } catch (error) {
+            console.error("Error loading JSON files:", error);
+            document.getElementById('user-select').innerHTML = "<option>Error loading users</option>";
+        }
+    }
+
+    // Run this as soon as the page loads
+    window.onload = loadConfigs;
+
+    // The Login Switcher
+    document.getElementById('enter-btn').addEventListener('click', () => {
+        const selectedUser = document.getElementById('user-select').value;
+        if (selectedUser) {
+            document.getElementById('login-screen').style.display = 'none';
+            document.getElementById('top-nav').style.display = 'flex';
+            document.getElementById('main-content').style.display = 'block';
+            document.getElementById('active-user').innerText = "User: " + selectedUser;
+        }
+    });
+</script>
+
+</body>
+</html>

@@ -1,0 +1,774 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Parlay - Language Practice</title>
+    <style>
+        body { font-family: 'Segoe UI', system-ui, sans-serif; margin: 0; background: #f8f9fa; }
+        
+        #login-screen {
+            display: flex; flex-direction: column; align-items: center; justify-content: center;
+            height: 100vh; background: #1a1a1a; color: white;
+        }
+
+        .top-nav {
+            display: none; justify-content: space-between; align-items: center;
+            background: white; padding: 10px 30px; border-bottom: 1px solid #ddd;
+            position: sticky; top: 0;
+        }
+
+        .nav-center { display: flex; gap: 10px; }
+        .nav-btn {
+            padding: 8px 15px; border: 1px solid #333; background: white;
+            border-radius: 5px; cursor: pointer; font-size: 14px;
+        }
+        .nav-btn:hover { background: #333; color: white; }
+
+        .nav-right { display: flex; gap: 10px; }
+        select { padding: 5px; border-radius: 4px; border: 1px solid #ccc; }
+
+        .main-content { padding: 20px; display: none; }
+        .hero-title { font-size: 4rem; letter-spacing: -2px; margin: 0; }
+
+        .transcript-row:hover {
+            background-color: #e9ecef;
+            border-radius: 8px;
+            transform: scale(1.01);
+            transition: 0.2s;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="login-screen">
+        <h1 class="hero-title">Parlay</h1>
+        <p>Who is joining the conversation?</p>
+        <select id="user-select" style="width: 200px; padding: 10px;">
+            <option>Loading users...</option>
+        </select>
+        <button id="enter-btn" style="margin-top:20px; padding: 10px 40px; cursor:pointer; background:#fff; border:none; font-weight:bold;">Enter</button>
+    </div>
+
+    <nav class="top-nav" id="top-nav">
+        <div id="active-user" style="font-weight:bold;">User: —</div>
+        
+        <div class="nav-center">
+            <button class="nav-btn" onclick="showProgressReport()">Progress Report</button>
+            <button class="nav-btn" onclick="showLetsRead()">Let's Read</button>
+            <!-- <button class="nav-btn">We Recommend</button> -->
+            <!-- <button class="nav-btn">Review</button> -->
+        </div>
+
+        <div class="nav-right">
+            <select id="lang-select" onchange="updateRecognitionLanguage()"></select>
+            <select id="level-select"></select>
+        </div>
+    </nav>
+
+    <main class="main-content" id="main-content">
+        <div style="background:white; padding:40px; border-radius:10px; border:1px solid #eee; min-height:300px;">
+            <h2>Welcome to the Practice Space</h2>
+            <p>Your session settings are ready in the top right.</p>
+        </div>
+    </main>
+
+<script>
+
+    // -------------------------------------------------------
+    // Global state
+    // -------------------------------------------------------
+    let currentEpisodeLines = [];
+    let currentIndex = 0;
+    let currentEpisodeLang = 'pt-BR'; // set when a book is loaded
+    let A1_DICT = {};
+    let STRUCTURES_LIB = []; // array of {Sentence, Pattern, Highlights}
+    let ytPlayer = null;
+    let ytPollInterval = null;
+    let currentVideoId = null;
+
+    // Map language codes to folder names
+    const langFolderMap = {
+        'pt-BR': 'pt', 'pt': 'pt',
+        'es': 'es', 'es-ES': 'es',
+        'fr': 'fr', 'fr-FR': 'fr',
+        'de': 'de', 'de-DE': 'de',
+        'en': 'en', 'en-US': 'en', 'en-GB': 'en',
+        'da-DK': 'da', 'da': 'da'
+    };
+
+
+    async function showLetsRead() {
+        const panel = document.getElementById('main-content');
+        const selectedLang = document.getElementById('lang-select').value || 'pt-BR';
+        currentEpisodeLang = selectedLang;
+        if (recognition) recognition.lang = selectedLang;
+
+        const folder = langFolderMap[selectedLang] || selectedLang.split('-')[0];
+        panel.innerHTML = '<h2>Choose an episode (' + selectedLang + ')</h2><div id="bookshelf" style="display:grid; grid-template-columns: 1fr 1fr; gap:15px;"></div>';
+
+        try {
+            const response = await fetch('./' + folder + '/manifest.json');
+            const data = await response.json();
+            const bookshelf = document.getElementById('bookshelf');
+
+            data.episodes.forEach(ep => {
+                const btn = document.createElement('button');
+                btn.className = "nav-btn";
+                btn.style.padding = "20px";
+                btn.innerText = ep.title;
+                btn.onclick = () => loadEpisode(ep.file, ep.lang || selectedLang, ep.video_id || null);
+                bookshelf.appendChild(btn);
+            });
+        } catch (e) {
+            panel.innerHTML = '<p>No episodes found for ' + selectedLang + '. Make sure ' + folder + '/manifest.json exists.</p>';
+        }
+    }
+
+    // Load studentDatabase from localStorage or create fresh
+    let studentDatabase = JSON.parse(localStorage.getItem('parlayDatabase')) || { user: "", history: {}, structures: {} };
+    if (!studentDatabase.structures) studentDatabase.structures = {};
+
+
+    // Save database to localStorage whenever it changes
+    function saveDatabase() {
+        localStorage.setItem('parlayDatabase', JSON.stringify(studentDatabase));
+    }
+
+    function onYouTubeIframeAPIReady() {
+    // Called automatically by YouTube API when ready
+    console.log('YouTube API ready');
+}
+
+    function loadYouTubePlayer(videoId) {
+        console.log('loadYouTubePlayer called with:', videoId);
+        currentVideoId = videoId;
+        const panel = document.getElementById('main-content');
+        
+        // Add player container if not already there
+        if (!document.getElementById('yt-player-container')) {
+            const playerDiv = document.createElement('div');
+            playerDiv.id = 'yt-player-container';
+            playerDiv.style.cssText = 'width:100%; margin-bottom:15px; border-radius:10px; overflow:hidden;';
+            playerDiv.innerHTML = '<div id="yt-player"></div>';
+            panel.insertBefore(playerDiv, panel.firstChild);
+        }
+
+        if (ytPlayer) {
+            ytPlayer.loadVideoById(videoId);
+            ytPlayer.pauseVideo();
+        } else {
+            ytPlayer = new YT.Player('yt-player', {
+                height: '250',
+                width: '100%',
+                videoId: videoId,
+                playerVars: { autoplay: 0, controls: 1, rel: 0 },
+                events: {
+                    onReady: (e) => { e.target.pauseVideo(); }
+                }
+            });
+        }
+    }
+
+    function seekToLine(line) {
+        if (!ytPlayer || !line.start) return;
+        clearInterval(ytPollInterval);
+        ytPlayer.seekTo(line.start, true);
+        ytPlayer.playVideo();
+
+        // Poll and pause at end time
+        ytPollInterval = setInterval(() => {
+            if (ytPlayer.getCurrentTime() >= line.end) {
+                ytPlayer.pauseVideo();
+                clearInterval(ytPollInterval);
+            }
+        }, 200);
+    }
+
+    // -------------------------------------------------------
+    // Speech Recognition setup
+    // -------------------------------------------------------
+    const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+    let recognition;
+
+    if (SpeechRecognition) {
+        recognition = new SpeechRecognition();
+        recognition.continuous = false;
+        recognition.interimResults = false;
+        // Default lang — will be updated when a book loads or lang dropdown changes
+        recognition.lang = 'pt-BR';
+
+        recognition.onresult = (event) => {
+            const transcript = event.results[0][0].transcript;
+            const targetText = currentEpisodeLines[currentIndex].text;
+            const output = document.getElementById('stt-output');
+
+            const cleanSpeech = transcript.toLowerCase().replace(/[.,!?;:]/g, "").split(" ");
+            const cleanTarget = targetText.toLowerCase().replace(/[.,!?;:]/g, "").split(" ");
+            const displayTarget = targetText.split(" ");
+
+            let highlightedHTML = "";
+            let sessionResults = [];
+
+            cleanTarget.forEach((word, i) => {
+                const isCorrect = cleanSpeech.includes(word);
+                const color = isCorrect ? "#28a745" : "#dc3545";
+                highlightedHTML += `<span style="color: ${color}; font-weight: bold; font-size: 1.5rem;">${displayTarget[i]} </span>`;
+                sessionResults.push({ word: word, success: isCorrect });
+            });
+
+            output.innerHTML = `<div>${highlightedHTML}</div><p style="color:#888;">Heard: "${transcript}"</p>`;
+            const allCorrect = sessionResults.every(r => r.success);
+            if (allCorrect) {
+                updateStructureHistory(targetText);
+            }
+            updateWordHistory(sessionResults);
+        };
+
+        recognition.onend = () => {
+            const btn = document.getElementById('record-btn');
+            if (btn) {
+                btn.innerText = "🎤 Start Recording";
+                btn.style.opacity = "1";
+            }
+        };
+    }
+
+    // Update recognition language when dropdown changes
+    async function updateRecognitionLanguage() {
+        const lang = document.getElementById('lang-select').value;
+        currentEpisodeLang = lang;
+        if (recognition) recognition.lang = lang;
+        studentDatabase.structures = {}; // clear before reloading
+        await loadLanguageData(lang);
+        if (studentDatabase.user) {
+            await loadProgressFromSupabase(studentDatabase.user);
+            console.log('Switched language to ' + lang + ', progress reloaded');
+        }
+    }
+
+    // -------------------------------------------------------
+    // Book loading
+    // -------------------------------------------------------
+
+    async function loadEpisode(filePath, lang, videoId) {
+        console.log("loadEpisode called with lang:", lang);
+        const panel = document.getElementById('main-content');
+        panel.innerHTML = "<h3>Loading...</h3>";
+        ytPlayer = null;
+        currentVideoId = null;
+
+        // Set the language for this episode so speech recognition uses the right one
+        currentEpisodeLang = lang || 'pt-BR';
+        if (recognition) recognition.lang = currentEpisodeLang;
+        currentVideoId = videoId || null;
+
+        try {
+            const response = await fetch(filePath);
+            currentEpisodeLines = await response.json();
+            showLineFocus(0);
+            if (videoId) loadYouTubePlayer(videoId);
+        } catch (e) {
+            panel.innerHTML = "<p>Error: Could not load the episode file.</p>";
+            console.error(e);
+        }
+        console.log('loadEpisode videoId:', videoId);
+    }
+
+    // -------------------------------------------------------
+    // Reading view
+    // -------------------------------------------------------
+    function showLineFocus(index) {
+        currentIndex = index;
+        const line = currentEpisodeLines[index];
+        const panel = document.getElementById('main-content');
+        const loadingMsg = panel.querySelector('h3');
+        if (loadingMsg) loadingMsg.remove();
+
+        // Only rebuild drill content, not the YouTube player
+        let drillContainer = document.getElementById('drill-container');
+        if (!drillContainer) {
+            drillContainer = document.createElement('div');
+            drillContainer.id = 'drill-container';
+            panel.appendChild(drillContainer);
+        }
+
+        drillContainer.style.cssText = 'max-width: 600px; margin: 0 auto; text-align: center;';
+        drillContainer.innerHTML = `
+            <div style="background: white; padding: 30px; border-radius: 10px; border: 1px solid #ddd; margin-bottom: 20px;">
+                <span style="font-size: 3rem;">${line.emoji || '💬'}</span>
+                <h1 style="font-size: 2.5rem; margin: 10px 0;">${line.text}</h1>
+                <p style="color: #888; font-size: 0.85em;">Language: ${currentEpisodeLang}</p>
+            </div>
+
+            <div style="background: #eef2f7; padding: 20px; border-radius: 10px; border: 2px dashed #cbd5e0; min-height: 100px; margin-bottom: 20px;">
+                <p id="stt-output" style="color: #4a5568; font-style: italic;">Your speech will appear here...</p>
+                <button id="record-btn" class="nav-btn" style="background: #ff4757; color: white; border: none; padding: 15px 30px; font-size: 1.2rem;" onclick="startRecording()">
+                    🎤 Start Recording
+                </button>
+            </div>
+
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 40px;">
+                <button class="nav-btn" onclick="changeLine(-1)" ${currentIndex === 0 ? 'disabled' : ''}>← Previous</button>
+                <span>Line ${currentIndex + 1} of ${currentEpisodeLines.length}</span>
+                <button class="nav-btn" onclick="changeLine(1)" ${currentIndex === currentEpisodeLines.length - 1 ? 'disabled' : ''}>Next →</button>
+            </div>
+        `;
+        seekToLine(currentEpisodeLines[index]);
+    }
+
+    function changeLine(step) {
+        const newIndex = currentIndex + step;
+        if (newIndex >= 0 && newIndex < currentEpisodeLines.length) {
+            showLineFocus(newIndex);
+        }
+    }
+
+    // -------------------------------------------------------
+    // Progress tracking
+    // -------------------------------------------------------
+    function updateWordHistory(results) {
+        const lang = currentEpisodeLang; // capture once, don't let it change mid-loop
+        results.forEach(item => {
+            const word = item.word;
+            console.log("Saving word:", word, "with language:", currentEpisodeLang);
+            if (!studentDatabase.history[word]) {
+                studentDatabase.history[word] = [];
+            }
+            studentDatabase.history[word].push(item.success);
+            if (studentDatabase.history[word].length > 10) {
+                studentDatabase.history[word].shift();
+            }
+            // Save updated history to Supabase
+            saveWordToSupabase(studentDatabase.user, word, studentDatabase.history[word], lang);
+        });
+        saveDatabase();
+        console.log("Updated history for:", studentDatabase.user);
+    }
+
+    function isMastered(word) {
+        const history = studentDatabase.history[word];
+        if (!history || history.length < 3) return false;
+        return history.slice(-3).every(v => v === true);
+    }
+
+    function updateStructureHistory(sentenceText) {
+        // Find all patterns that match this sentence in the library
+        const matches = STRUCTURES_LIB.filter(row => 
+            row.Sentence.toLowerCase().trim() === sentenceText.toLowerCase().trim()
+        );
+        matches.forEach(match => {
+            const pattern = match.Pattern;
+            if (!studentDatabase.structures[pattern]) {
+                studentDatabase.structures[pattern] = { correct: 0, sentences: [] };
+            }
+            studentDatabase.structures[pattern].correct++;
+            if (!studentDatabase.structures[pattern].sentences.includes(sentenceText)) {
+                studentDatabase.structures[pattern].sentences.push(sentenceText);
+            }
+        });
+        if (matches.length > 0) {
+            saveDatabase();
+            saveStructuresToSupabase();
+            console.log('Structure matches found:', matches.length, 'for:', sentenceText);
+        }
+    }
+
+
+
+
+    function showProgressReport() {
+        const panel = document.getElementById("main-content");
+        const history = studentDatabase.history;
+        const words = Object.keys(history);
+
+        // --- A1 Section ---
+        let a1Html = "";
+        if (Object.keys(A1_DICT).length > 0) {
+            // Group A1 words by category
+            const categories = {};
+            Object.entries(A1_DICT).forEach(([word, cat]) => {
+                if (!categories[cat]) categories[cat] = { total: 0, mastered: 0, seen: 0 };
+                categories[cat].total++;
+                if (history[word]) {
+                    categories[cat].seen++;
+                    if (isMastered(word)) categories[cat].mastered++;
+                }
+            });
+
+            const totalA1 = Object.keys(A1_DICT).length;
+            const masteredA1 = Object.keys(A1_DICT).filter(w => isMastered(w)).length;
+            const seenA1 = Object.keys(A1_DICT).filter(w => history[w]).length;
+            const percA1 = ((masteredA1 / totalA1) * 100).toFixed(1);
+
+            a1Html = `
+                <div style="margin-bottom:25px;">
+                    <h3 style="color:#2c3e50; margin-bottom:5px;">📘 A1 Vocabulary</h3>
+                    <p style="color:#666; font-size:0.9em;">Mastered: <strong>${masteredA1}/${totalA1}</strong> &nbsp;|&nbsp; Seen: ${seenA1} &nbsp;|&nbsp; ${percA1}%</p>
+                    <div style="background:#eee; border-radius:6px; height:10px; margin-bottom:15px;">
+                        <div style="background:#27ae60; width:${percA1}%; height:100%; border-radius:6px;"></div>
+                    </div>
+                    <div style="display:grid; grid-template-columns: 1fr 1fr; gap:8px;">
+                        ${Object.entries(categories).sort().map(([cat, data]) => {
+                            const perc = data.total > 0 ? ((data.mastered / data.total) * 100).toFixed(0) : 0;
+                            return `<div onclick="showCategoryDetail('${cat}')" style="cursor:pointer; padding:10px; border-radius:8px; border:1px solid #e2e8f0; background:#fafafa;">
+                                <div style="display:flex; justify-content:space-between; font-size:0.85em; font-weight:bold;">
+                                    <span>${cat}</span><span>${data.mastered}/${data.total}</span>
+                                </div>
+                                <div style="background:#eee; border-radius:4px; height:6px; margin-top:6px;">
+                                    <div style="background:#3498db; width:${perc}%; height:100%; border-radius:4px;"></div>
+                                </div>
+                            </div>`;
+                        }).join("")}
+                    </div>
+                </div>`;
+        } else {
+            a1Html = "<p style='color:#999;'>A1 vocab not loaded. Make sure en/a1.csv exists.</p>";
+        }
+
+        // --- Structures Section ---
+        const structPatterns = Object.keys(studentDatabase.structures || {});
+        const totalPatterns = [...new Set(STRUCTURES_LIB.map(r => r.Category))].length;
+        let structHtml = '';
+        if (STRUCTURES_LIB.length > 0) {
+            structHtml = `
+                <div style="margin-bottom:25px;">
+                    <h3 style="color:#2c3e50; margin-bottom:5px;">🏗️ Sentence Structures</h3>
+                    <p style="color:#666; font-size:0.9em;">Practiced: <strong>${structPatterns.length}/${totalPatterns}</strong> patterns</p>
+                    <div style="display:grid; grid-template-columns:1fr 1fr; gap:8px; margin-top:10px;">
+                        ${[...new Set(STRUCTURES_LIB.map(r => r.Pattern))].sort().map(pattern => {
+                            const data = studentDatabase.structures[pattern];
+                            const count = data ? data.correct : 0;
+                            const total = STRUCTURES_LIB.filter(r => r.Category === pattern).length;
+                            const practiced = count > 0;
+                            return `<div onclick="showStructureDetail('${pattern.replace(/'/g, "\\'")}')" style="cursor:pointer; padding:10px; border-radius:8px; border:1px solid #e2e8f0; background:${practiced ? '#f0f9f0' : '#fafafa'};">
+                                <div style="font-size:0.8em; font-weight:bold; color:${practiced ? '#27ae60' : '#999'};">
+                                    ${practiced ? '✅' : '⚪'} ${pattern}
+                                </div>
+                                <div style="font-size:0.75em; color:#999; margin-top:4px;">${count} times practiced</div>
+                            </div>`;
+                        }).join('')}
+                    </div>
+                </div>`;
+        } else {
+            structHtml = "<p style='color:#999;'>No structure data loaded.</p>";
+        }
+
+        // --- Raw debug section ---
+        const rawData = JSON.stringify(history, null, 2);
+
+        panel.innerHTML = `
+            <div style="background:white; padding:30px; border-radius:15px; border:1px solid #eee;">
+                <h2>📊 Progress Report: ${studentDatabase.user}</h2>
+                ${a1Html}
+                ${structHtml}
+                <details style="margin-top:20px;">
+                    <summary style="cursor:pointer; color:#999; font-size:0.85em;">Raw data (${words.length} words recorded)</summary>
+                    <pre style="background:#2d3436; color:#fab1a0; padding:20px; border-radius:10px; max-height:300px; overflow-y:scroll; font-size:0.8rem; margin-top:10px;">${words.length > 0 ? rawData : "// No words recorded yet."}</pre>
+                </details>
+                <button class="nav-btn" style="margin-top:20px;" onclick="showLetsRead()">Back to Reading</button>
+            </div>`;
+    }
+
+    function showCategoryDetail(category) {
+        const panel = document.getElementById("main-content");
+        const categoryWords = Object.entries(A1_DICT)
+            .filter(([w, cat]) => cat === category)
+            .sort((a, b) => a[0].localeCompare(b[0]));
+
+        const history = studentDatabase.history;
+
+        const wordsHtml = categoryWords.map(([word]) => {
+            const seen = !!history[word];
+            const mastered = isMastered(word);
+            const attempts = history[word] ? history[word].length : 0;
+            const correct = history[word] ? history[word].filter(v => v).length : 0;
+            return `<div style="padding:8px 10px; border-radius:6px; background:${mastered ? "#e8f5e9" : seen ? "#fff8e1" : "#f5f5f5"}; border:1px solid ${mastered ? "#c8e6c9" : seen ? "#ffe082" : "#eee"}; font-size:0.85em; display:flex; justify-content:space-between;">
+                <span>${mastered ? "✅" : seen ? "🔄" : "⚪"} ${word}</span>
+                <span style="color:#999;">${seen ? correct + "/" + attempts : ""}</span>
+            </div>`;
+        }).join("");
+
+        panel.innerHTML = `
+            <div style="background:white; padding:30px; border-radius:15px; border:1px solid #eee;">
+                <button class="nav-btn" onclick="showProgressReport()" style="margin-bottom:15px;">⬅ Back</button>
+                <h3>${category}</h3>
+                <p style="color:#666; font-size:0.85em;">✅ mastered &nbsp; 🔄 seen &nbsp; ⚪ not yet</p>
+                <div style="display:grid; grid-template-columns:1fr 1fr; gap:6px; margin-top:15px;">${wordsHtml}</div>
+            </div>`;
+    }
+
+    function showStructureDetail(pattern) {
+        const panel = document.getElementById("main-content");
+        const data = studentDatabase.structures[pattern] || { correct: 0, sentences: [] };
+        const examples = STRUCTURES_LIB.filter(r => r.Category === pattern).slice(0, 5);
+
+        const practicedHtml = data.sentences.length > 0
+            ? data.sentences.map(s => `<div style="padding:8px; background:#e8f5e9; border-radius:6px; font-size:0.85em; margin-bottom:6px;">✅ "${s}"</div>`).join('')
+            : '<p style="color:#999;">Not practiced yet.</p>';
+
+        const examplesHtml = examples.map(e => 
+            `<div style="padding:8px; background:#f5f5f5; border-radius:6px; font-size:0.85em; margin-bottom:6px;">"${e.Sentence}"</div>`
+        ).join('');
+
+        panel.innerHTML = `
+            <div style="background:white; padding:30px; border-radius:15px; border:1px solid #eee;">
+                <button class="nav-btn" onclick="showProgressReport()" style="margin-bottom:15px;">⬅ Back</button>
+                <h3>${pattern}</h3>
+                <h4 style="color:#27ae60;">Your practiced sentences:</h4>
+                ${practicedHtml}
+                <h4 style="color:#3498db; margin-top:20px;">Example sentences from library:</h4>
+                ${examplesHtml}
+            </div>`;
+    }
+
+
+
+    // -------------------------------------------------------
+    // Recording
+    // -------------------------------------------------------
+    function startRecording() {
+        if (!recognition) {
+            alert("Speech recognition is not supported in this browser. Try Chrome!");
+            return;
+        }
+
+        const output = document.getElementById('stt-output');
+        const btn = document.getElementById('record-btn');
+        
+        output.innerText = "Listening...";
+        btn.innerText = "🛑 Listening...";
+        btn.style.opacity = "0.5";
+
+        recognition.start();
+    }
+
+    // -------------------------------------------------------
+    // Config loading
+    // -------------------------------------------------------
+    async function loadConfigs() {
+        try {
+            const userRes = await fetch('./users.json');
+            const userData = await userRes.json();
+            const userDrop = document.getElementById('user-select');
+            userDrop.innerHTML = "";
+            userData.friends.forEach(name => {
+                let opt = new Option(name, name);
+                userDrop.add(opt);
+            });
+
+            const langDrop = document.getElementById('lang-select');
+            const langNames = {
+                'pt-BR': 'Portuguese', 'en-US': 'English',
+                'es-ES': 'Spanish', 'fr-FR': 'French',
+                'de-DE': 'German', 'da-DK': 'Danish'
+            };
+            Object.entries(langNames).forEach(([code, name]) => {
+                langDrop.add(new Option(name, code));
+            });
+
+            const levelRes = await fetch('./levels.json');
+            const levelData = await levelRes.json();
+            const levelDrop = document.getElementById('level-select');
+            levelData.proficiency_levels.forEach(lvl => {
+                let opt = new Option(lvl.id, lvl.id);
+                levelDrop.add(opt);
+            });
+
+            await loadLanguageData(currentEpisodeLang);
+
+        } catch (error) {
+            console.error("Error loading JSON files:", error);
+            document.getElementById('user-select').innerHTML = "<option>Error loading users</option>";
+        }
+    }
+
+
+    async function loadLanguageData(lang) {
+        const folder = langFolderMap[lang] || lang.split('-')[0];
+
+        // Load A1 vocab
+        try {
+            const a1Res = await fetch('./' + folder + '/a1.csv');
+            const a1Text = await a1Res.text();
+            A1_DICT = {};
+            a1Text.trim().split('\n').slice(1).forEach(line => {
+                const parts = line.split(',');
+                if (parts.length >= 2) {
+                    const word = parts[0].trim().toLowerCase();
+                    const category = parts[1].trim();
+                    if (word) A1_DICT[word] = category;
+                }
+            });
+            console.log('A1 vocab loaded:', Object.keys(A1_DICT).length, 'words for', folder);
+        } catch (e) {
+            A1_DICT = {};
+            console.warn('No a1.csv for', folder);
+        }
+
+        // Load structures
+        try {
+            const manifestRes = await fetch('./' + folder + '/structures_manifest.json');
+            const manifestData = await manifestRes.json();
+            STRUCTURES_LIB = [];
+            for (const file of manifestData.files) {
+                const res = await fetch('./' + folder + '/' + file);
+                const text = await res.text();
+                const rows = text.trim().split('\n').slice(1);
+                rows.forEach(line => {
+                    const parts = [];
+                    let current = '';
+                    let inQuotes = false;
+                    for (let i = 0; i < line.length; i++) {
+                        if (line[i] === '"') {
+                            inQuotes = !inQuotes;
+                        } else if (line[i] === ',' && !inQuotes) {
+                            parts.push(current.trim());
+                            current = '';
+                        } else {
+                            current += line[i];
+                        }
+                    }
+                    parts.push(current.trim());
+                    if (parts.length >= 4) {
+                        STRUCTURES_LIB.push({
+                            Category: parts[0],
+                            Sentence: parts[1],
+                            Pattern: parts[2],
+                            Highlights: parts[3]
+                        });
+                    }
+                });
+            }
+            console.log('Structures loaded:', STRUCTURES_LIB.length, 'rows for', folder);
+        } catch (e) {
+            STRUCTURES_LIB = [];
+            console.warn('No structures_manifest.json for', folder);
+        }
+    }
+
+    // -------------------------------------------------------
+    // Supabase integration
+    // -------------------------------------------------------
+    const SUPABASE_URL = 'https://zczbexqskmcseceolrrc.supabase.co';
+    const SUPABASE_KEY = 'sb_publishable_Z0M8jOoPgGgytckukQHQRQ_In3_bAN_';
+
+    async function supabaseFetch(endpoint, method = 'GET', body = null) {
+        const options = {
+            method,
+            headers: {
+                'apikey': SUPABASE_KEY,
+                'Authorization': `Bearer ${SUPABASE_KEY}`,
+                'Content-Type': 'application/json',
+                'Prefer': method === 'POST' ? 'resolution=merge-duplicates,return=minimal' : ''
+            }
+        };
+        if (body) options.body = JSON.stringify(body);
+        const res = await fetch(`${SUPABASE_URL}/rest/v1/${endpoint}`, options);
+        if (!res.ok) {
+            console.error('Supabase error:', await res.text());
+            return null;
+        }
+        return method === 'GET' ? await res.json() : true;
+    }
+
+    async function loadProgressFromSupabase(username) {
+        const lang = currentEpisodeLang;
+        const data = await supabaseFetch(
+            'progress?username=eq.' + encodeURIComponent(username) +
+            '&language=eq.' + encodeURIComponent(lang)
+        );
+        if (data && data.length > 0) {
+            studentDatabase.history = {};
+            data.forEach(row => {
+                studentDatabase.history[row.word] = row.history;
+            });
+            saveDatabase();
+            console.log('Loaded ' + data.length + ' words from Supabase for ' + username + ' (' + lang + ')');
+        }
+
+        // Load structures
+        const structData = await supabaseFetch(
+            'structures?username=eq.' + encodeURIComponent(username) +
+            '&language=eq.' + encodeURIComponent(lang)
+        );
+        if (structData && structData.length > 0) {
+            studentDatabase.structures = structData[0].data;
+            saveDatabase();
+            console.log('Structures loaded from Supabase for', username, lang);
+        }
+    }
+
+
+    async function saveStructuresToSupabase() {
+        const username = studentDatabase.user;
+        const lang = currentEpisodeLang;
+        const data = studentDatabase.structures;
+
+        const existing = await supabaseFetch(
+            'structures?username=eq.' + encodeURIComponent(username) +
+            '&language=eq.' + encodeURIComponent(lang)
+        );
+
+        if (existing && existing.length > 0) {
+            await supabaseFetch(
+                'structures?username=eq.' + encodeURIComponent(username) +
+                '&language=eq.' + encodeURIComponent(lang),
+                'PATCH', { data, updated_at: new Date().toISOString() }
+            );
+        } else {
+            await supabaseFetch('structures', 'POST', {
+                username, language: lang, data,
+                updated_at: new Date().toISOString()
+            });
+        }
+    }
+
+    async function saveWordToSupabase(username, word, history, lang) {
+        console.log("saveWordToSupabase called:", username, word, lang);
+        const existing = await supabaseFetch(
+            'progress?username=eq.' + encodeURIComponent(username) +
+            '&word=eq.' + encodeURIComponent(word) +
+            '&language=eq.' + encodeURIComponent(lang)
+        );
+        console.log("existing:", existing);
+
+        if (existing && existing.length > 0) {
+            await supabaseFetch(
+                'progress?username=eq.' + encodeURIComponent(username) +
+                '&word=eq.' + encodeURIComponent(word) +
+                '&language=eq.' + encodeURIComponent(lang),
+                'PATCH', { history, updated_at: new Date().toISOString() }
+            );
+        } else {
+            await supabaseFetch('progress', 'POST', {
+                username, word, history,
+                language: lang,
+                updated_at: new Date().toISOString()
+            });
+        }
+    }
+
+    window.onload = loadConfigs;
+
+    document.getElementById('enter-btn').addEventListener('click', async () => {
+        const selectedUser = document.getElementById('user-select').value;
+        if (selectedUser) {
+            studentDatabase.user = selectedUser;
+            studentDatabase.history = {};
+            saveDatabase();
+
+            document.getElementById('login-screen').style.display = 'none';
+            document.getElementById('top-nav').style.display = 'flex';
+            document.getElementById('main-content').style.display = 'block';
+            document.getElementById('active-user').innerText = "User: " + selectedUser + " (loading...)";
+
+            await loadProgressFromSupabase(selectedUser);
+            document.getElementById('active-user').innerText = "User: " + selectedUser;
+        }
+    });
+
+</script>
+
+    <script src="https://www.youtube.com/iframe_api"></script>
+</body>
+</html>
