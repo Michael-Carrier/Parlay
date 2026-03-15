@@ -1,9 +1,12 @@
 {
   "friends": [
-    "Helen",
-    "Jakob",
-    "Bruno",
-    "Juliana",
-    "Michael"
+    {"name": "Helen", "native_lang": "pt"},
+    {"name": "Jakob", "native_lang": "da"},
+    {"name": "Bruno", "native_lang": "pt"},
+    {"name": "Juliana", "native_lang": "pt"},
+    {"name": "Vinnie", "native_lang": "pt"},
+    {"name": "Heitor", "native_lang": "pt"},
+    {"name": "Ponguinha", "native_lang": "pt"},
+    {"name": "Michael", "native_lang": "en"}
   ]
 }

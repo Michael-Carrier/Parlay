@@ -85,6 +85,7 @@
     let ytPlayer = null;
     let ytPollInterval = null;
     let currentVideoId = null;
+    let nativeLang = 'en';
 
     // Map language codes to folder names
     const langFolderMap = {
@@ -305,7 +306,12 @@
                 <button id="record-btn" class="nav-btn" style="background: #ff4757; color: white; border: none; padding: 15px 30px; font-size: 1.2rem;" onclick="startRecording()">
                     🎤 Start Recording
                 </button>
+                <p id="translation-text" style="color:#aaa; font-size:1rem; font-style:italic; min-height:1.5em;"></p>
             </div>
+
+            <label style="font-size:0.85em; color:#888; cursor:pointer;">
+                <input type="checkbox" id="show-translation" onchange="toggleTranslation()"> Show translation
+            </label>
 
             <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 40px;">
                 <button class="nav-btn" onclick="changeLine(-1)" ${currentIndex === 0 ? 'disabled' : ''}>← Previous</button>
@@ -314,12 +320,47 @@
             </div>
         `;
         seekToLine(currentEpisodeLines[index]);
+        if (document.getElementById('show-translation') && document.getElementById('show-translation').checked) {
+            fetchTranslation(line.text, currentEpisodeLang, nativeLang).then(t => {
+                const el = document.getElementById('translation-text');
+                if (el) el.innerText = t;
+            });
+        }
     }
 
     function changeLine(step) {
         const newIndex = currentIndex + step;
         if (newIndex >= 0 && newIndex < currentEpisodeLines.length) {
             showLineFocus(newIndex);
+        }
+    }
+
+    const translationCache = {};
+
+    async function fetchTranslation(text, fromLang, toLang) {
+        const key = text + fromLang + toLang;
+        if (translationCache[key]) return translationCache[key];
+        try {
+            const res = await fetch(`https://api.mymemory.translated.net/get?q=${encodeURIComponent(text)}&langpair=${fromLang}|${toLang}`);
+            const data = await res.json();
+            const translation = data.responseData.translatedText;
+            translationCache[key] = translation;
+            return translation;
+        } catch (e) {
+            return '';
+        }
+    }
+
+    function toggleTranslation() {
+        const el = document.getElementById('translation-text');
+        if (!el) return;
+        if (document.getElementById('show-translation').checked) {
+            const line = currentEpisodeLines[currentIndex];
+            fetchTranslation(line.text, currentEpisodeLang, nativeLang).then(t => {
+                el.innerText = t;
+            });
+        } else {
+            el.innerText = '';
         }
     }
 
@@ -548,11 +589,11 @@
     async function loadConfigs() {
         try {
             const userRes = await fetch('./users.json');
-            const userData = await userRes.json();
+            window.userData = await userRes.json();
             const userDrop = document.getElementById('user-select');
             userDrop.innerHTML = "";
-            userData.friends.forEach(name => {
-                let opt = new Option(name, name);
+            userData.friends.forEach(f => {
+                let opt = new Option(f.name, f.name);
                 userDrop.add(opt);
             });
 
@@ -754,9 +795,11 @@
         const selectedUser = document.getElementById('user-select').value;
         if (selectedUser) {
             studentDatabase.user = selectedUser;
+            const userObj = window.userData.friends.find(f => f.name === selectedUser);
+            nativeLang = userObj ? userObj.native_lang || 'en' : 'en';
             studentDatabase.history = {};
             saveDatabase();
-
+    
             document.getElementById('login-screen').style.display = 'none';
             document.getElementById('top-nav').style.display = 'flex';
             document.getElementById('main-content').style.display = 'block';
