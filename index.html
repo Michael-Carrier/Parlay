@@ -360,6 +360,15 @@
                 updateStructureHistory(targetText);
             }
             updateWordHistory(sessionResults);
+            const totalWords = cleanTarget.length;
+            const correctWords = sessionResults.filter(r => r.success).length;
+            const percent = Math.round((correctWords / totalWords) * 100);
+
+            const lineTextEl = document.getElementById('line-text');
+            if (lineTextEl) {
+                const award = percent === 100 ? ' 💯' : ` <span style="color:#888; font-size:0.9rem;">${percent}%</span>`;
+                lineTextEl.innerHTML = lineTextEl.innerHTML + award;
+            }
         };
 
         recognition.onend = () => {
