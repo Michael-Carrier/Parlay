@@ -1,9 +1,9 @@
 {
   "episodes": [
-    { "id": "bluey_en_01", "title": "Bluey 1", "file": "en/bluey1_en.json", "lang": "en-US", "video_id": "R7lwlVj8_vw" },
-    { "id": "fortnite1", "title": "I had 3 days to master fornite", "file": "en/I_Had_3_DAYS_To_MASTER_Fortnite_Competitive_en.json", "lang": "en-US", "video_id": "M-Wk5V05Sz0" },
-    { "id": "Chrisbrown1", "title": "I had 3 days to master fornite", "file": "en/Chris_Brown_Talks_about_Rihanna_en.json", "lang": "en-US", "video_id": "4ZpOVqfjzew" },
-    { "id": "90dayfiance1", "title": "90 day fiance with Pewdiepie", "file": "en/Pewdipie-90-Day-Fiance_en.json", "lang": "en-US", "video_id": "8l_ZdLrNbzQ" }
+    { "id": "bluey_en_01", "title": "🐾Bluey 1🐾", "file": "en/bluey1_en.json", "lang": "en-US", "video_id": "R7lwlVj8_vw" },
+    { "id": "fortnite1", "title": "🪂I had 3 days to master fornite🪂", "file": "en/I_Had_3_DAYS_To_MASTER_Fortnite_Competitive_en.json", "lang": "en-US", "video_id": "M-Wk5V05Sz0" },
+    { "id": "Chrisbrown1", "title": "👨🏿Chris Brown Talks about Rihanna👨🏿", "file": "en/Chris_Brown_Talks_about_Rihanna_en.json", "lang": "en-US", "video_id": "4ZpOVqfjzew" },
+    { "id": "TheCHILLINGMurderOfGabbyPetito1", "title": "🔪🔪The CHILLING Murder of Gabby Petito🔪🔪", "file": "en/The_CHILLING_Murder_Of_Gabby_Petito_en.json", "lang": "en-US", "video_id": "NXPi_l6xoP8" },
+    { "id": "90dayfiance1", "title": "🔥90 day fiance with Pewdiepie🔥", "file": "en/Pewdipie-90-Day-Fiance_en.json", "lang": "en-US", "video_id": "8l_ZdLrNbzQ" }
   ]
 }
-

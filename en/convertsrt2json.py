@@ -40,4 +40,4 @@ def convert_srt_to_json(input_file, output_file):
     print(f"Success! {len(json_data)} lines converted to {output_file}")
 
 # Usage
-convert_srt_to_json('Pewdipie-90-Day-Fiance.srt', 'Pewdipie-90-Day-Fiance_en.json')
+convert_srt_to_json('The_CHILLING_Murder_Of_Gabby_Petito.srt', 'The_CHILLING_Murder_Of_Gabby_Petito_en.json')
