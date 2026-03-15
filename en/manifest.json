@@ -1,7 +1,7 @@
 {
   "episodes": [
     { "id": "bluey_en_01", "title": "Bluey 1", "file": "en/bluey1_en.json", "lang": "en-US", "video_id": "R7lwlVj8_vw" },
-    { "id": "fortnite1", "title": "I had 2 days to master fornite", "file": "en/I Had 3 DAYS To MASTER Fortnite Competitive.json", "lang": "en-US", "video_id": "M-Wk5V05Sz0" }
+    { "id": "fortnite1", "title": "I had 3 days to master fornite", "file": "en/I_Had_3_DAYS_To_MASTER_Fortnite_Competitive_en.json", "lang": "en-US", "video_id": "M-Wk5V05Sz0" }
 
   ]
 }
