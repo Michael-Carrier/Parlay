@@ -40,4 +40,4 @@ def convert_srt_to_json(input_file, output_file):
     print(f"Success! {len(json_data)} lines converted to {output_file}")
 
 # Usage
-convert_srt_to_json('bluey1en.srt', 'bluey1_en.json')
+convert_srt_to_json('I Had 3 DAYS To MASTER Fortnite Competitive.srt', 'I Had 3 DAYS To MASTER Fortnite Competitive_en.json')
