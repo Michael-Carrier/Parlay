@@ -1,0 +1,6204 @@
+[
+    {
+        "id": 1,
+        "start": 0.0,
+        "end": 2.36,
+        "text": "DET EL GØR EDIT",
+        "emoji": "💬"
+    },
+    {
+        "id": 2,
+        "start": 6.56,
+        "end": 8.72,
+        "text": "Muu' ghost",
+        "emoji": "💬"
+    },
+    {
+        "id": 3,
+        "start": 12.08,
+        "end": 13.68,
+        "text": "Feeling",
+        "emoji": "💬"
+    },
+    {
+        "id": 4,
+        "start": 17.8,
+        "end": 19.1,
+        "text": "Grena",
+        "emoji": "💬"
+    },
+    {
+        "id": 5,
+        "start": 23.08,
+        "end": 24.66,
+        "text": "Louis",
+        "emoji": "💬"
+    },
+    {
+        "id": 6,
+        "start": 30.0,
+        "end": 31.0,
+        "text": "Strønn!",
+        "emoji": "💬"
+    },
+    {
+        "id": 7,
+        "start": 31.5,
+        "end": 34.5,
+        "text": "Denne episode af Bluey hedder Strønn!",
+        "emoji": "💬"
+    },
+    {
+        "id": 8,
+        "start": 36.0,
+        "end": 36.5,
+        "text": "Mår!",
+        "emoji": "💬"
+    },
+    {
+        "id": 9,
+        "start": 36.5,
+        "end": 37.5,
+        "text": "Strønn!",
+        "emoji": "💬"
+    },
+    {
+        "id": 10,
+        "start": 37.5,
+        "end": 38.5,
+        "text": "Strønn!",
+        "emoji": "💬"
+    },
+    {
+        "id": 11,
+        "start": 38.5,
+        "end": 39.5,
+        "text": "Strønn!",
+        "emoji": "💬"
+    },
+    {
+        "id": 12,
+        "start": 40.5,
+        "end": 43.0,
+        "text": "Åh, Størkels mor, hun er helt alene!",
+        "emoji": "💬"
+    },
+    {
+        "id": 13,
+        "start": 43.0,
+        "end": 45.0,
+        "text": "Mår kan godt lide at være alene.",
+        "emoji": "💬"
+    },
+    {
+        "id": 14,
+        "start": 45.0,
+        "end": 46.5,
+        "text": "Nå, og kan jeg vide hvorfor?",
+        "emoji": "💬"
+    },
+    {
+        "id": 15,
+        "start": 46.5,
+        "end": 48.5,
+        "text": "Strønn!",
+        "emoji": "💬"
+    },
+    {
+        "id": 16,
+        "start": 60.0,
+        "end": 62.0,
+        "text": "Her kommer en stor en!",
+        "emoji": "💬"
+    },
+    {
+        "id": 17,
+        "start": 62.0,
+        "end": 63.0,
+        "text": "Klar, faran!",
+        "emoji": "💬"
+    },
+    {
+        "id": 18,
+        "start": 63.0,
+        "end": 65.0,
+        "text": "Jeg var stor!",
+        "emoji": "💬"
+    },
+    {
+        "id": 19,
+        "start": 69.0,
+        "end": 71.5,
+        "text": "Jeg tror lige jeg vil gå med en tur langs stranden.",
+        "emoji": "💬"
+    },
+    {
+        "id": 20,
+        "start": 71.5,
+        "end": 74.0,
+        "text": "Hvorfor kan du egentlig godt lide at gå alene, mor?",
+        "emoji": "💬"
+    },
+    {
+        "id": 21,
+        "start": 74.0,
+        "end": 77.0,
+        "text": "Hmm, det ved jeg faktisk ikke.",
+        "emoji": "💬"
+    },
+    {
+        "id": 22,
+        "start": 77.0,
+        "end": 78.5,
+        "text": "Det kan jeg bare.",
+        "emoji": "💬"
+    },
+    {
+        "id": 23,
+        "start": 78.5,
+        "end": 81.0,
+        "text": "Vi ses snart, lille havfog.",
+        "emoji": "💬"
+    },
+    {
+        "id": 24,
+        "start": 85.0,
+        "end": 87.0,
+        "text": "Wow, se den kankyldige!",
+        "emoji": "💬"
+    },
+    {
+        "id": 25,
+        "start": 87.0,
+        "end": 88.0,
+        "text": "Wow!",
+        "emoji": "💬"
+    },
+    {
+        "id": 26,
+        "start": 88.0,
+        "end": 89.0,
+        "text": "Må jeg vise den til mor?",
+        "emoji": "💬"
+    },
+    {
+        "id": 27,
+        "start": 89.0,
+        "end": 90.0,
+        "text": "Ja, okay.",
+        "emoji": "💬"
+    },
+    {
+        "id": 28,
+        "start": 90.0,
+        "end": 91.0,
+        "text": "Smut du bare.",
+        "emoji": "💬"
+    },
+    {
+        "id": 29,
+        "start": 91.0,
+        "end": 92.0,
+        "text": "Ben går jeg og venter her.",
+        "emoji": "💬"
+    },
+    {
+        "id": 30,
+        "start": 92.0,
+        "end": 93.0,
+        "text": "Må jeg virkelig?",
+        "emoji": "💬"
+    },
+    {
+        "id": 31,
+        "start": 94.0,
+        "end": 97.0,
+        "text": "Er det mor derhænden med den orange hat?",
+        "emoji": "💬"
+    },
+    {
+        "id": 32,
+        "start": 97.0,
+        "end": 98.0,
+        "text": "Ja, det er hende.",
+        "emoji": "💬"
+    },
+    {
+        "id": 33,
+        "start": 98.0,
+        "end": 100.0,
+        "text": "Og må jeg godt gå derhen helt alene?",
+        "emoji": "💬"
+    },
+    {
+        "id": 34,
+        "start": 100.0,
+        "end": 102.0,
+        "text": "Ja, jeg skal nok holde øje med dig.",
+        "emoji": "💬"
+    },
+    {
+        "id": 35,
+        "start": 102.0,
+        "end": 103.0,
+        "text": "Helt seriøst?",
+        "emoji": "💬"
+    },
+    {
+        "id": 36,
+        "start": 103.0,
+        "end": 105.0,
+        "text": "Ja, men gå nu ikke ud i vandet.",
+        "emoji": "💬"
+    },
+    {
+        "id": 37,
+        "start": 105.0,
+        "end": 106.0,
+        "text": "Okay.",
+        "emoji": "💬"
+    },
+    {
+        "id": 38,
+        "start": 106.0,
+        "end": 109.0,
+        "text": "Men hvordan kommer du derhen uden nogle benhavfog?",
+        "emoji": "💬"
+    },
+    {
+        "id": 39,
+        "start": 109.0,
+        "end": 110.0,
+        "text": "Nå ja.",
+        "emoji": "💬"
+    },
+    {
+        "id": 40,
+        "start": 110.0,
+        "end": 113.0,
+        "text": "Du kan være konne Neptune og give mig nogle ben.",
+        "emoji": "💬"
+    },
+    {
+        "id": 41,
+        "start": 113.0,
+        "end": 114.0,
+        "text": "Mig?",
+        "emoji": "💬"
+    },
+    {
+        "id": 42,
+        "start": 114.0,
+        "end": 116.0,
+        "text": "Ben nu!",
+        "emoji": "💬"
+    },
+    {
+        "id": 43,
+        "start": 119.0,
+        "end": 120.0,
+        "text": "Ha ha ha!",
+        "emoji": "💬"
+    },
+    {
+        "id": 44,
+        "start": 123.0,
+        "end": 126.0,
+        "text": "Faktisk så er hun en smule langt væk.",
+        "emoji": "💬"
+    },
+    {
+        "id": 45,
+        "start": 126.0,
+        "end": 130.0,
+        "text": "Men lille havfrog, du kan jo følge mors fodspor.",
+        "emoji": "💬"
+    },
+    {
+        "id": 46,
+        "start": 130.0,
+        "end": 132.0,
+        "text": "Nå ja, tak, konge Neptune.",
+        "emoji": "💬"
+    },
+    {
+        "id": 47,
+        "start": 133.0,
+        "end": 135.0,
+        "text": "Heller lykke!",
+        "emoji": "💬"
+    },
+    {
+        "id": 48,
+        "start": 136.0,
+        "end": 139.0,
+        "text": "Jeg er havfrogen, som fik sine ben.",
+        "emoji": "💬"
+    },
+    {
+        "id": 49,
+        "start": 140.0,
+        "end": 143.0,
+        "text": "Men de holder kun én dag, lille havfrog.",
+        "emoji": "💬"
+    },
+    {
+        "id": 50,
+        "start": 143.0,
+        "end": 144.0,
+        "text": "Så nyde dig nu.",
+        "emoji": "💬"
+    },
+    {
+        "id": 51,
+        "start": 144.0,
+        "end": 146.0,
+        "text": "Woho!",
+        "emoji": "💬"
+    },
+    {
+        "id": 52,
+        "start": 146.0,
+        "end": 147.0,
+        "text": "Det skal jeg nok.",
+        "emoji": "💬"
+    },
+    {
+        "id": 53,
+        "start": 149.0,
+        "end": 150.0,
+        "text": "Woho!",
+        "emoji": "💬"
+    },
+    {
+        "id": 54,
+        "start": 156.0,
+        "end": 158.0,
+        "text": "Må jeg flytte jer lige lidt? Tak.",
+        "emoji": "💬"
+    },
+    {
+        "id": 55,
+        "start": 158.0,
+        "end": 160.0,
+        "text": "En havfrog vil gerne forbi.",
+        "emoji": "💬"
+    },
+    {
+        "id": 56,
+        "start": 161.0,
+        "end": 163.0,
+        "text": "Far, vil du?",
+        "emoji": "💬"
+    },
+    {
+        "id": 57,
+        "start": 164.0,
+        "end": 165.0,
+        "text": "Åh, nå ja.",
+        "emoji": "💬"
+    },
+    {
+        "id": 58,
+        "start": 165.0,
+        "end": 167.0,
+        "text": "Far er derhen.",
+        "emoji": "💬"
+    },
+    {
+        "id": 59,
+        "start": 170.0,
+        "end": 171.0,
+        "text": "Nå.",
+        "emoji": "💬"
+    },
+    {
+        "id": 60,
+        "start": 172.0,
+        "end": 173.0,
+        "text": "Men.",
+        "emoji": "💬"
+    },
+    {
+        "id": 61,
+        "start": 179.0,
+        "end": 180.0,
+        "text": "Ha ha ha!",
+        "emoji": "💬"
+    },
+    {
+        "id": 62,
+        "start": 187.0,
+        "end": 189.0,
+        "text": "Åh, din frække bølge.",
+        "emoji": "💬"
+    },
+    {
+        "id": 63,
+        "start": 189.0,
+        "end": 191.0,
+        "text": "Du vaskede min mors fodspor væk.",
+        "emoji": "💬"
+    },
+    {
+        "id": 64,
+        "start": 192.0,
+        "end": 193.0,
+        "text": "Uh!",
+        "emoji": "💬"
+    },
+    {
+        "id": 65,
+        "start": 195.0,
+        "end": 196.0,
+        "text": "Muldling.",
+        "emoji": "💬"
+    },
+    {
+        "id": 66,
+        "start": 198.0,
+        "end": 200.0,
+        "text": "Muldling skulle virkelig tisse.",
+        "emoji": "💬"
+    },
+    {
+        "id": 67,
+        "start": 203.0,
+        "end": 205.0,
+        "text": "Åh, hej med dig.",
+        "emoji": "💬"
+    },
+    {
+        "id": 68,
+        "start": 205.0,
+        "end": 207.0,
+        "text": "Hvor skal du hen, lille dame?",
+        "emoji": "💬"
+    },
+    {
+        "id": 69,
+        "start": 207.0,
+        "end": 209.0,
+        "text": "Knipse, knipse.",
+        "emoji": "💬"
+    },
+    {
+        "id": 70,
+        "start": 209.0,
+        "end": 212.0,
+        "text": "Jeg er havfrogen, som fik sine krabbeben.",
+        "emoji": "💬"
+    },
+    {
+        "id": 71,
+        "start": 213.0,
+        "end": 215.0,
+        "text": "Hvor skal du hen, Knipse?",
+        "emoji": "💬"
+    },
+    {
+        "id": 72,
+        "start": 216.0,
+        "end": 217.0,
+        "text": "Okay, vi ses.",
+        "emoji": "💬"
+    },
+    {
+        "id": 73,
+        "start": 219.0,
+        "end": 220.0,
+        "text": "Ah!",
+        "emoji": "💬"
+    },
+    {
+        "id": 74,
+        "start": 220.0,
+        "end": 221.0,
+        "text": "Ah!",
+        "emoji": "💬"
+    },
+    {
+        "id": 75,
+        "start": 222.0,
+        "end": 224.0,
+        "text": "Ha ha ha!",
+        "emoji": "💬"
+    },
+    {
+        "id": 76,
+        "start": 224.0,
+        "end": 226.0,
+        "text": "Ha ha ha!",
+        "emoji": "💬"
+    },
+    {
+        "id": 77,
+        "start": 230.0,
+        "end": 231.0,
+        "text": "Åh, orange platt.",
+        "emoji": "💬"
+    },
+    {
+        "id": 78,
+        "start": 231.0,
+        "end": 233.0,
+        "text": "Mor bliver større nu.",
+        "emoji": "💬"
+    },
+    {
+        "id": 79,
+        "start": 233.0,
+        "end": 234.0,
+        "text": "Mor!",
+        "emoji": "💬"
+    },
+    {
+        "id": 80,
+        "start": 234.0,
+        "end": 236.0,
+        "text": "Jeg har en kankyli, jeg gerne vil vise dig.",
+        "emoji": "💬"
+    },
+    {
+        "id": 81,
+        "start": 236.0,
+        "end": 238.0,
+        "text": "Åh, hun kan ikke høre dig.",
+        "emoji": "💬"
+    },
+    {
+        "id": 82,
+        "start": 238.0,
+        "end": 239.0,
+        "text": "Fortsæt nu bare.",
+        "emoji": "💬"
+    },
+    {
+        "id": 83,
+        "start": 239.0,
+        "end": 241.0,
+        "text": "Jeg kommer!",
+        "emoji": "💬"
+    },
+    {
+        "id": 84,
+        "start": 241.0,
+        "end": 242.0,
+        "text": "Åh!",
+        "emoji": "💬"
+    },
+    {
+        "id": 85,
+        "start": 242.0,
+        "end": 244.0,
+        "text": "En brandmand!",
+        "emoji": "💬"
+    },
+    {
+        "id": 86,
+        "start": 254.0,
+        "end": 255.0,
+        "text": "Ha ha!",
+        "emoji": "💬"
+    },
+    {
+        "id": 87,
+        "start": 255.0,
+        "end": 257.0,
+        "text": "Du kan ikke stikke mig, lille brandmand.",
+        "emoji": "💬"
+    },
+    {
+        "id": 88,
+        "start": 260.0,
+        "end": 263.0,
+        "text": "Jeg er havfrogen, som fik sine ben.",
+        "emoji": "💬"
+    },
+    {
+        "id": 89,
+        "start": 264.0,
+        "end": 265.0,
+        "text": "Ah!",
+        "emoji": "💬"
+    },
+    {
+        "id": 90,
+        "start": 267.0,
+        "end": 268.0,
+        "text": "Åh!",
+        "emoji": "💬"
+    },
+    {
+        "id": 91,
+        "start": 268.0,
+        "end": 270.0,
+        "text": "Et gammelt slot.",
+        "emoji": "💬"
+    },
+    {
+        "id": 92,
+        "start": 271.0,
+        "end": 273.0,
+        "text": "Gav vide, hvem der boede her.",
+        "emoji": "💬"
+    },
+    {
+        "id": 93,
+        "start": 274.0,
+        "end": 277.0,
+        "text": "Måske er det her, at de andre havfroger bor.",
+        "emoji": "💬"
+    },
+    {
+        "id": 94,
+        "start": 287.0,
+        "end": 288.0,
+        "text": "Ah!",
+        "emoji": "💬"
+    },
+    {
+        "id": 95,
+        "start": 291.0,
+        "end": 292.0,
+        "text": "Goddag.",
+        "emoji": "💬"
+    },
+    {
+        "id": 96,
+        "start": 293.0,
+        "end": 295.0,
+        "text": "Øh, vil du ikke nok flytte dig?",
+        "emoji": "💬"
+    },
+    {
+        "id": 97,
+        "start": 296.0,
+        "end": 298.0,
+        "text": "Jeg skal vise den her kankyli til min mor.",
+        "emoji": "💬"
+    },
+    {
+        "id": 98,
+        "start": 301.0,
+        "end": 303.0,
+        "text": "Måske går jeg bare tilbage.",
+        "emoji": "💬"
+    },
+    {
+        "id": 99,
+        "start": 303.0,
+        "end": 305.0,
+        "text": "Jeg tror, jeg har fået nok af at gå alene nu.",
+        "emoji": "💬"
+    },
+    {
+        "id": 100,
+        "start": 306.0,
+        "end": 307.0,
+        "text": "Åh!",
+        "emoji": "💬"
+    },
+    {
+        "id": 101,
+        "start": 308.0,
+        "end": 309.0,
+        "text": "Far og barn, blå og plæt.",
+        "emoji": "💬"
+    },
+    {
+        "id": 102,
+        "start": 310.0,
+        "end": 312.0,
+        "text": "Jeg kan ikke gå tilbage.",
+        "emoji": "💬"
+    },
+    {
+        "id": 103,
+        "start": 312.0,
+        "end": 314.0,
+        "text": "Og jeg kan heller ikke gå frem.",
+        "emoji": "💬"
+    },
+    {
+        "id": 104,
+        "start": 315.0,
+        "end": 317.0,
+        "text": "Hvad skal jeg nu gøre?",
+        "emoji": "💬"
+    },
+    {
+        "id": 105,
+        "start": 318.0,
+        "end": 319.0,
+        "text": "Åh!",
+        "emoji": "💬"
+    },
+    {
+        "id": 106,
+        "start": 319.0,
+        "end": 320.0,
+        "text": "Mors fodspor!",
+        "emoji": "💬"
+    },
+    {
+        "id": 107,
+        "start": 322.0,
+        "end": 324.0,
+        "text": "Den lille havfrog må bare være modig.",
+        "emoji": "💬"
+    },
+    {
+        "id": 108,
+        "start": 324.0,
+        "end": 326.0,
+        "text": "Jeg er havfrogen, som fik sine ben.",
+        "emoji": "💬"
+    },
+    {
+        "id": 109,
+        "start": 327.0,
+        "end": 329.0,
+        "text": "Men de holder kun en dag.",
+        "emoji": "💬"
+    },
+    {
+        "id": 110,
+        "start": 335.0,
+        "end": 337.0,
+        "text": "Ah! Ah! Ah!",
+        "emoji": "💬"
+    },
+    {
+        "id": 111,
+        "start": 340.0,
+        "end": 343.0,
+        "text": "Tak fordi du flyttede dig her, Pelle K.",
+        "emoji": "💬"
+    },
+    {
+        "id": 112,
+        "start": 345.0,
+        "end": 346.0,
+        "text": "Louis!",
+        "emoji": "💬"
+    },
+    {
+        "id": 113,
+        "start": 347.0,
+        "end": 348.0,
+        "text": "Må!",
+        "emoji": "💬"
+    },
+    {
+        "id": 114,
+        "start": 354.0,
+        "end": 355.0,
+        "text": "Åh!",
+        "emoji": "💬"
+    },
+    {
+        "id": 115,
+        "start": 357.0,
+        "end": 359.0,
+        "text": "Er du gået helt herhen, helt alene?",
+        "emoji": "💬"
+    },
+    {
+        "id": 116,
+        "start": 360.0,
+        "end": 361.0,
+        "text": "Ja!",
+        "emoji": "💬"
+    },
+    {
+        "id": 117,
+        "start": 361.0,
+        "end": 363.0,
+        "text": "Jeg er havfrogen, som fik sine ben.",
+        "emoji": "💬"
+    },
+    {
+        "id": 118,
+        "start": 363.0,
+        "end": 365.0,
+        "text": "Gik du forbi brandmanden?",
+        "emoji": "💬"
+    },
+    {
+        "id": 119,
+        "start": 365.0,
+        "end": 367.0,
+        "text": "Ja, og også Pelle K.",
+        "emoji": "💬"
+    },
+    {
+        "id": 120,
+        "start": 368.0,
+        "end": 370.0,
+        "text": "Åh, jeg så en hel flak krabber.",
+        "emoji": "💬"
+    },
+    {
+        "id": 121,
+        "start": 370.0,
+        "end": 372.0,
+        "text": "Du er en lille stjerne.",
+        "emoji": "💬"
+    },
+    {
+        "id": 122,
+        "start": 372.0,
+        "end": 373.0,
+        "text": "Hør lige her!",
+        "emoji": "💬"
+    },
+    {
+        "id": 123,
+        "start": 377.0,
+        "end": 379.0,
+        "text": "Juhu!",
+        "emoji": "💬"
+    },
+    {
+        "id": 124,
+        "start": 384.0,
+        "end": 386.0,
+        "text": "Jeg kan godt lide at gå alene.",
+        "emoji": "💬"
+    },
+    {
+        "id": 125,
+        "start": 387.0,
+        "end": 388.0,
+        "text": "Kan du?",
+        "emoji": "💬"
+    },
+    {
+        "id": 126,
+        "start": 388.0,
+        "end": 389.0,
+        "text": "Hvorfor det?",
+        "emoji": "💬"
+    },
+    {
+        "id": 127,
+        "start": 389.0,
+        "end": 391.0,
+        "text": "Øh, det ved jeg ikke.",
+        "emoji": "💬"
+    },
+    {
+        "id": 128,
+        "start": 391.0,
+        "end": 393.0,
+        "text": "Det kan jeg bare.",
+        "emoji": "💬"
+    },
+    {
+        "id": 129,
+        "start": 395.0,
+        "end": 397.0,
+        "text": "Men det her er nu også rart.",
+        "emoji": "💬"
+    },
+    {
+        "id": 130,
+        "start": 400.0,
+        "end": 402.0,
+        "text": "Ej, det er varmt.",
+        "emoji": "💬"
+    },
+    {
+        "id": 131,
+        "start": 402.0,
+        "end": 404.0,
+        "text": "Åh, det er så varmt.",
+        "emoji": "💬"
+    },
+    {
+        "id": 132,
+        "start": 404.0,
+        "end": 407.0,
+        "text": "Må, hvad skal vi leve i dag?",
+        "emoji": "💬"
+    },
+    {
+        "id": 133,
+        "start": 408.0,
+        "end": 410.0,
+        "text": "Det er så varmt.",
+        "emoji": "💬"
+    },
+    {
+        "id": 134,
+        "start": 410.0,
+        "end": 412.0,
+        "text": "Det er så varmt.",
+        "emoji": "💬"
+    },
+    {
+        "id": 135,
+        "start": 412.0,
+        "end": 414.0,
+        "text": "Hvad skal vi leve i dag?",
+        "emoji": "💬"
+    },
+    {
+        "id": 136,
+        "start": 414.0,
+        "end": 417.0,
+        "text": "Ikke noget før du har børstet tænder.",
+        "emoji": "💬"
+    },
+    {
+        "id": 137,
+        "start": 417.0,
+        "end": 420.0,
+        "text": "Men jeg vil ikke børste tænder.",
+        "emoji": "💬"
+    },
+    {
+        "id": 138,
+        "start": 420.0,
+        "end": 422.0,
+        "text": "Det er kedeligt.",
+        "emoji": "💬"
+    },
+    {
+        "id": 139,
+        "start": 422.0,
+        "end": 425.0,
+        "text": "Kedelige ting er også vigtige.",
+        "emoji": "💬"
+    },
+    {
+        "id": 140,
+        "start": 425.0,
+        "end": 427.0,
+        "text": "Hvil er de ej?",
+        "emoji": "💬"
+    },
+    {
+        "id": 141,
+        "start": 427.0,
+        "end": 429.0,
+        "text": "Du lyder som din far.",
+        "emoji": "💬"
+    },
+    {
+        "id": 142,
+        "start": 430.0,
+        "end": 431.0,
+        "text": "Hey, unger!",
+        "emoji": "💬"
+    },
+    {
+        "id": 143,
+        "start": 431.0,
+        "end": 434.0,
+        "text": "Onkel Stribe sagde, vi må bruge hans pude, mens han er på Bali.",
+        "emoji": "💬"
+    },
+    {
+        "id": 144,
+        "start": 434.0,
+        "end": 435.0,
+        "text": "Ja!",
+        "emoji": "💬"
+    },
+    {
+        "id": 145,
+        "start": 436.0,
+        "end": 438.0,
+        "text": "Lad os komme væk herfra.",
+        "emoji": "💬"
+    },
+    {
+        "id": 146,
+        "start": 438.0,
+        "end": 440.0,
+        "text": "Husk nu at få alle svømetingene med.",
+        "emoji": "💬"
+    },
+    {
+        "id": 147,
+        "start": 440.0,
+        "end": 442.0,
+        "text": "Ja, ja. Vi har styr på det.",
+        "emoji": "💬"
+    },
+    {
+        "id": 148,
+        "start": 442.0,
+        "end": 444.0,
+        "text": "Ikke kun de sjove ting. Jeg mener alle tingene.",
+        "emoji": "💬"
+    },
+    {
+        "id": 149,
+        "start": 444.0,
+        "end": 446.0,
+        "text": "Kedeligt.",
+        "emoji": "💬"
+    },
+    {
+        "id": 150,
+        "start": 446.0,
+        "end": 448.0,
+        "text": "Ja, kedeligt.",
+        "emoji": "💬"
+    },
+    {
+        "id": 151,
+        "start": 448.0,
+        "end": 450.0,
+        "text": "Åh, hey!",
+        "emoji": "💬"
+    },
+    {
+        "id": 152,
+        "start": 452.0,
+        "end": 454.0,
+        "text": "Det var faktisk køligt og rart.",
+        "emoji": "💬"
+    },
+    {
+        "id": 153,
+        "start": 455.0,
+        "end": 458.0,
+        "text": "Denne episode af Bluey hedder Hulen.",
+        "emoji": "💬"
+    },
+    {
+        "id": 154,
+        "start": 460.0,
+        "end": 462.0,
+        "text": "Mor er godt nok et pylre hoved, er hun ikke os?",
+        "emoji": "💬"
+    },
+    {
+        "id": 155,
+        "start": 462.0,
+        "end": 464.0,
+        "text": "Må hun ikke.",
+        "emoji": "💬"
+    },
+    {
+        "id": 156,
+        "start": 464.0,
+        "end": 466.0,
+        "text": "Må hun ikke.",
+        "emoji": "💬"
+    },
+    {
+        "id": 157,
+        "start": 466.0,
+        "end": 469.0,
+        "text": "Mor får os altid til at lave en masse kedelige ting.",
+        "emoji": "💬"
+    },
+    {
+        "id": 158,
+        "start": 469.0,
+        "end": 470.0,
+        "text": "Må hun ikke!",
+        "emoji": "💬"
+    },
+    {
+        "id": 159,
+        "start": 470.0,
+        "end": 472.0,
+        "text": "Far er meget sjovere.",
+        "emoji": "💬"
+    },
+    {
+        "id": 160,
+        "start": 472.0,
+        "end": 474.0,
+        "text": "Må hun ikke!",
+        "emoji": "💬"
+    },
+    {
+        "id": 161,
+        "start": 474.0,
+        "end": 477.0,
+        "text": "Far, hvad stævrer?",
+        "emoji": "💬"
+    },
+    {
+        "id": 162,
+        "start": 477.0,
+        "end": 480.72,
+        "text": "U B B B U U U U U U",
+        "emoji": "💬"
+    },
+    {
+        "id": 163,
+        "start": 480.72,
+        "end": 484.38,
+        "text": "K K K K K J J K K K",
+        "emoji": "💬"
+    },
+    {
+        "id": 164,
+        "start": 484.92,
+        "end": 485.66,
+        "text": "Til",
+        "emoji": "💬"
+    },
+    {
+        "id": 165,
+        "start": 485.9,
+        "end": 487.26,
+        "text": "Upapapagayo",
+        "emoji": "💬"
+    },
+    {
+        "id": 166,
+        "start": 487.26,
+        "end": 488.72,
+        "text": "Hihihihihihi",
+        "emoji": "💬"
+    },
+    {
+        "id": 167,
+        "start": 491.86,
+        "end": 493.72,
+        "text": "I A U A Varmt",
+        "emoji": "💬"
+    },
+    {
+        "id": 168,
+        "start": 493.92,
+        "end": 495.2,
+        "text": "Så tag sandaler på",
+        "emoji": "💬"
+    },
+    {
+        "id": 169,
+        "start": 495.2,
+        "end": 496.32,
+        "text": "Jeg tog dem ikke med",
+        "emoji": "💬"
+    },
+    {
+        "id": 170,
+        "start": 496.64,
+        "end": 498.8,
+        "text": "Åhh okay, øhm",
+        "emoji": "💬"
+    },
+    {
+        "id": 171,
+        "start": 499.16,
+        "end": 500.68,
+        "text": "Hvordan gør vi så de her?",
+        "emoji": "💬"
+    },
+    {
+        "id": 172,
+        "start": 501.12,
+        "end": 501.62,
+        "text": "Her",
+        "emoji": "💬"
+    },
+    {
+        "id": 173,
+        "start": 501.62,
+        "end": 502.92,
+        "text": "Hihihihi",
+        "emoji": "💬"
+    },
+    {
+        "id": 174,
+        "start": 502.92,
+        "end": 504.26,
+        "text": "Au au au",
+        "emoji": "💬"
+    },
+    {
+        "id": 175,
+        "start": 504.26,
+        "end": 506.42,
+        "text": "Hey bingo, hvad foregår der deroppe?",
+        "emoji": "💬"
+    },
+    {
+        "id": 176,
+        "start": 506.46,
+        "end": 507.62,
+        "text": "Jeg er en giraf",
+        "emoji": "💬"
+    },
+    {
+        "id": 177,
+        "start": 507.62,
+        "end": 509.92,
+        "text": "Og jeg spiser de her blade",
+        "emoji": "💬"
+    },
+    {
+        "id": 178,
+        "start": 509.92,
+        "end": 511.92,
+        "text": "Hihihihi",
+        "emoji": "💬"
+    },
+    {
+        "id": 179,
+        "start": 511.92,
+        "end": 513.92,
+        "text": "Hihihihi",
+        "emoji": "💬"
+    },
+    {
+        "id": 180,
+        "start": 513.92,
+        "end": 514.92,
+        "text": "Far, skynd dig!",
+        "emoji": "💬"
+    },
+    {
+        "id": 181,
+        "start": 514.92,
+        "end": 516.92,
+        "text": "Kom og åbne lågen nu!",
+        "emoji": "💬"
+    },
+    {
+        "id": 182,
+        "start": 516.92,
+        "end": 518.92,
+        "text": "Hihihihi",
+        "emoji": "💬"
+    },
+    {
+        "id": 183,
+        "start": 518.92,
+        "end": 520.92,
+        "text": "Ah",
+        "emoji": "💬"
+    },
+    {
+        "id": 184,
+        "start": 520.92,
+        "end": 522.92,
+        "text": "Hihihihi",
+        "emoji": "💬"
+    },
+    {
+        "id": 185,
+        "start": 522.92,
+        "end": 524.92,
+        "text": "Må jeg få min svømmevest?",
+        "emoji": "💬"
+    },
+    {
+        "id": 186,
+        "start": 524.92,
+        "end": 525.42,
+        "text": "Tog du den med?",
+        "emoji": "💬"
+    },
+    {
+        "id": 187,
+        "start": 525.42,
+        "end": 526.42,
+        "text": "Nej",
+        "emoji": "💬"
+    },
+    {
+        "id": 188,
+        "start": 526.42,
+        "end": 527.42,
+        "text": "Så nej",
+        "emoji": "💬"
+    },
+    {
+        "id": 189,
+        "start": 527.42,
+        "end": 528.42,
+        "text": "Hvad?",
+        "emoji": "💬"
+    },
+    {
+        "id": 190,
+        "start": 528.42,
+        "end": 529.92,
+        "text": "Tog vi solcreme med?",
+        "emoji": "💬"
+    },
+    {
+        "id": 191,
+        "start": 529.92,
+        "end": 531.92,
+        "text": "Øh nej, det gjorde vi ikke",
+        "emoji": "💬"
+    },
+    {
+        "id": 192,
+        "start": 531.92,
+        "end": 534.42,
+        "text": "Det er okay, vi behøves ikke solcreme",
+        "emoji": "💬"
+    },
+    {
+        "id": 193,
+        "start": 534.42,
+        "end": 535.42,
+        "text": "Jo vi gør",
+        "emoji": "💬"
+    },
+    {
+        "id": 194,
+        "start": 535.42,
+        "end": 538.92,
+        "text": "Så må vi vidsplige skyggen og tage vores hattepå",
+        "emoji": "💬"
+    },
+    {
+        "id": 195,
+        "start": 538.92,
+        "end": 539.92,
+        "text": "Hvad for hattepå?",
+        "emoji": "💬"
+    },
+    {
+        "id": 196,
+        "start": 543.42,
+        "end": 545.42,
+        "text": "Hey bingo, se mig lige!",
+        "emoji": "💬"
+    },
+    {
+        "id": 197,
+        "start": 545.42,
+        "end": 546.42,
+        "text": "Hihihihi",
+        "emoji": "💬"
+    },
+    {
+        "id": 198,
+        "start": 546.42,
+        "end": 548.42,
+        "text": "Aaaaaaa",
+        "emoji": "💬"
+    },
+    {
+        "id": 199,
+        "start": 548.42,
+        "end": 549.92,
+        "text": "Min tur",
+        "emoji": "💬"
+    },
+    {
+        "id": 200,
+        "start": 550.92,
+        "end": 551.92,
+        "text": "Huuuh",
+        "emoji": "💬"
+    },
+    {
+        "id": 201,
+        "start": 552.42,
+        "end": 553.92,
+        "text": "Vil du tage den der op?",
+        "emoji": "💬"
+    },
+    {
+        "id": 202,
+        "start": 553.92,
+        "end": 555.92,
+        "text": "Øh nej, den holder pulen ren stump",
+        "emoji": "💬"
+    },
+    {
+        "id": 203,
+        "start": 555.92,
+        "end": 558.42,
+        "text": "Må jeg få mine svømmevinger?",
+        "emoji": "💬"
+    },
+    {
+        "id": 204,
+        "start": 558.42,
+        "end": 559.42,
+        "text": "Jeg tog dem ikke med",
+        "emoji": "💬"
+    },
+    {
+        "id": 205,
+        "start": 559.42,
+        "end": 560.42,
+        "text": "Hvad?",
+        "emoji": "💬"
+    },
+    {
+        "id": 206,
+        "start": 560.42,
+        "end": 561.42,
+        "text": "Øhm",
+        "emoji": "💬"
+    },
+    {
+        "id": 207,
+        "start": 562.42,
+        "end": 564.42,
+        "text": "Så er du nødt til at blive den lave inde",
+        "emoji": "💬"
+    },
+    {
+        "id": 208,
+        "start": 564.42,
+        "end": 565.42,
+        "text": "Øh",
+        "emoji": "💬"
+    },
+    {
+        "id": 209,
+        "start": 566.42,
+        "end": 571.42,
+        "text": "Men så kan jeg jo ikke svømme væk fra den slemme kryb, jeg tænkte",
+        "emoji": "💬"
+    },
+    {
+        "id": 210,
+        "start": 571.42,
+        "end": 574.42,
+        "text": "Far, tror du jeg kan svømme fra den her side til den der side?",
+        "emoji": "💬"
+    },
+    {
+        "id": 211,
+        "start": 574.42,
+        "end": 575.42,
+        "text": "Helt uden hjælp",
+        "emoji": "💬"
+    },
+    {
+        "id": 212,
+        "start": 575.42,
+        "end": 577.42,
+        "text": "Ja, det kan du helt sikkert",
+        "emoji": "💬"
+    },
+    {
+        "id": 213,
+        "start": 577.42,
+        "end": 580.42,
+        "text": "Nej, du skal lade som om du ikke tror jeg kan",
+        "emoji": "💬"
+    },
+    {
+        "id": 214,
+        "start": 580.42,
+        "end": 581.42,
+        "text": "Åh jamen noget, nej da",
+        "emoji": "💬"
+    },
+    {
+        "id": 215,
+        "start": 581.42,
+        "end": 584.42,
+        "text": "Der er ikke nogen der kan svømme så langt",
+        "emoji": "💬"
+    },
+    {
+        "id": 216,
+        "start": 584.42,
+        "end": 585.42,
+        "text": "Se her",
+        "emoji": "💬"
+    },
+    {
+        "id": 217,
+        "start": 588.42,
+        "end": 591.42,
+        "text": "Åh nej stump, beklager du må ikke svømme så langt ude i solen",
+        "emoji": "💬"
+    },
+    {
+        "id": 218,
+        "start": 591.42,
+        "end": 592.42,
+        "text": "Du har ikke solcreme på",
+        "emoji": "💬"
+    },
+    {
+        "id": 219,
+        "start": 592.42,
+        "end": 593.42,
+        "text": "Åh",
+        "emoji": "💬"
+    },
+    {
+        "id": 220,
+        "start": 594.42,
+        "end": 595.42,
+        "text": "Det skal nok gå",
+        "emoji": "💬"
+    },
+    {
+        "id": 221,
+        "start": 595.42,
+        "end": 597.42,
+        "text": "Nu skal der plaskes",
+        "emoji": "💬"
+    },
+    {
+        "id": 222,
+        "start": 600.42,
+        "end": 603.42,
+        "text": "Højere, højere, lavere",
+        "emoji": "💬"
+    },
+    {
+        "id": 223,
+        "start": 603.42,
+        "end": 604.42,
+        "text": "Okay",
+        "emoji": "💬"
+    },
+    {
+        "id": 224,
+        "start": 604.42,
+        "end": 606.42,
+        "text": "I",
+        "emoji": "💬"
+    },
+    {
+        "id": 225,
+        "start": 608.42,
+        "end": 610.42,
+        "text": "Vandet får mine øjne til at svige",
+        "emoji": "💬"
+    },
+    {
+        "id": 226,
+        "start": 610.42,
+        "end": 611.42,
+        "text": "Ja, det er kloren",
+        "emoji": "💬"
+    },
+    {
+        "id": 227,
+        "start": 611.42,
+        "end": 613.42,
+        "text": "Tog du svømmebriller med?",
+        "emoji": "💬"
+    },
+    {
+        "id": 228,
+        "start": 613.42,
+        "end": 614.42,
+        "text": "Nej",
+        "emoji": "💬"
+    },
+    {
+        "id": 229,
+        "start": 614.42,
+        "end": 617.42,
+        "text": "Åh okay, så må vi bare lege ovenover vandet stump",
+        "emoji": "💬"
+    },
+    {
+        "id": 230,
+        "start": 617.42,
+        "end": 620.42,
+        "text": "Men jeg vil dykke ned og hente dykkeryr",
+        "emoji": "💬"
+    },
+    {
+        "id": 231,
+        "start": 620.42,
+        "end": 622.42,
+        "text": "Tog du dyrene med?",
+        "emoji": "💬"
+    },
+    {
+        "id": 232,
+        "start": 622.42,
+        "end": 623.42,
+        "text": "Nej",
+        "emoji": "💬"
+    },
+    {
+        "id": 233,
+        "start": 623.42,
+        "end": 625.42,
+        "text": "Nå men så kan du ikke",
+        "emoji": "💬"
+    },
+    {
+        "id": 234,
+        "start": 625.42,
+        "end": 626.42,
+        "text": "Åh",
+        "emoji": "💬"
+    },
+    {
+        "id": 235,
+        "start": 626.42,
+        "end": 628.42,
+        "text": "Aarh, far",
+        "emoji": "💬"
+    },
+    {
+        "id": 236,
+        "start": 630.42,
+        "end": 632.42,
+        "text": "Jeg vil have mine svømmevinger",
+        "emoji": "💬"
+    },
+    {
+        "id": 237,
+        "start": 632.42,
+        "end": 636.42,
+        "text": "Far, tror du skynden bliver større eller mindre?",
+        "emoji": "💬"
+    },
+    {
+        "id": 238,
+        "start": 636.42,
+        "end": 639.42,
+        "text": "Øh, helt klart større",
+        "emoji": "💬"
+    },
+    {
+        "id": 239,
+        "start": 641.42,
+        "end": 643.42,
+        "text": "Jeg mente mindre",
+        "emoji": "💬"
+    },
+    {
+        "id": 240,
+        "start": 643.42,
+        "end": 644.42,
+        "text": "Jeg er træt",
+        "emoji": "💬"
+    },
+    {
+        "id": 241,
+        "start": 644.42,
+        "end": 647.42,
+        "text": "Hej træt, ret at møde dig",
+        "emoji": "💬"
+    },
+    {
+        "id": 242,
+        "start": 647.42,
+        "end": 649.42,
+        "text": "Jeg er sulten",
+        "emoji": "💬"
+    },
+    {
+        "id": 243,
+        "start": 649.42,
+        "end": 651.42,
+        "text": "Åh goddag sulten, det her er træt",
+        "emoji": "💬"
+    },
+    {
+        "id": 244,
+        "start": 651.42,
+        "end": 652.42,
+        "text": "Ja",
+        "emoji": "💬"
+    },
+    {
+        "id": 245,
+        "start": 652.42,
+        "end": 654.42,
+        "text": "Uh, svært publikum",
+        "emoji": "💬"
+    },
+    {
+        "id": 246,
+        "start": 654.42,
+        "end": 656.42,
+        "text": "Jeg vil have noget mad",
+        "emoji": "💬"
+    },
+    {
+        "id": 247,
+        "start": 656.42,
+        "end": 658.42,
+        "text": "Nå ja, det er jo frugterstid",
+        "emoji": "💬"
+    },
+    {
+        "id": 248,
+        "start": 658.42,
+        "end": 659.42,
+        "text": "Ja",
+        "emoji": "💬"
+    },
+    {
+        "id": 249,
+        "start": 659.42,
+        "end": 661.42,
+        "text": "Men jeg har ikke taget mad med",
+        "emoji": "💬"
+    },
+    {
+        "id": 250,
+        "start": 661.42,
+        "end": 663.42,
+        "text": "Åh",
+        "emoji": "💬"
+    },
+    {
+        "id": 251,
+        "start": 664.42,
+        "end": 667.42,
+        "text": "Ved hvad unger, jeg tror vi tager hjem nu",
+        "emoji": "💬"
+    },
+    {
+        "id": 252,
+        "start": 667.42,
+        "end": 670.42,
+        "text": "Nej, jeg vil ikke op ad poolen",
+        "emoji": "💬"
+    },
+    {
+        "id": 253,
+        "start": 671.42,
+        "end": 672.42,
+        "text": "Kom så Bingo",
+        "emoji": "💬"
+    },
+    {
+        "id": 254,
+        "start": 672.42,
+        "end": 674.42,
+        "text": "Jeg er fryser",
+        "emoji": "💬"
+    },
+    {
+        "id": 255,
+        "start": 674.42,
+        "end": 676.42,
+        "text": "Jamen så find dit håndglæde",
+        "emoji": "💬"
+    },
+    {
+        "id": 256,
+        "start": 676.42,
+        "end": 677.42,
+        "text": "Jeg tog ikke noget med",
+        "emoji": "💬"
+    },
+    {
+        "id": 257,
+        "start": 677.42,
+        "end": 678.42,
+        "text": "Så ryst dig",
+        "emoji": "💬"
+    },
+    {
+        "id": 258,
+        "start": 678.42,
+        "end": 680.42,
+        "text": "Jeg har ikke lært at ryste mig nu",
+        "emoji": "💬"
+    },
+    {
+        "id": 259,
+        "start": 680.42,
+        "end": 681.42,
+        "text": "Kom så",
+        "emoji": "💬"
+    },
+    {
+        "id": 260,
+        "start": 681.42,
+        "end": 684.42,
+        "text": "Nej, jeg vil ikke op ad poolen",
+        "emoji": "💬"
+    },
+    {
+        "id": 261,
+        "start": 686.42,
+        "end": 688.42,
+        "text": "Jeg vil blive her i svømmingkulen",
+        "emoji": "💬"
+    },
+    {
+        "id": 262,
+        "start": 690.42,
+        "end": 692.42,
+        "text": "Jeg kan altid ryste mig ordentligt",
+        "emoji": "💬"
+    },
+    {
+        "id": 263,
+        "start": 692.42,
+        "end": 694.42,
+        "text": "Louis, kom og hjælp mig med din søster",
+        "emoji": "💬"
+    },
+    {
+        "id": 264,
+        "start": 694.42,
+        "end": 697.42,
+        "text": "Jeg kommer aldrig op ad den her",
+        "emoji": "💬"
+    },
+    {
+        "id": 265,
+        "start": 699.42,
+        "end": 701.42,
+        "text": "Far, jeg er fryser",
+        "emoji": "💬"
+    },
+    {
+        "id": 266,
+        "start": 701.42,
+        "end": 703.42,
+        "text": "Far, det er hun i koldt",
+        "emoji": "💬"
+    },
+    {
+        "id": 267,
+        "start": 703.42,
+        "end": 704.42,
+        "text": "Far, jeg er sulten",
+        "emoji": "💬"
+    },
+    {
+        "id": 268,
+        "start": 704.42,
+        "end": 706.42,
+        "text": "Far, jeg er hunnesulten",
+        "emoji": "💬"
+    },
+    {
+        "id": 269,
+        "start": 706.42,
+        "end": 707.42,
+        "text": "Far, far, far",
+        "emoji": "💬"
+    },
+    {
+        "id": 270,
+        "start": 707.42,
+        "end": 708.42,
+        "text": "Far, far",
+        "emoji": "💬"
+    },
+    {
+        "id": 271,
+        "start": 708.42,
+        "end": 711.42,
+        "text": "Okay, gider I godt stoppe med at sige far?",
+        "emoji": "💬"
+    },
+    {
+        "id": 272,
+        "start": 711.42,
+        "end": 714.42,
+        "text": "Jeg synes faktisk far er rigtig kedelig",
+        "emoji": "💬"
+    },
+    {
+        "id": 273,
+        "start": 714.42,
+        "end": 716.42,
+        "text": "Mor er meget sjovere",
+        "emoji": "💬"
+    },
+    {
+        "id": 274,
+        "start": 716.42,
+        "end": 718.42,
+        "text": "Og det er jeg glad for at høre",
+        "emoji": "💬"
+    },
+    {
+        "id": 275,
+        "start": 718.42,
+        "end": 720.42,
+        "text": "Mor",
+        "emoji": "💬"
+    },
+    {
+        "id": 276,
+        "start": 720.42,
+        "end": 722.42,
+        "text": "Jeg har alle de svømmingting med, som I havde glemt",
+        "emoji": "💬"
+    },
+    {
+        "id": 277,
+        "start": 722.42,
+        "end": 724.42,
+        "text": "Ja",
+        "emoji": "💬"
+    },
+    {
+        "id": 278,
+        "start": 724.42,
+        "end": 726.42,
+        "text": "Åh, ba ba ba ka jo",
+        "emoji": "💬"
+    },
+    {
+        "id": 279,
+        "start": 726.42,
+        "end": 729.42,
+        "text": "Køn i ting er så også vigtige en gang imellem, hva?",
+        "emoji": "💬"
+    },
+    {
+        "id": 280,
+        "start": 729.42,
+        "end": 730.42,
+        "text": "Ja",
+        "emoji": "💬"
+    },
+    {
+        "id": 281,
+        "start": 730.42,
+        "end": 732.42,
+        "text": "Mor har to dykkerdygerne med",
+        "emoji": "💬"
+    },
+    {
+        "id": 282,
+        "start": 732.42,
+        "end": 733.42,
+        "text": "Ja",
+        "emoji": "💬"
+    },
+    {
+        "id": 283,
+        "start": 739.42,
+        "end": 741.42,
+        "text": "Jeg fik den",
+        "emoji": "💬"
+    },
+    {
+        "id": 284,
+        "start": 744.42,
+        "end": 746.42,
+        "text": "Okay, er I parat til torpedoen?",
+        "emoji": "💬"
+    },
+    {
+        "id": 285,
+        "start": 746.42,
+        "end": 747.42,
+        "text": "Parat",
+        "emoji": "💬"
+    },
+    {
+        "id": 286,
+        "start": 748.42,
+        "end": 749.42,
+        "text": "Jeg kan ikke lade det",
+        "emoji": "💬"
+    },
+    {
+        "id": 287,
+        "start": 749.42,
+        "end": 750.42,
+        "text": "Jeg kan ikke lade det",
+        "emoji": "💬"
+    },
+    {
+        "id": 288,
+        "start": 750.42,
+        "end": 751.42,
+        "text": "Jeg kan ikke lade det",
+        "emoji": "💬"
+    },
+    {
+        "id": 289,
+        "start": 751.42,
+        "end": 752.42,
+        "text": "Jeg kan ikke lade det",
+        "emoji": "💬"
+    },
+    {
+        "id": 290,
+        "start": 752.42,
+        "end": 753.42,
+        "text": "Jeg kan ikke lade det",
+        "emoji": "💬"
+    },
+    {
+        "id": 291,
+        "start": 753.42,
+        "end": 754.42,
+        "text": "Jeg kan ikke lade det",
+        "emoji": "💬"
+    },
+    {
+        "id": 292,
+        "start": 754.42,
+        "end": 755.42,
+        "text": "Parat",
+        "emoji": "💬"
+    },
+    {
+        "id": 293,
+        "start": 759.42,
+        "end": 761.42,
+        "text": "Du kan ikke fange mig",
+        "emoji": "💬"
+    },
+    {
+        "id": 294,
+        "start": 761.42,
+        "end": 762.42,
+        "text": "Følg beting",
+        "emoji": "💬"
+    },
+    {
+        "id": 295,
+        "start": 768.42,
+        "end": 770.42,
+        "text": "Kunne du høre, hvad jeg sagde?",
+        "emoji": "💬"
+    },
+    {
+        "id": 296,
+        "start": 770.42,
+        "end": 773.42,
+        "text": "Du sagde noget om ballettiner",
+        "emoji": "💬"
+    },
+    {
+        "id": 297,
+        "start": 784.42,
+        "end": 786.42,
+        "text": "Vi er ikke tilbage",
+        "emoji": "💬"
+    },
+    {
+        "id": 298,
+        "start": 786.42,
+        "end": 788.42,
+        "text": "Vi er tilbage",
+        "emoji": "💬"
+    },
+    {
+        "id": 299,
+        "start": 788.42,
+        "end": 790.42,
+        "text": "Vi er tilbage",
+        "emoji": "💬"
+    },
+    {
+        "id": 300,
+        "start": 790.42,
+        "end": 792.42,
+        "text": "Vi er tilbage",
+        "emoji": "💬"
+    },
+    {
+        "id": 301,
+        "start": 794.42,
+        "end": 796.42,
+        "text": "Vil du ikke nok lege med os?",
+        "emoji": "💬"
+    },
+    {
+        "id": 302,
+        "start": 796.42,
+        "end": 798.42,
+        "text": "Det har jeg desværre ikke tid til, Stump",
+        "emoji": "💬"
+    },
+    {
+        "id": 303,
+        "start": 798.42,
+        "end": 800.42,
+        "text": "Jeg arbejder hjemmefra i dag",
+        "emoji": "💬"
+    },
+    {
+        "id": 304,
+        "start": 800.42,
+        "end": 802.42,
+        "text": "Vent lidt, jeg smutter lige nedenunder",
+        "emoji": "💬"
+    },
+    {
+        "id": 305,
+        "start": 802.42,
+        "end": 803.42,
+        "text": "But",
+        "emoji": "💬"
+    },
+    {
+        "id": 306,
+        "start": 806.42,
+        "end": 808.42,
+        "text": "Okay, jeg er tilbage",
+        "emoji": "💬"
+    },
+    {
+        "id": 307,
+        "start": 808.42,
+        "end": 809.42,
+        "text": "Er det din?",
+        "emoji": "💬"
+    },
+    {
+        "id": 308,
+        "start": 809.42,
+        "end": 810.42,
+        "text": "Ja",
+        "emoji": "💬"
+    },
+    {
+        "id": 309,
+        "start": 810.42,
+        "end": 812.42,
+        "text": "Nej, elevatorlej med os",
+        "emoji": "💬"
+    },
+    {
+        "id": 310,
+        "start": 812.42,
+        "end": 813.42,
+        "text": "Hvad fint",
+        "emoji": "💬"
+    },
+    {
+        "id": 311,
+        "start": 815.42,
+        "end": 817.42,
+        "text": "Jeg fandt vist en sko til",
+        "emoji": "💬"
+    },
+    {
+        "id": 312,
+        "start": 817.42,
+        "end": 818.42,
+        "text": "Igen",
+        "emoji": "💬"
+    },
+    {
+        "id": 313,
+        "start": 818.42,
+        "end": 820.42,
+        "text": "Det klæder unger, jeg har rigtig meget arbejde",
+        "emoji": "💬"
+    },
+    {
+        "id": 314,
+        "start": 820.42,
+        "end": 823.42,
+        "text": "Dutt, jeg har ikke tid til elevatorlej",
+        "emoji": "💬"
+    },
+    {
+        "id": 315,
+        "start": 823.42,
+        "end": 825.42,
+        "text": "Men du lager slet, Joka",
+        "emoji": "💬"
+    },
+    {
+        "id": 316,
+        "start": 827.42,
+        "end": 829.42,
+        "text": "Denne episode er blevet i hænder",
+        "emoji": "💬"
+    },
+    {
+        "id": 317,
+        "start": 829.42,
+        "end": 830.42,
+        "text": "Joka-bold",
+        "emoji": "💬"
+    },
+    {
+        "id": 318,
+        "start": 838.42,
+        "end": 839.42,
+        "text": "Nu, Bingo",
+        "emoji": "💬"
+    },
+    {
+        "id": 319,
+        "start": 843.42,
+        "end": 844.42,
+        "text": "Hej",
+        "emoji": "💬"
+    },
+    {
+        "id": 320,
+        "start": 846.42,
+        "end": 848.42,
+        "text": "Ikke er I lige våge på?",
+        "emoji": "💬"
+    },
+    {
+        "id": 321,
+        "start": 848.42,
+        "end": 850.42,
+        "text": "Stop, stop",
+        "emoji": "💬"
+    },
+    {
+        "id": 322,
+        "start": 850.42,
+        "end": 851.42,
+        "text": "Stop",
+        "emoji": "💬"
+    },
+    {
+        "id": 323,
+        "start": 854.42,
+        "end": 856.42,
+        "text": "Sådan nogle små kryp",
+        "emoji": "💬"
+    },
+    {
+        "id": 324,
+        "start": 858.42,
+        "end": 861.42,
+        "text": "Hvorfor sidder du på en kæmpe grøn bold?",
+        "emoji": "💬"
+    },
+    {
+        "id": 325,
+        "start": 861.42,
+        "end": 864.42,
+        "text": "Fordi jeg ødelagde min ryg ved at skifte jeres blæer",
+        "emoji": "💬"
+    },
+    {
+        "id": 326,
+        "start": 864.42,
+        "end": 867.42,
+        "text": "Boing, boing, boing, boing, boing",
+        "emoji": "💬"
+    },
+    {
+        "id": 327,
+        "start": 867.42,
+        "end": 869.42,
+        "text": "Jeg vil også gerne prøve det der",
+        "emoji": "💬"
+    },
+    {
+        "id": 328,
+        "start": 870.42,
+        "end": 875.42,
+        "text": "Boing, boing, boing, boing, boing, boing, boing",
+        "emoji": "💬"
+    },
+    {
+        "id": 329,
+        "start": 875.42,
+        "end": 878.42,
+        "text": "Okay, smut så, jeg er nødt til at arbejde lidt",
+        "emoji": "💬"
+    },
+    {
+        "id": 330,
+        "start": 880.42,
+        "end": 882.42,
+        "text": "Nej, ikke nu",
+        "emoji": "💬"
+    },
+    {
+        "id": 331,
+        "start": 883.42,
+        "end": 884.42,
+        "text": "Louis",
+        "emoji": "💬"
+    },
+    {
+        "id": 332,
+        "start": 884.42,
+        "end": 887.42,
+        "text": "Åh, og så sagde omvendte Ole",
+        "emoji": "💬"
+    },
+    {
+        "id": 333,
+        "start": 887.42,
+        "end": 890.42,
+        "text": "Kunne smutte i bananen, du tænke dig",
+        "emoji": "💬"
+    },
+    {
+        "id": 334,
+        "start": 891.42,
+        "end": 894.42,
+        "text": "Åh boldet, nu skal du sove",
+        "emoji": "💬"
+    },
+    {
+        "id": 335,
+        "start": 894.42,
+        "end": 896.42,
+        "text": "Du må være helt vildt træt",
+        "emoji": "💬"
+    },
+    {
+        "id": 336,
+        "start": 896.42,
+        "end": 899.42,
+        "text": "Den der store far har siddet på dig hele dagen",
+        "emoji": "💬"
+    },
+    {
+        "id": 337,
+        "start": 899.42,
+        "end": 902.42,
+        "text": "Åh bolde, hvilken tatuering skal jeg vælge?",
+        "emoji": "💬"
+    },
+    {
+        "id": 338,
+        "start": 902.42,
+        "end": 904.42,
+        "text": "Kan du lige enhjørning?",
+        "emoji": "💬"
+    },
+    {
+        "id": 339,
+        "start": 904.42,
+        "end": 907.42,
+        "text": "Eller regnbogen?",
+        "emoji": "💬"
+    },
+    {
+        "id": 340,
+        "start": 907.42,
+        "end": 908.42,
+        "text": "Ja, Bingo",
+        "emoji": "💬"
+    },
+    {
+        "id": 341,
+        "start": 908.42,
+        "end": 910.42,
+        "text": "Jeg hedder altså Jarn",
+        "emoji": "💬"
+    },
+    {
+        "id": 342,
+        "start": 910.42,
+        "end": 913.42,
+        "text": "Jamen Jarn, jeg synes virkelig du skulle vælge den",
+        "emoji": "💬"
+    },
+    {
+        "id": 343,
+        "start": 913.42,
+        "end": 915.42,
+        "text": "Der er den",
+        "emoji": "💬"
+    },
+    {
+        "id": 344,
+        "start": 920.42,
+        "end": 921.42,
+        "text": "Ud",
+        "emoji": "💬"
+    },
+    {
+        "id": 345,
+        "start": 921.42,
+        "end": 922.42,
+        "text": "Må vi ikke godt lege i budstolen nu?",
+        "emoji": "💬"
+    },
+    {
+        "id": 346,
+        "start": 922.42,
+        "end": 923.42,
+        "text": "Nej",
+        "emoji": "💬"
+    },
+    {
+        "id": 347,
+        "start": 923.42,
+        "end": 925.42,
+        "text": "Åh, behjørm",
+        "emoji": "💬"
+    },
+    {
+        "id": 348,
+        "start": 925.42,
+        "end": 928.42,
+        "text": "Og ikke de store hundøjne",
+        "emoji": "💬"
+    },
+    {
+        "id": 349,
+        "start": 929.42,
+        "end": 930.42,
+        "text": "Okay",
+        "emoji": "💬"
+    },
+    {
+        "id": 350,
+        "start": 930.42,
+        "end": 932.42,
+        "text": "Ja, Bingo, vi skal lege i budstolen",
+        "emoji": "💬"
+    },
+    {
+        "id": 351,
+        "start": 932.42,
+        "end": 935.42,
+        "text": "De hundøjne får mig bare hver gang",
+        "emoji": "💬"
+    },
+    {
+        "id": 352,
+        "start": 935.42,
+        "end": 938.42,
+        "text": "Nu er jeg nødt til at levere de to pakker her",
+        "emoji": "💬"
+    },
+    {
+        "id": 353,
+        "start": 938.42,
+        "end": 940.42,
+        "text": "Men først så skal de altså stempe løs",
+        "emoji": "💬"
+    },
+    {
+        "id": 354,
+        "start": 940.42,
+        "end": 942.42,
+        "text": "Stempel, stempel",
+        "emoji": "💬"
+    },
+    {
+        "id": 355,
+        "start": 944.42,
+        "end": 947.42,
+        "text": "Okay, nu skal jeg levere de to her til",
+        "emoji": "💬"
+    },
+    {
+        "id": 356,
+        "start": 947.42,
+        "end": 948.42,
+        "text": "Læmme se",
+        "emoji": "💬"
+    },
+    {
+        "id": 357,
+        "start": 948.42,
+        "end": 950.42,
+        "text": "Åh, Mogadishu",
+        "emoji": "💬"
+    },
+    {
+        "id": 358,
+        "start": 950.42,
+        "end": 952.42,
+        "text": "Okay, her er en pakke",
+        "emoji": "💬"
+    },
+    {
+        "id": 359,
+        "start": 952.42,
+        "end": 954.42,
+        "text": "Åh, stemtet skrøblig",
+        "emoji": "💬"
+    },
+    {
+        "id": 360,
+        "start": 954.42,
+        "end": 956.42,
+        "text": "Okay, så må jeg hellere være forsigtig",
+        "emoji": "💬"
+    },
+    {
+        "id": 361,
+        "start": 956.42,
+        "end": 959.42,
+        "text": "Og her er den anden pakke",
+        "emoji": "💬"
+    },
+    {
+        "id": 362,
+        "start": 961.42,
+        "end": 963.42,
+        "text": "Okay, leveringen er færdig",
+        "emoji": "💬"
+    },
+    {
+        "id": 363,
+        "start": 963.42,
+        "end": 965.42,
+        "text": "Nu må jeg hellere tilbage til arbejdet",
+        "emoji": "💬"
+    },
+    {
+        "id": 364,
+        "start": 965.42,
+        "end": 967.42,
+        "text": "Åh, kom nu, en til",
+        "emoji": "💬"
+    },
+    {
+        "id": 365,
+        "start": 967.42,
+        "end": 968.42,
+        "text": "Nej",
+        "emoji": "💬"
+    },
+    {
+        "id": 366,
+        "start": 970.42,
+        "end": 973.42,
+        "text": "Kan vi ikke bare hurtigt lege den leg, hvor vi løber ned ad gangen?",
+        "emoji": "💬"
+    },
+    {
+        "id": 367,
+        "start": 973.42,
+        "end": 975.42,
+        "text": "Og du synger dananana",
+        "emoji": "💬"
+    },
+    {
+        "id": 368,
+        "start": 975.42,
+        "end": 977.42,
+        "text": "Og triller bolden ned ad gangen",
+        "emoji": "💬"
+    },
+    {
+        "id": 369,
+        "start": 977.42,
+        "end": 979.42,
+        "text": "Og så hopper vi ud til siderne",
+        "emoji": "💬"
+    },
+    {
+        "id": 370,
+        "start": 979.42,
+        "end": 981.42,
+        "text": "Nå, legen med bolden",
+        "emoji": "💬"
+    },
+    {
+        "id": 371,
+        "start": 981.42,
+        "end": 983.42,
+        "text": "Ja, bolden",
+        "emoji": "💬"
+    },
+    {
+        "id": 372,
+        "start": 983.42,
+        "end": 985.42,
+        "text": "Okay, så en hurtig leg",
+        "emoji": "💬"
+    },
+    {
+        "id": 373,
+        "start": 985.42,
+        "end": 986.42,
+        "text": "Hurra!",
+        "emoji": "💬"
+    },
+    {
+        "id": 374,
+        "start": 986.42,
+        "end": 988.42,
+        "text": "Men ikke for hurtigt",
+        "emoji": "💬"
+    },
+    {
+        "id": 375,
+        "start": 988.42,
+        "end": 991.42,
+        "text": "Jeg vil have, at du skal lege så længe",
+        "emoji": "💬"
+    },
+    {
+        "id": 376,
+        "start": 991.42,
+        "end": 992.42,
+        "text": "Okay, det er fint",
+        "emoji": "💬"
+    },
+    {
+        "id": 377,
+        "start": 992.42,
+        "end": 993.42,
+        "text": "Hurra!",
+        "emoji": "💬"
+    },
+    {
+        "id": 378,
+        "start": 996.42,
+        "end": 998.42,
+        "text": "Er I parate?",
+        "emoji": "💬"
+    },
+    {
+        "id": 379,
+        "start": 998.42,
+        "end": 999.42,
+        "text": "Ja!",
+        "emoji": "💬"
+    },
+    {
+        "id": 380,
+        "start": 999.42,
+        "end": 1001.42,
+        "text": "Okay, løs!",
+        "emoji": "💬"
+    },
+    {
+        "id": 381,
+        "start": 1006.42,
+        "end": 1007.42,
+        "text": "Igen!",
+        "emoji": "💬"
+    },
+    {
+        "id": 382,
+        "start": 1013.42,
+        "end": 1014.42,
+        "text": "Igen!",
+        "emoji": "💬"
+    },
+    {
+        "id": 383,
+        "start": 1023.42,
+        "end": 1025.42,
+        "text": "Okay, så er det nok",
+        "emoji": "💬"
+    },
+    {
+        "id": 384,
+        "start": 1025.42,
+        "end": 1027.42,
+        "text": "Nu er jeg nødt til at arbejde",
+        "emoji": "💬"
+    },
+    {
+        "id": 385,
+        "start": 1027.42,
+        "end": 1029.42,
+        "text": "Det var ikke så slemt, skat",
+        "emoji": "💬"
+    },
+    {
+        "id": 386,
+        "start": 1043.42,
+        "end": 1045.42,
+        "text": "Hej, Bingo",
+        "emoji": "💬"
+    },
+    {
+        "id": 387,
+        "start": 1045.42,
+        "end": 1047.42,
+        "text": "Håh, hvad er der i vejen?",
+        "emoji": "💬"
+    },
+    {
+        "id": 388,
+        "start": 1047.42,
+        "end": 1050.42,
+        "text": "Far leger alt for vildt med mig",
+        "emoji": "💬"
+    },
+    {
+        "id": 389,
+        "start": 1050.42,
+        "end": 1054.42,
+        "text": "Ja, han leger for vildt med dig nogle gange, gør han ikke?",
+        "emoji": "💬"
+    },
+    {
+        "id": 390,
+        "start": 1054.42,
+        "end": 1055.42,
+        "text": "Jo",
+        "emoji": "💬"
+    },
+    {
+        "id": 391,
+        "start": 1055.42,
+        "end": 1057.42,
+        "text": "Brukte du dit store pigebjef?",
+        "emoji": "💬"
+    },
+    {
+        "id": 392,
+        "start": 1057.42,
+        "end": 1058.42,
+        "text": "Nej",
+        "emoji": "💬"
+    },
+    {
+        "id": 393,
+        "start": 1058.42,
+        "end": 1062.42,
+        "text": "For jeg har ikke noget særlig godt store pigebjef",
+        "emoji": "💬"
+    },
+    {
+        "id": 394,
+        "start": 1062.42,
+        "end": 1064.42,
+        "text": "Ikke det? Prøv lige",
+        "emoji": "💬"
+    },
+    {
+        "id": 395,
+        "start": 1064.42,
+        "end": 1065.42,
+        "text": "Uff",
+        "emoji": "💬"
+    },
+    {
+        "id": 396,
+        "start": 1065.42,
+        "end": 1067.42,
+        "text": "Ej, det er da fint",
+        "emoji": "💬"
+    },
+    {
+        "id": 397,
+        "start": 1067.42,
+        "end": 1068.42,
+        "text": "Bare gør det større",
+        "emoji": "💬"
+    },
+    {
+        "id": 398,
+        "start": 1068.42,
+        "end": 1070.42,
+        "text": "Ja, det er da fint",
+        "emoji": "💬"
+    },
+    {
+        "id": 399,
+        "start": 1070.42,
+        "end": 1071.42,
+        "text": "Ej, det er da fint",
+        "emoji": "💬"
+    },
+    {
+        "id": 400,
+        "start": 1071.42,
+        "end": 1073.42,
+        "text": "Bare gør det større",
+        "emoji": "💬"
+    },
+    {
+        "id": 401,
+        "start": 1073.42,
+        "end": 1074.42,
+        "text": "Uff",
+        "emoji": "💬"
+    },
+    {
+        "id": 402,
+        "start": 1074.42,
+        "end": 1075.42,
+        "text": "Større",
+        "emoji": "💬"
+    },
+    {
+        "id": 403,
+        "start": 1076.42,
+        "end": 1077.42,
+        "text": "Uff",
+        "emoji": "💬"
+    },
+    {
+        "id": 404,
+        "start": 1077.42,
+        "end": 1079.42,
+        "text": "Øj, der var det",
+        "emoji": "💬"
+    },
+    {
+        "id": 405,
+        "start": 1079.42,
+        "end": 1081.42,
+        "text": "Kom så, lad os gå ind og tale med far",
+        "emoji": "💬"
+    },
+    {
+        "id": 406,
+        "start": 1081.42,
+        "end": 1082.42,
+        "text": "Uff",
+        "emoji": "💬"
+    },
+    {
+        "id": 407,
+        "start": 1085.42,
+        "end": 1087.42,
+        "text": "Gå nu væk",
+        "emoji": "💬"
+    },
+    {
+        "id": 408,
+        "start": 1090.42,
+        "end": 1091.42,
+        "text": "Hvad nu?",
+        "emoji": "💬"
+    },
+    {
+        "id": 409,
+        "start": 1091.42,
+        "end": 1093.42,
+        "text": "Du får ballede",
+        "emoji": "💬"
+    },
+    {
+        "id": 410,
+        "start": 1093.42,
+        "end": 1095.42,
+        "text": "Ingen får ballede",
+        "emoji": "💬"
+    },
+    {
+        "id": 411,
+        "start": 1095.42,
+        "end": 1099.42,
+        "text": "Bingo har bare noget, hun gerne vil sige til far, ikke også?",
+        "emoji": "💬"
+    },
+    {
+        "id": 412,
+        "start": 1101.42,
+        "end": 1104.42,
+        "text": "Nogle gange leger du lidt for vildt med mig",
+        "emoji": "💬"
+    },
+    {
+        "id": 413,
+        "start": 1104.42,
+        "end": 1107.42,
+        "text": "Åh, bingo, gør jeg?",
+        "emoji": "💬"
+    },
+    {
+        "id": 414,
+        "start": 1107.42,
+        "end": 1110.42,
+        "text": "Åh, det er jeg ked af, det var jeg ikke klar over",
+        "emoji": "💬"
+    },
+    {
+        "id": 415,
+        "start": 1110.42,
+        "end": 1113.42,
+        "text": "Jeg tror, hvis jeg glemmer, du er en smule yngre end din søster",
+        "emoji": "💬"
+    },
+    {
+        "id": 416,
+        "start": 1113.42,
+        "end": 1114.42,
+        "text": "Jeg er kun fire år",
+        "emoji": "💬"
+    },
+    {
+        "id": 417,
+        "start": 1114.42,
+        "end": 1116.42,
+        "text": "Ja, ikke seks og mig",
+        "emoji": "💬"
+    },
+    {
+        "id": 418,
+        "start": 1116.42,
+        "end": 1120.42,
+        "text": "Men far, vi vil ikke have, at du skal holde op med at lege med os",
+        "emoji": "💬"
+    },
+    {
+        "id": 419,
+        "start": 1120.42,
+        "end": 1121.42,
+        "text": "Åh, okay",
+        "emoji": "💬"
+    },
+    {
+        "id": 420,
+        "start": 1121.42,
+        "end": 1126.42,
+        "text": "Jeg skal bare blive bedre til at bruge mit store pigebjef",
+        "emoji": "💬"
+    },
+    {
+        "id": 421,
+        "start": 1126.42,
+        "end": 1127.42,
+        "text": "Okay, så lad os øve os lidt",
+        "emoji": "💬"
+    },
+    {
+        "id": 422,
+        "start": 1127.42,
+        "end": 1128.42,
+        "text": "Okay",
+        "emoji": "💬"
+    },
+    {
+        "id": 423,
+        "start": 1128.42,
+        "end": 1131.42,
+        "text": "Nå, sig mig, er det her for vildt?",
+        "emoji": "💬"
+    },
+    {
+        "id": 424,
+        "start": 1131.42,
+        "end": 1132.42,
+        "text": "Bøjn",
+        "emoji": "💬"
+    },
+    {
+        "id": 425,
+        "start": 1132.42,
+        "end": 1134.42,
+        "text": "Nej, det er okay",
+        "emoji": "💬"
+    },
+    {
+        "id": 426,
+        "start": 1134.42,
+        "end": 1136.42,
+        "text": "Okay, er det her for vildt?",
+        "emoji": "💬"
+    },
+    {
+        "id": 427,
+        "start": 1136.42,
+        "end": 1137.42,
+        "text": "Bøjn",
+        "emoji": "💬"
+    },
+    {
+        "id": 428,
+        "start": 1137.42,
+        "end": 1139.42,
+        "text": "Nej, det er også okay",
+        "emoji": "💬"
+    },
+    {
+        "id": 429,
+        "start": 1139.42,
+        "end": 1141.42,
+        "text": "Okay, hvad med det her?",
+        "emoji": "💬"
+    },
+    {
+        "id": 430,
+        "start": 1141.42,
+        "end": 1142.42,
+        "text": "Bøjn",
+        "emoji": "💬"
+    },
+    {
+        "id": 431,
+        "start": 1142.42,
+        "end": 1146.42,
+        "text": "Okay, lidt for vildt, så ved jeg det",
+        "emoji": "💬"
+    },
+    {
+        "id": 432,
+        "start": 1146.42,
+        "end": 1149.42,
+        "text": "Okay, og smuts og mere, jeg er nødt til",
+        "emoji": "💬"
+    },
+    {
+        "id": 433,
+        "start": 1149.42,
+        "end": 1152.42,
+        "text": "Hey, hvor er min boldinde?",
+        "emoji": "💬"
+    },
+    {
+        "id": 434,
+        "start": 1152.42,
+        "end": 1155.42,
+        "text": "Jeg kommer lige om lidt",
+        "emoji": "💬"
+    },
+    {
+        "id": 435,
+        "start": 1156.42,
+        "end": 1160.42,
+        "text": "Du Mille, hvor ubehagelig",
+        "emoji": "💬"
+    },
+    {
+        "id": 436,
+        "start": 1160.42,
+        "end": 1162.42,
+        "text": "Kan I ikke se, jeg er på toilettet?",
+        "emoji": "💬"
+    },
+    {
+        "id": 437,
+        "start": 1163.42,
+        "end": 1164.42,
+        "text": "Hun er her",
+        "emoji": "💬"
+    },
+    {
+        "id": 438,
+        "start": 1164.42,
+        "end": 1166.42,
+        "text": "Ja, Muffin er her",
+        "emoji": "💬"
+    },
+    {
+        "id": 439,
+        "start": 1166.42,
+        "end": 1168.42,
+        "text": "Mor, kan du huske, hvad du har lovet?",
+        "emoji": "💬"
+    },
+    {
+        "id": 440,
+        "start": 1168.42,
+        "end": 1169.42,
+        "text": "Ja, det kan jeg godt",
+        "emoji": "💬"
+    },
+    {
+        "id": 441,
+        "start": 1169.42,
+        "end": 1173.42,
+        "text": "Da det er en særlig aften, og kusine Muffin skal over natte",
+        "emoji": "💬"
+    },
+    {
+        "id": 442,
+        "start": 1173.42,
+        "end": 1176.42,
+        "text": "Må I blive en lille smule længere oppe",
+        "emoji": "💬"
+    },
+    {
+        "id": 443,
+        "start": 1176.42,
+        "end": 1179.42,
+        "text": "Hurra, længere oppe, længere oppe",
+        "emoji": "💬"
+    },
+    {
+        "id": 444,
+        "start": 1179.42,
+        "end": 1181.42,
+        "text": "Muffin, vi må blive længere oppe",
+        "emoji": "💬"
+    },
+    {
+        "id": 445,
+        "start": 1181.42,
+        "end": 1184.42,
+        "text": "Kogrefnødder, de er helt fyldt med vand",
+        "emoji": "💬"
+    },
+    {
+        "id": 446,
+        "start": 1184.42,
+        "end": 1186.42,
+        "text": "Hvor, hvad sker der med dig, Muffin?",
+        "emoji": "💬"
+    },
+    {
+        "id": 447,
+        "start": 1186.42,
+        "end": 1189.42,
+        "text": "Åh nej, Muffin har ikke fået midtagslur",
+        "emoji": "💬"
+    },
+    {
+        "id": 448,
+        "start": 1189.42,
+        "end": 1191.42,
+        "text": "Jeg er en lame",
+        "emoji": "💬"
+    },
+    {
+        "id": 449,
+        "start": 1191.42,
+        "end": 1193.42,
+        "text": "Ikk' at røgge dig da",
+        "emoji": "💬"
+    },
+    {
+        "id": 450,
+        "start": 1193.42,
+        "end": 1195.42,
+        "text": "Nyam nyam nyam nyam nyam nyam",
+        "emoji": "💬"
+    },
+    {
+        "id": 451,
+        "start": 1195.42,
+        "end": 1197.42,
+        "text": "Sagde hun lige, at hun var en lame?",
+        "emoji": "💬"
+    },
+    {
+        "id": 452,
+        "start": 1197.42,
+        "end": 1201.42,
+        "text": "Denne episode af Bluey hedder over natten i",
+        "emoji": "💬"
+    },
+    {
+        "id": 453,
+        "start": 1201.42,
+        "end": 1204.42,
+        "text": "Du stopper der, der stopper",
+        "emoji": "💬"
+    },
+    {
+        "id": 454,
+        "start": 1206.42,
+        "end": 1208.42,
+        "text": "Hvad foregår, når ungdomskribe?",
+        "emoji": "💬"
+    },
+    {
+        "id": 455,
+        "start": 1208.42,
+        "end": 1212.42,
+        "text": "Kan I huske, at I to var yngre, og I skulle tage en lille lure midt på dagen?",
+        "emoji": "💬"
+    },
+    {
+        "id": 456,
+        "start": 1212.42,
+        "end": 1213.42,
+        "text": "Ja",
+        "emoji": "💬"
+    },
+    {
+        "id": 457,
+        "start": 1213.42,
+        "end": 1216.42,
+        "text": "Nå, da I blev ældre, så har de op med at tage den lure, ikke også?",
+        "emoji": "💬"
+    },
+    {
+        "id": 458,
+        "start": 1216.42,
+        "end": 1218.42,
+        "text": "Ja, vi sover kun en gang",
+        "emoji": "💬"
+    },
+    {
+        "id": 459,
+        "start": 1218.42,
+        "end": 1219.42,
+        "text": "Ja, om natten",
+        "emoji": "💬"
+    },
+    {
+        "id": 460,
+        "start": 1219.42,
+        "end": 1224.42,
+        "text": "Nå, men Muffin er lige ved at lære ikke at skulle tage sin anden lille lure om dagen",
+        "emoji": "💬"
+    },
+    {
+        "id": 461,
+        "start": 1224.42,
+        "end": 1225.42,
+        "text": "Nå",
+        "emoji": "💬"
+    },
+    {
+        "id": 462,
+        "start": 1226.42,
+        "end": 1227.42,
+        "text": "Au",
+        "emoji": "💬"
+    },
+    {
+        "id": 463,
+        "start": 1227.42,
+        "end": 1229.42,
+        "text": "Bare han stopper",
+        "emoji": "💬"
+    },
+    {
+        "id": 464,
+        "start": 1229.42,
+        "end": 1231.42,
+        "text": "Okay, Muffin, du skal tidligt i seng",
+        "emoji": "💬"
+    },
+    {
+        "id": 465,
+        "start": 1231.42,
+        "end": 1234.42,
+        "text": "Men nej, vi to må godt blive længe oppe",
+        "emoji": "💬"
+    },
+    {
+        "id": 466,
+        "start": 1234.42,
+        "end": 1236.42,
+        "text": "Nå, men jeg må smutte",
+        "emoji": "💬"
+    },
+    {
+        "id": 467,
+        "start": 1236.42,
+        "end": 1237.42,
+        "text": "Hej, Muffin",
+        "emoji": "💬"
+    },
+    {
+        "id": 468,
+        "start": 1237.42,
+        "end": 1238.42,
+        "text": "Au",
+        "emoji": "💬"
+    },
+    {
+        "id": 469,
+        "start": 1238.42,
+        "end": 1239.42,
+        "text": "Koko, snill",
+        "emoji": "💬"
+    },
+    {
+        "id": 470,
+        "start": 1242.42,
+        "end": 1245.42,
+        "text": "Mor, du lod vi må blive længe oppe",
+        "emoji": "💬"
+    },
+    {
+        "id": 471,
+        "start": 1245.42,
+        "end": 1249.42,
+        "text": "Ja, det ved jeg godt, men vi er nødt til at tage lidt hensyn til Muffin",
+        "emoji": "💬"
+    },
+    {
+        "id": 472,
+        "start": 1249.42,
+        "end": 1251.42,
+        "text": "Hun har brug for søvn",
+        "emoji": "💬"
+    },
+    {
+        "id": 473,
+        "start": 1251.42,
+        "end": 1252.42,
+        "text": "Men du lod",
+        "emoji": "💬"
+    },
+    {
+        "id": 474,
+        "start": 1252.42,
+        "end": 1255.42,
+        "text": "En leg og så i seng",
+        "emoji": "💬"
+    },
+    {
+        "id": 475,
+        "start": 1255.42,
+        "end": 1256.42,
+        "text": "Åh",
+        "emoji": "💬"
+    },
+    {
+        "id": 476,
+        "start": 1256.42,
+        "end": 1258.42,
+        "text": "Gitter, der kan puste stop",
+        "emoji": "💬"
+    },
+    {
+        "id": 477,
+        "start": 1258.42,
+        "end": 1259.42,
+        "text": "Uh, jeg har det",
+        "emoji": "💬"
+    },
+    {
+        "id": 478,
+        "start": 1259.42,
+        "end": 1261.42,
+        "text": "Lad os lege en rigtig lang leg",
+        "emoji": "💬"
+    },
+    {
+        "id": 479,
+        "start": 1261.42,
+        "end": 1262.42,
+        "text": "Ja",
+        "emoji": "💬"
+    },
+    {
+        "id": 480,
+        "start": 1262.42,
+        "end": 1264.42,
+        "text": "Okay, en leg så i seng",
+        "emoji": "💬"
+    },
+    {
+        "id": 481,
+        "start": 1264.42,
+        "end": 1266.42,
+        "text": "Godt, hvad vil I gerne lege?",
+        "emoji": "💬"
+    },
+    {
+        "id": 482,
+        "start": 1266.42,
+        "end": 1268.42,
+        "text": "Restauranten",
+        "emoji": "💬"
+    },
+    {
+        "id": 483,
+        "start": 1268.42,
+        "end": 1269.42,
+        "text": "Au",
+        "emoji": "💬"
+    },
+    {
+        "id": 484,
+        "start": 1269.42,
+        "end": 1270.42,
+        "text": "Åh",
+        "emoji": "💬"
+    },
+    {
+        "id": 485,
+        "start": 1270.42,
+        "end": 1275.42,
+        "text": "Nå, sødemand og Sheila, skal vi spise en fin lang middag på restauranten?",
+        "emoji": "💬"
+    },
+    {
+        "id": 486,
+        "start": 1275.42,
+        "end": 1276.42,
+        "text": "Helt klart, snut",
+        "emoji": "💬"
+    },
+    {
+        "id": 487,
+        "start": 1276.42,
+        "end": 1279.42,
+        "text": "God aften, velkommen til vores restaurant",
+        "emoji": "💬"
+    },
+    {
+        "id": 488,
+        "start": 1279.42,
+        "end": 1281.42,
+        "text": "Kent for den slynservering",
+        "emoji": "💬"
+    },
+    {
+        "id": 489,
+        "start": 1281.42,
+        "end": 1283.42,
+        "text": "Hvor mange gæster bliver I i aften?",
+        "emoji": "💬"
+    },
+    {
+        "id": 490,
+        "start": 1283.42,
+        "end": 1284.42,
+        "text": "Vi skal tage en gang",
+        "emoji": "💬"
+    },
+    {
+        "id": 491,
+        "start": 1284.42,
+        "end": 1285.42,
+        "text": "Ja, det er det",
+        "emoji": "💬"
+    },
+    {
+        "id": 492,
+        "start": 1285.42,
+        "end": 1286.42,
+        "text": "Sådan, sådan",
+        "emoji": "💬"
+    },
+    {
+        "id": 493,
+        "start": 1286.42,
+        "end": 1287.42,
+        "text": "Sådan",
+        "emoji": "💬"
+    },
+    {
+        "id": 494,
+        "start": 1287.42,
+        "end": 1288.42,
+        "text": "Sådan",
+        "emoji": "💬"
+    },
+    {
+        "id": 495,
+        "start": 1288.42,
+        "end": 1289.42,
+        "text": "Sådan",
+        "emoji": "💬"
+    },
+    {
+        "id": 496,
+        "start": 1289.42,
+        "end": 1290.42,
+        "text": "Sådan",
+        "emoji": "💬"
+    },
+    {
+        "id": 497,
+        "start": 1290.42,
+        "end": 1292.42,
+        "text": "Hvor mange gæster bliver I i aften?",
+        "emoji": "💬"
+    },
+    {
+        "id": 498,
+        "start": 1292.42,
+        "end": 1293.42,
+        "text": "Tre",
+        "emoji": "💬"
+    },
+    {
+        "id": 499,
+        "start": 1293.42,
+        "end": 1294.42,
+        "text": "Så gerne",
+        "emoji": "💬"
+    },
+    {
+        "id": 500,
+        "start": 1294.42,
+        "end": 1296.42,
+        "text": "En, to, hvor blev den tredje af?",
+        "emoji": "💬"
+    },
+    {
+        "id": 501,
+        "start": 1296.42,
+        "end": 1297.42,
+        "text": "Brrr",
+        "emoji": "💬"
+    },
+    {
+        "id": 502,
+        "start": 1297.42,
+        "end": 1300.42,
+        "text": "Jaa, godnap, Sheila",
+        "emoji": "💬"
+    },
+    {
+        "id": 503,
+        "start": 1300.42,
+        "end": 1303.42,
+        "text": "Mit navn er Booboo Baboop",
+        "emoji": "💬"
+    },
+    {
+        "id": 504,
+        "start": 1303.42,
+        "end": 1306.42,
+        "text": "Jeg tror, hvis da Booboo Baboop skal i seng",
+        "emoji": "💬"
+    },
+    {
+        "id": 505,
+        "start": 1306.42,
+        "end": 1309.42,
+        "text": "Åh nej, det går, hun elsker bare planten",
+        "emoji": "💬"
+    },
+    {
+        "id": 506,
+        "start": 1309.42,
+        "end": 1313.42,
+        "text": "Åh, dumme planta",
+        "emoji": "💬"
+    },
+    {
+        "id": 507,
+        "start": 1313.42,
+        "end": 1316.42,
+        "text": "Tager du nu sammen, Sheila?",
+        "emoji": "💬"
+    },
+    {
+        "id": 508,
+        "start": 1317.42,
+        "end": 1318.42,
+        "text": "Nu er vi klar",
+        "emoji": "💬"
+    },
+    {
+        "id": 509,
+        "start": 1318.42,
+        "end": 1319.42,
+        "text": "Tudtudt",
+        "emoji": "💬"
+    },
+    {
+        "id": 510,
+        "start": 1320.42,
+        "end": 1321.42,
+        "text": "Running",
+        "emoji": "💬"
+    },
+    {
+        "id": 511,
+        "start": 1321.42,
+        "end": 1322.42,
+        "text": "Ding",
+        "emoji": "💬"
+    },
+    {
+        "id": 512,
+        "start": 1322.42,
+        "end": 1325.42,
+        "text": "Næste stop er museemøde",
+        "emoji": "💬"
+    },
+    {
+        "id": 513,
+        "start": 1325.42,
+        "end": 1326.42,
+        "text": "Sheila, vi kører ikke med bus",
+        "emoji": "💬"
+    },
+    {
+        "id": 514,
+        "start": 1326.42,
+        "end": 1328.42,
+        "text": "Jeres menukort?",
+        "emoji": "💬"
+    },
+    {
+        "id": 515,
+        "start": 1328.42,
+        "end": 1332.42,
+        "text": "Ja, jeg advarter lige om, at vi er længe om at beslutte os",
+        "emoji": "💬"
+    },
+    {
+        "id": 516,
+        "start": 1332.42,
+        "end": 1333.42,
+        "text": "Nej, ej",
+        "emoji": "💬"
+    },
+    {
+        "id": 517,
+        "start": 1333.42,
+        "end": 1335.42,
+        "text": "Åh, det hele lyder godt snut",
+        "emoji": "💬"
+    },
+    {
+        "id": 518,
+        "start": 1336.42,
+        "end": 1339.42,
+        "text": "Aaaaaaah, pip",
+        "emoji": "💬"
+    },
+    {
+        "id": 519,
+        "start": 1339.42,
+        "end": 1342.42,
+        "text": "Kokosnødder, de er fyldt med vand",
+        "emoji": "💬"
+    },
+    {
+        "id": 520,
+        "start": 1342.42,
+        "end": 1344.42,
+        "text": "Sheila, hvad laver du dog?",
+        "emoji": "💬"
+    },
+    {
+        "id": 521,
+        "start": 1344.42,
+        "end": 1345.42,
+        "text": "Wow",
+        "emoji": "💬"
+    },
+    {
+        "id": 522,
+        "start": 1345.42,
+        "end": 1347.42,
+        "text": "Aaaaaaah",
+        "emoji": "💬"
+    },
+    {
+        "id": 523,
+        "start": 1347.42,
+        "end": 1349.42,
+        "text": "Aaaaaaah",
+        "emoji": "💬"
+    },
+    {
+        "id": 524,
+        "start": 1350.42,
+        "end": 1352.42,
+        "text": "Min restaurant",
+        "emoji": "💬"
+    },
+    {
+        "id": 525,
+        "start": 1352.42,
+        "end": 1354.42,
+        "text": "Åh, det betyder ikke, vi er færdige",
+        "emoji": "💬"
+    },
+    {
+        "id": 526,
+        "start": 1354.42,
+        "end": 1355.42,
+        "text": "Bluey",
+        "emoji": "💬"
+    },
+    {
+        "id": 527,
+        "start": 1355.42,
+        "end": 1357.42,
+        "text": "Måske skal vi bare have nogle fritider",
+        "emoji": "💬"
+    },
+    {
+        "id": 528,
+        "start": 1357.42,
+        "end": 1359.42,
+        "text": "Kom så, familie",
+        "emoji": "💬"
+    },
+    {
+        "id": 529,
+        "start": 1359.42,
+        "end": 1360.42,
+        "text": "Fritider",
+        "emoji": "💬"
+    },
+    {
+        "id": 530,
+        "start": 1360.42,
+        "end": 1363.42,
+        "text": "Fritider, køb fritider her",
+        "emoji": "💬"
+    },
+    {
+        "id": 531,
+        "start": 1363.42,
+        "end": 1364.42,
+        "text": "Åh, goddag",
+        "emoji": "💬"
+    },
+    {
+        "id": 532,
+        "start": 1364.42,
+        "end": 1366.42,
+        "text": "Vil I købe noget fritider?",
+        "emoji": "💬"
+    },
+    {
+        "id": 533,
+        "start": 1366.42,
+        "end": 1368.42,
+        "text": "Fritider",
+        "emoji": "💬"
+    },
+    {
+        "id": 534,
+        "start": 1368.42,
+        "end": 1370.42,
+        "text": "Wow, okay, okay sødfru",
+        "emoji": "💬"
+    },
+    {
+        "id": 535,
+        "start": 1370.42,
+        "end": 1372.42,
+        "text": "Ikke ryste min butik",
+        "emoji": "💬"
+    },
+    {
+        "id": 536,
+        "start": 1372.42,
+        "end": 1373.42,
+        "text": "En gang fritider, tak",
+        "emoji": "💬"
+    },
+    {
+        "id": 537,
+        "start": 1373.42,
+        "end": 1375.42,
+        "text": "Gi dig god tid",
+        "emoji": "💬"
+    },
+    {
+        "id": 538,
+        "start": 1375.42,
+        "end": 1377.42,
+        "text": "Jeg tror, din ven trænger til at sove",
+        "emoji": "💬"
+    },
+    {
+        "id": 539,
+        "start": 1377.42,
+        "end": 1378.42,
+        "text": "Åh nej, det går",
+        "emoji": "💬"
+    },
+    {
+        "id": 540,
+        "start": 1378.42,
+        "end": 1381.42,
+        "text": "Nå, men det bliver 40, bier lige at takke",
+        "emoji": "💬"
+    },
+    {
+        "id": 541,
+        "start": 1381.42,
+        "end": 1383.42,
+        "text": "Åh, det taler vi her med land færdig",
+        "emoji": "💬"
+    },
+    {
+        "id": 542,
+        "start": 1383.42,
+        "end": 1385.42,
+        "text": "Hvad vil du så gøre nu, snut?",
+        "emoji": "💬"
+    },
+    {
+        "id": 543,
+        "start": 1385.42,
+        "end": 1386.42,
+        "text": "Jeg har det",
+        "emoji": "💬"
+    },
+    {
+        "id": 544,
+        "start": 1386.42,
+        "end": 1388.42,
+        "text": "Løb, Sheila",
+        "emoji": "💬"
+    },
+    {
+        "id": 545,
+        "start": 1388.42,
+        "end": 1389.42,
+        "text": "Okay",
+        "emoji": "💬"
+    },
+    {
+        "id": 546,
+        "start": 1389.42,
+        "end": 1390.42,
+        "text": "Aaaaaaah",
+        "emoji": "💬"
+    },
+    {
+        "id": 547,
+        "start": 1390.42,
+        "end": 1391.42,
+        "text": "Marv, stop tyven",
+        "emoji": "💬"
+    },
+    {
+        "id": 548,
+        "start": 1391.42,
+        "end": 1393.42,
+        "text": "Vi leger stadig",
+        "emoji": "💬"
+    },
+    {
+        "id": 549,
+        "start": 1393.42,
+        "end": 1395.42,
+        "text": "Godt gået, snut",
+        "emoji": "💬"
+    },
+    {
+        "id": 550,
+        "start": 1395.42,
+        "end": 1396.42,
+        "text": "Politi",
+        "emoji": "💬"
+    },
+    {
+        "id": 551,
+        "start": 1396.42,
+        "end": 1398.42,
+        "text": "Blevet der kaldt for politiet?",
+        "emoji": "💬"
+    },
+    {
+        "id": 552,
+        "start": 1398.42,
+        "end": 1400.42,
+        "text": "Ja, hun løb den vej",
+        "emoji": "💬"
+    },
+    {
+        "id": 553,
+        "start": 1400.42,
+        "end": 1402.42,
+        "text": "Stop, politi",
+        "emoji": "💬"
+    },
+    {
+        "id": 554,
+        "start": 1402.42,
+        "end": 1404.42,
+        "text": "Aaaaaaah",
+        "emoji": "💬"
+    },
+    {
+        "id": 555,
+        "start": 1405.42,
+        "end": 1407.42,
+        "text": "Aaaaaaah",
+        "emoji": "💬"
+    },
+    {
+        "id": 556,
+        "start": 1407.42,
+        "end": 1409.42,
+        "text": "Løb på min gåde",
+        "emoji": "💬"
+    },
+    {
+        "id": 557,
+        "start": 1409.42,
+        "end": 1411.42,
+        "text": "Riiiid",
+        "emoji": "💬"
+    },
+    {
+        "id": 558,
+        "start": 1411.42,
+        "end": 1413.42,
+        "text": "Aaaaaaah",
+        "emoji": "💬"
+    },
+    {
+        "id": 559,
+        "start": 1413.42,
+        "end": 1415.42,
+        "text": "Åh, muffin, du er jo virkelig træt",
+        "emoji": "💬"
+    },
+    {
+        "id": 560,
+        "start": 1415.42,
+        "end": 1417.42,
+        "text": "Aaaaaaah",
+        "emoji": "💬"
+    },
+    {
+        "id": 561,
+        "start": 1417.42,
+        "end": 1418.42,
+        "text": "Frys",
+        "emoji": "💬"
+    },
+    {
+        "id": 562,
+        "start": 1420.42,
+        "end": 1422.42,
+        "text": "Tak for deres opkald, herr",
+        "emoji": "💬"
+    },
+    {
+        "id": 563,
+        "start": 1422.42,
+        "end": 1424.42,
+        "text": "Jeg vil have, du skal bruge hende inde",
+        "emoji": "💬"
+    },
+    {
+        "id": 564,
+        "start": 1424.42,
+        "end": 1428.42,
+        "text": "Nå, hør så her, når jeres ven køber fritider, skal hun betale for de fritider",
+        "emoji": "💬"
+    },
+    {
+        "id": 565,
+        "start": 1428.42,
+        "end": 1430.42,
+        "text": "Ja, politidame",
+        "emoji": "💬"
+    },
+    {
+        "id": 566,
+        "start": 1430.42,
+        "end": 1432.42,
+        "text": "Undskyld, politidame",
+        "emoji": "💬"
+    },
+    {
+        "id": 567,
+        "start": 1432.42,
+        "end": 1434.42,
+        "text": "Okay, piger, sengetid",
+        "emoji": "💬"
+    },
+    {
+        "id": 568,
+        "start": 1434.42,
+        "end": 1437.42,
+        "text": "Åh, men det er snyet, du sagde, vi måtte blive længe oppe",
+        "emoji": "💬"
+    },
+    {
+        "id": 569,
+        "start": 1437.42,
+        "end": 1439.42,
+        "text": "Bluey, det har I været",
+        "emoji": "💬"
+    },
+    {
+        "id": 570,
+        "start": 1439.42,
+        "end": 1441.42,
+        "text": "Se, klokken er otte",
+        "emoji": "💬"
+    },
+    {
+        "id": 571,
+        "start": 1443.42,
+        "end": 1444.42,
+        "text": "Vi måtte længe oppe",
+        "emoji": "💬"
+    },
+    {
+        "id": 572,
+        "start": 1444.42,
+        "end": 1445.42,
+        "text": "Hurra",
+        "emoji": "💬"
+    },
+    {
+        "id": 573,
+        "start": 1445.42,
+        "end": 1447.42,
+        "text": "Ikke noget hurra, Bluey",
+        "emoji": "💬"
+    },
+    {
+        "id": 574,
+        "start": 1447.42,
+        "end": 1451.42,
+        "text": "Når jeres kusine mangler søvn, er det jeres opgave at passe på hende",
+        "emoji": "💬"
+    },
+    {
+        "id": 575,
+        "start": 1451.42,
+        "end": 1454.42,
+        "text": "Muffin skulle have været i seng for længe siden, hold jer se hende",
+        "emoji": "💬"
+    },
+    {
+        "id": 576,
+        "start": 1454.42,
+        "end": 1456.42,
+        "text": "Slad, politi",
+        "emoji": "💬"
+    },
+    {
+        "id": 577,
+        "start": 1456.42,
+        "end": 1459.42,
+        "text": "Sheila, bliv her",
+        "emoji": "💬"
+    },
+    {
+        "id": 578,
+        "start": 1460.42,
+        "end": 1462.42,
+        "text": "Det her betyder ikke, vi stadig leger",
+        "emoji": "💬"
+    },
+    {
+        "id": 579,
+        "start": 1462.42,
+        "end": 1465.42,
+        "text": "Jeg kommer Flamingo",
+        "emoji": "💬"
+    },
+    {
+        "id": 580,
+        "start": 1469.42,
+        "end": 1471.42,
+        "text": "Skal I få noget, muffin?",
+        "emoji": "💬"
+    },
+    {
+        "id": 581,
+        "start": 1471.42,
+        "end": 1474.42,
+        "text": "Jeg er Flamingodrønningen",
+        "emoji": "💬"
+    },
+    {
+        "id": 582,
+        "start": 1475.42,
+        "end": 1480.42,
+        "text": "Bluey, lad os stadigvæk i gang, kom nu, når vi bliver endnu længere oppe",
+        "emoji": "💬"
+    },
+    {
+        "id": 583,
+        "start": 1484.42,
+        "end": 1486.42,
+        "text": "Nej, Bingo, gør ligeså mig",
+        "emoji": "💬"
+    },
+    {
+        "id": 584,
+        "start": 1486.42,
+        "end": 1489.42,
+        "text": "Åh, Sheila se, politidame kommer, følg med mig",
+        "emoji": "💬"
+    },
+    {
+        "id": 585,
+        "start": 1489.42,
+        "end": 1491.42,
+        "text": "Du kan ikke fange os, politidame",
+        "emoji": "💬"
+    },
+    {
+        "id": 586,
+        "start": 1492.42,
+        "end": 1493.42,
+        "text": "Bluey",
+        "emoji": "💬"
+    },
+    {
+        "id": 587,
+        "start": 1496.42,
+        "end": 1499.42,
+        "text": "Nu kommer jeg og fanger jer",
+        "emoji": "💬"
+    },
+    {
+        "id": 588,
+        "start": 1501.42,
+        "end": 1502.42,
+        "text": "Gæm dig herned, Sheila",
+        "emoji": "💬"
+    },
+    {
+        "id": 589,
+        "start": 1502.42,
+        "end": 1503.42,
+        "text": "Okay, Bluey",
+        "emoji": "💬"
+    },
+    {
+        "id": 590,
+        "start": 1503.42,
+        "end": 1505.42,
+        "text": "Du finder de der aldrig",
+        "emoji": "💬"
+    },
+    {
+        "id": 591,
+        "start": 1505.42,
+        "end": 1506.42,
+        "text": "Tak, Bluey",
+        "emoji": "💬"
+    },
+    {
+        "id": 592,
+        "start": 1507.42,
+        "end": 1510.42,
+        "text": "Læg nu helt stille, jeg tjekker om kysten er klar",
+        "emoji": "💬"
+    },
+    {
+        "id": 593,
+        "start": 1510.42,
+        "end": 1511.42,
+        "text": "Ja",
+        "emoji": "💬"
+    },
+    {
+        "id": 594,
+        "start": 1521.42,
+        "end": 1522.42,
+        "text": "Godt gået, Bluey",
+        "emoji": "💬"
+    },
+    {
+        "id": 595,
+        "start": 1526.42,
+        "end": 1527.42,
+        "text": "Godmorgen, Bluey",
+        "emoji": "💬"
+    },
+    {
+        "id": 596,
+        "start": 1528.42,
+        "end": 1530.42,
+        "text": "Åh, hvor er jeg træt",
+        "emoji": "💬"
+    },
+    {
+        "id": 597,
+        "start": 1530.42,
+        "end": 1532.42,
+        "text": "Måske skulle du gå tidligere i seng",
+        "emoji": "💬"
+    },
+    {
+        "id": 598,
+        "start": 1532.42,
+        "end": 1534.42,
+        "text": "Ja, det skulle jeg nok, muffin",
+        "emoji": "💬"
+    },
+    {
+        "id": 599,
+        "start": 1534.42,
+        "end": 1535.42,
+        "text": "Bluey",
+        "emoji": "💬"
+    },
+    {
+        "id": 600,
+        "start": 1535.42,
+        "end": 1536.42,
+        "text": "Ja, muffin",
+        "emoji": "💬"
+    },
+    {
+        "id": 601,
+        "start": 1536.42,
+        "end": 1540.42,
+        "text": "Men hvorfor er der en Flamingo i min sovepose?",
+        "emoji": "💬"
+    },
+    {
+        "id": 602,
+        "start": 1541.42,
+        "end": 1543.42,
+        "text": "Det er en lang historie",
+        "emoji": "💬"
+    },
+    {
+        "id": 603,
+        "start": 1547.42,
+        "end": 1551.42,
+        "text": "Bluey, du må ikke tale med maden i munden, og ret dig op, ikke hænge, det er dårligt manier",
+        "emoji": "💬"
+    },
+    {
+        "id": 604,
+        "start": 1551.42,
+        "end": 1553.42,
+        "text": "Er det her dårligt manier?",
+        "emoji": "💬"
+    },
+    {
+        "id": 605,
+        "start": 1554.42,
+        "end": 1555.42,
+        "text": "Bingo",
+        "emoji": "💬"
+    },
+    {
+        "id": 606,
+        "start": 1556.42,
+        "end": 1558.42,
+        "text": "Mor, hvorfor skal vi have gode manier?",
+        "emoji": "💬"
+    },
+    {
+        "id": 607,
+        "start": 1559.42,
+        "end": 1560.42,
+        "text": "Fordi vi ikke er vilde dyr",
+        "emoji": "💬"
+    },
+    {
+        "id": 608,
+        "start": 1560.42,
+        "end": 1563.42,
+        "text": "Jeg er lige glad, så længe du spiser din grøntsager",
+        "emoji": "💬"
+    },
+    {
+        "id": 609,
+        "start": 1563.42,
+        "end": 1566.42,
+        "text": "Hov, hov, hov, hov, albunen ned fra bordet, lille mor",
+        "emoji": "💬"
+    },
+    {
+        "id": 610,
+        "start": 1567.42,
+        "end": 1568.42,
+        "text": "Helt ærligt, hva' unger?",
+        "emoji": "💬"
+    },
+    {
+        "id": 611,
+        "start": 1570.42,
+        "end": 1573.42,
+        "text": "Psst, Bluey, tag den her, det er en magisk aspar",
+        "emoji": "💬"
+    },
+    {
+        "id": 612,
+        "start": 1573.42,
+        "end": 1575.42,
+        "text": "Hvad kan den gøre?",
+        "emoji": "💬"
+    },
+    {
+        "id": 613,
+        "start": 1575.42,
+        "end": 1577.42,
+        "text": "Den kan forvandle en til det dyr, man har lyst til",
+        "emoji": "💬"
+    },
+    {
+        "id": 614,
+        "start": 1577.42,
+        "end": 1578.42,
+        "text": "Er det rigtigt?",
+        "emoji": "💬"
+    },
+    {
+        "id": 615,
+        "start": 1578.42,
+        "end": 1580.42,
+        "text": "Det er rigtigt",
+        "emoji": "💬"
+    },
+    {
+        "id": 616,
+        "start": 1583.42,
+        "end": 1585.42,
+        "text": "Lad nu være med at lege med maden, Bluey",
+        "emoji": "💬"
+    },
+    {
+        "id": 617,
+        "start": 1587.42,
+        "end": 1588.42,
+        "text": "Det bliver gød",
+        "emoji": "💬"
+    },
+    {
+        "id": 618,
+        "start": 1590.42,
+        "end": 1591.42,
+        "text": "Røv mig",
+        "emoji": "💬"
+    },
+    {
+        "id": 619,
+        "start": 1591.42,
+        "end": 1592.42,
+        "text": "Nej, okay",
+        "emoji": "💬"
+    },
+    {
+        "id": 620,
+        "start": 1592.42,
+        "end": 1593.42,
+        "text": "Pindsvin",
+        "emoji": "💬"
+    },
+    {
+        "id": 621,
+        "start": 1593.42,
+        "end": 1595.42,
+        "text": "Nej, nej, jeg vil være en lille gris",
+        "emoji": "💬"
+    },
+    {
+        "id": 622,
+        "start": 1595.42,
+        "end": 1596.42,
+        "text": "Lille gris",
+        "emoji": "💬"
+    },
+    {
+        "id": 623,
+        "start": 1597.42,
+        "end": 1599.42,
+        "text": "Gris, gris, gris, gris",
+        "emoji": "💬"
+    },
+    {
+        "id": 624,
+        "start": 1600.42,
+        "end": 1604.42,
+        "text": "Nu var det klaret, Bluey, er der lige en lille ting du skal gøre for mig?",
+        "emoji": "💬"
+    },
+    {
+        "id": 625,
+        "start": 1605.42,
+        "end": 1606.42,
+        "text": "Pipønning",
+        "emoji": "💬"
+    },
+    {
+        "id": 626,
+        "start": 1607.42,
+        "end": 1609.42,
+        "text": "Denne episode af Bluey hedder Asparge",
+        "emoji": "💬"
+    },
+    {
+        "id": 627,
+        "start": 1613.42,
+        "end": 1614.42,
+        "text": "Elefant",
+        "emoji": "💬"
+    },
+    {
+        "id": 628,
+        "start": 1616.42,
+        "end": 1617.42,
+        "text": "Jeg elsker den her",
+        "emoji": "💬"
+    },
+    {
+        "id": 629,
+        "start": 1618.42,
+        "end": 1619.42,
+        "text": "Her",
+        "emoji": "💬"
+    },
+    {
+        "id": 630,
+        "start": 1621.42,
+        "end": 1622.42,
+        "text": "Gød",
+        "emoji": "💬"
+    },
+    {
+        "id": 631,
+        "start": 1623.42,
+        "end": 1628.42,
+        "text": "Nu er I alle sammen frie, mine dyre venner, ikke flere regler nogensinde",
+        "emoji": "💬"
+    },
+    {
+        "id": 632,
+        "start": 1629.42,
+        "end": 1631.42,
+        "text": "Grisse, bingo, se hvor du grisser",
+        "emoji": "💬"
+    },
+    {
+        "id": 633,
+        "start": 1632.42,
+        "end": 1633.42,
+        "text": "Kom her, din lille brælle",
+        "emoji": "💬"
+    },
+    {
+        "id": 634,
+        "start": 1634.42,
+        "end": 1635.42,
+        "text": "Slid mig ned",
+        "emoji": "💬"
+    },
+    {
+        "id": 635,
+        "start": 1637.42,
+        "end": 1638.42,
+        "text": "Suikast",
+        "emoji": "💬"
+    },
+    {
+        "id": 636,
+        "start": 1640.42,
+        "end": 1642.42,
+        "text": "Man kan ikke bare tage fattige folk og svinge med dem",
+        "emoji": "💬"
+    },
+    {
+        "id": 637,
+        "start": 1646.42,
+        "end": 1647.42,
+        "text": "Hold på dem",
+        "emoji": "💬"
+    },
+    {
+        "id": 638,
+        "start": 1649.42,
+        "end": 1650.42,
+        "text": "Moose",
+        "emoji": "💬"
+    },
+    {
+        "id": 639,
+        "start": 1651.42,
+        "end": 1653.42,
+        "text": "Moose spiser ikke folks legetøj",
+        "emoji": "💬"
+    },
+    {
+        "id": 640,
+        "start": 1653.42,
+        "end": 1654.42,
+        "text": "Det er ikke sødt",
+        "emoji": "💬"
+    },
+    {
+        "id": 641,
+        "start": 1660.42,
+        "end": 1661.42,
+        "text": "Det er godt nok hårdt",
+        "emoji": "💬"
+    },
+    {
+        "id": 642,
+        "start": 1664.42,
+        "end": 1668.42,
+        "text": "Måske burde jeg forvandle jer til nogle lidt roligere dyr",
+        "emoji": "💬"
+    },
+    {
+        "id": 643,
+        "start": 1668.42,
+        "end": 1669.42,
+        "text": "Parfule",
+        "emoji": "💬"
+    },
+    {
+        "id": 644,
+        "start": 1672.42,
+        "end": 1674.42,
+        "text": "Åh, det var meget bedre",
+        "emoji": "💬"
+    },
+    {
+        "id": 645,
+        "start": 1674.42,
+        "end": 1675.42,
+        "text": "Brrr",
+        "emoji": "💬"
+    },
+    {
+        "id": 646,
+        "start": 1678.42,
+        "end": 1680.42,
+        "text": "Opfør dig ordentligt her, blære Moose",
+        "emoji": "💬"
+    },
+    {
+        "id": 647,
+        "start": 1684.42,
+        "end": 1686.42,
+        "text": "Okay, du ser ud om det",
+        "emoji": "💬"
+    },
+    {
+        "id": 648,
+        "start": 1690.42,
+        "end": 1692.42,
+        "text": "Så kan du lære ikke at blære dig",
+        "emoji": "💬"
+    },
+    {
+        "id": 649,
+        "start": 1694.42,
+        "end": 1696.42,
+        "text": "Nej, bliv nu indenfor",
+        "emoji": "💬"
+    },
+    {
+        "id": 650,
+        "start": 1697.42,
+        "end": 1698.42,
+        "text": "Hvor blev de af?",
+        "emoji": "💬"
+    },
+    {
+        "id": 651,
+        "start": 1700.42,
+        "end": 1701.42,
+        "text": "Der var du",
+        "emoji": "💬"
+    },
+    {
+        "id": 652,
+        "start": 1701.42,
+        "end": 1702.42,
+        "text": "Vel rød",
+        "emoji": "💬"
+    },
+    {
+        "id": 653,
+        "start": 1705.42,
+        "end": 1707.42,
+        "text": "Hvor blev de lure af?",
+        "emoji": "💬"
+    },
+    {
+        "id": 654,
+        "start": 1708.42,
+        "end": 1715.42,
+        "text": "En søndag morgen, da jeg var ude ved Brisbanefloden, der så jeg",
+        "emoji": "💬"
+    },
+    {
+        "id": 655,
+        "start": 1716.42,
+        "end": 1717.42,
+        "text": "Hvad var det?",
+        "emoji": "💬"
+    },
+    {
+        "id": 656,
+        "start": 1721.42,
+        "end": 1723.42,
+        "text": "Er det dig, Lucky?",
+        "emoji": "💬"
+    },
+    {
+        "id": 657,
+        "start": 1725.42,
+        "end": 1727.42,
+        "text": "Nå, der var nok ingen lure",
+        "emoji": "💬"
+    },
+    {
+        "id": 658,
+        "start": 1727.42,
+        "end": 1728.42,
+        "text": "Brrr",
+        "emoji": "💬"
+    },
+    {
+        "id": 659,
+        "start": 1731.42,
+        "end": 1732.42,
+        "text": "Åh, frohiler",
+        "emoji": "💬"
+    },
+    {
+        "id": 660,
+        "start": 1733.42,
+        "end": 1734.42,
+        "text": "Det har jeg ikke lyst til",
+        "emoji": "💬"
+    },
+    {
+        "id": 661,
+        "start": 1735.42,
+        "end": 1736.42,
+        "text": "Papagei",
+        "emoji": "💬"
+    },
+    {
+        "id": 662,
+        "start": 1736.42,
+        "end": 1737.42,
+        "text": "Kanin",
+        "emoji": "💬"
+    },
+    {
+        "id": 663,
+        "start": 1737.42,
+        "end": 1739.42,
+        "text": "Hvad for gul i, vi har sukker?",
+        "emoji": "💬"
+    },
+    {
+        "id": 664,
+        "start": 1739.42,
+        "end": 1741.42,
+        "text": "Okay, så kom ind i huset i tæt",
+        "emoji": "💬"
+    },
+    {
+        "id": 665,
+        "start": 1741.42,
+        "end": 1743.42,
+        "text": "Undskyld, Lucky's far",
+        "emoji": "💬"
+    },
+    {
+        "id": 666,
+        "start": 1743.42,
+        "end": 1744.42,
+        "text": "Det er okay, Bluey",
+        "emoji": "💬"
+    },
+    {
+        "id": 667,
+        "start": 1744.42,
+        "end": 1746.42,
+        "text": "Jeg burde have været mere på vagt",
+        "emoji": "💬"
+    },
+    {
+        "id": 668,
+        "start": 1748.42,
+        "end": 1749.42,
+        "text": "Hvad gør jer alle sammen?",
+        "emoji": "💬"
+    },
+    {
+        "id": 669,
+        "start": 1751.42,
+        "end": 1752.42,
+        "text": "Så er det nok",
+        "emoji": "💬"
+    },
+    {
+        "id": 670,
+        "start": 1752.42,
+        "end": 1754.42,
+        "text": "Nu skal jeg lære jer at dyrre nogle manæer",
+        "emoji": "💬"
+    },
+    {
+        "id": 671,
+        "start": 1754.42,
+        "end": 1756.42,
+        "text": "Farmanvalros",
+        "emoji": "💬"
+    },
+    {
+        "id": 672,
+        "start": 1756.42,
+        "end": 1757.42,
+        "text": "Sådan noget må man ikke",
+        "emoji": "💬"
+    },
+    {
+        "id": 673,
+        "start": 1758.42,
+        "end": 1760.42,
+        "text": "Første manæer er",
+        "emoji": "💬"
+    },
+    {
+        "id": 674,
+        "start": 1760.42,
+        "end": 1762.42,
+        "text": "Papagei, vil jeg have sukker?",
+        "emoji": "💬"
+    },
+    {
+        "id": 675,
+        "start": 1762.42,
+        "end": 1764.42,
+        "text": "Første er at tige stille når andre taler",
+        "emoji": "💬"
+    },
+    {
+        "id": 676,
+        "start": 1766.42,
+        "end": 1768.42,
+        "text": "Anden manæer er",
+        "emoji": "💬"
+    },
+    {
+        "id": 677,
+        "start": 1769.42,
+        "end": 1770.42,
+        "text": "Hey!",
+        "emoji": "💬"
+    },
+    {
+        "id": 678,
+        "start": 1772.42,
+        "end": 1774.42,
+        "text": "Ikke løbe væk fra manæertimlen",
+        "emoji": "💬"
+    },
+    {
+        "id": 679,
+        "start": 1775.42,
+        "end": 1777.42,
+        "text": "Nå, den tredje er",
+        "emoji": "💬"
+    },
+    {
+        "id": 680,
+        "start": 1777.42,
+        "end": 1779.42,
+        "text": "At man ikke må spise nagebogen",
+        "emoji": "💬"
+    },
+    {
+        "id": 681,
+        "start": 1780.42,
+        "end": 1781.42,
+        "text": "Og den er faktisk ret vigtig",
+        "emoji": "💬"
+    },
+    {
+        "id": 682,
+        "start": 1782.42,
+        "end": 1783.42,
+        "text": "Hov, hvorfor er man valros?",
+        "emoji": "💬"
+    },
+    {
+        "id": 683,
+        "start": 1786.42,
+        "end": 1787.42,
+        "text": "Nej!",
+        "emoji": "💬"
+    },
+    {
+        "id": 684,
+        "start": 1789.42,
+        "end": 1790.42,
+        "text": "Hvad?",
+        "emoji": "💬"
+    },
+    {
+        "id": 685,
+        "start": 1790.42,
+        "end": 1791.42,
+        "text": "Fjerde manæer er",
+        "emoji": "💬"
+    },
+    {
+        "id": 686,
+        "start": 1791.42,
+        "end": 1793.42,
+        "text": "At man ikke må pylle på tæppet",
+        "emoji": "💬"
+    },
+    {
+        "id": 687,
+        "start": 1797.42,
+        "end": 1798.42,
+        "text": "Dit store drog",
+        "emoji": "💬"
+    },
+    {
+        "id": 688,
+        "start": 1799.42,
+        "end": 1800.42,
+        "text": "Det er jo håbløst",
+        "emoji": "💬"
+    },
+    {
+        "id": 689,
+        "start": 1800.42,
+        "end": 1802.42,
+        "text": "Nu forvandler jeg jer alle sammen til hun igen",
+        "emoji": "💬"
+    },
+    {
+        "id": 690,
+        "start": 1803.42,
+        "end": 1804.42,
+        "text": "Hvor blev min asparge sag?",
+        "emoji": "💬"
+    },
+    {
+        "id": 691,
+        "start": 1805.42,
+        "end": 1806.42,
+        "text": "Prøv at være sukker",
+        "emoji": "💬"
+    },
+    {
+        "id": 692,
+        "start": 1808.42,
+        "end": 1809.42,
+        "text": "Nej!",
+        "emoji": "💬"
+    },
+    {
+        "id": 693,
+        "start": 1812.42,
+        "end": 1813.42,
+        "text": "Åh nej!",
+        "emoji": "💬"
+    },
+    {
+        "id": 694,
+        "start": 1813.42,
+        "end": 1815.42,
+        "text": "Nu kan jeg ikke trylle jer om igen",
+        "emoji": "💬"
+    },
+    {
+        "id": 695,
+        "start": 1816.42,
+        "end": 1817.42,
+        "text": "Nå!",
+        "emoji": "💬"
+    },
+    {
+        "id": 696,
+        "start": 1819.42,
+        "end": 1821.42,
+        "text": "Papagei vil have mere asparge",
+        "emoji": "💬"
+    },
+    {
+        "id": 697,
+        "start": 1821.42,
+        "end": 1822.42,
+        "text": "Vent!",
+        "emoji": "💬"
+    },
+    {
+        "id": 698,
+        "start": 1822.42,
+        "end": 1823.42,
+        "text": "Jeg ved hvad vi gør!",
+        "emoji": "💬"
+    },
+    {
+        "id": 699,
+        "start": 1824.42,
+        "end": 1825.42,
+        "text": "Tryk!",
+        "emoji": "💬"
+    },
+    {
+        "id": 700,
+        "start": 1826.42,
+        "end": 1827.42,
+        "text": "Okay, fuglebinkre",
+        "emoji": "💬"
+    },
+    {
+        "id": 701,
+        "start": 1827.42,
+        "end": 1829.42,
+        "text": "Du har desværre spist en magisk asparge",
+        "emoji": "💬"
+    },
+    {
+        "id": 702,
+        "start": 1830.42,
+        "end": 1831.42,
+        "text": "Det kan vi ikke ændre på",
+        "emoji": "💬"
+    },
+    {
+        "id": 703,
+        "start": 1831.42,
+        "end": 1833.42,
+        "text": "Men jeg tror, hvis du siger hun nu",
+        "emoji": "💬"
+    },
+    {
+        "id": 704,
+        "start": 1834.42,
+        "end": 1836.42,
+        "text": "Så bliver vi alle sammen til hunde igen",
+        "emoji": "💬"
+    },
+    {
+        "id": 705,
+        "start": 1837.42,
+        "end": 1838.42,
+        "text": "Hvad?",
+        "emoji": "💬"
+    },
+    {
+        "id": 706,
+        "start": 1838.42,
+        "end": 1840.42,
+        "text": "Kan du sige, poppedreng har hund nu?",
+        "emoji": "💬"
+    },
+    {
+        "id": 707,
+        "start": 1840.42,
+        "end": 1842.42,
+        "text": "Vil du ikke nok?",
+        "emoji": "💬"
+    },
+    {
+        "id": 708,
+        "start": 1842.42,
+        "end": 1843.42,
+        "text": "Nå!",
+        "emoji": "💬"
+    },
+    {
+        "id": 709,
+        "start": 1845.42,
+        "end": 1846.42,
+        "text": "Poppedreng er sukker",
+        "emoji": "💬"
+    },
+    {
+        "id": 710,
+        "start": 1847.42,
+        "end": 1848.42,
+        "text": "Nej, poppedreng har hund nu",
+        "emoji": "💬"
+    },
+    {
+        "id": 711,
+        "start": 1849.42,
+        "end": 1851.42,
+        "text": "Nallerne væk fra med en valros",
+        "emoji": "💬"
+    },
+    {
+        "id": 712,
+        "start": 1851.42,
+        "end": 1853.42,
+        "text": "Kom nu fuglebinkre",
+        "emoji": "💬"
+    },
+    {
+        "id": 713,
+        "start": 1853.42,
+        "end": 1855.42,
+        "text": "Poppedreng har hund nu",
+        "emoji": "💬"
+    },
+    {
+        "id": 714,
+        "start": 1859.42,
+        "end": 1860.42,
+        "text": "Skål!",
+        "emoji": "💬"
+    },
+    {
+        "id": 715,
+        "start": 1860.42,
+        "end": 1862.42,
+        "text": "Kom nu fuglebinkre",
+        "emoji": "💬"
+    },
+    {
+        "id": 716,
+        "start": 1862.42,
+        "end": 1866.42,
+        "text": "Det er altså virkelig svært at få en valros til at sidde stille ved bordet",
+        "emoji": "💬"
+    },
+    {
+        "id": 717,
+        "start": 1867.42,
+        "end": 1868.42,
+        "text": "Poppedreng er",
+        "emoji": "💬"
+    },
+    {
+        "id": 718,
+        "start": 1870.42,
+        "end": 1871.42,
+        "text": "Ja, ja",
+        "emoji": "💬"
+    },
+    {
+        "id": 719,
+        "start": 1872.42,
+        "end": 1873.42,
+        "text": "Det er noget sour",
+        "emoji": "💬"
+    },
+    {
+        "id": 720,
+        "start": 1874.42,
+        "end": 1876.42,
+        "text": "Bingo, nej!",
+        "emoji": "💬"
+    },
+    {
+        "id": 721,
+        "start": 1876.42,
+        "end": 1878.42,
+        "text": "En hund! En hund!",
+        "emoji": "💬"
+    },
+    {
+        "id": 722,
+        "start": 1879.42,
+        "end": 1881.42,
+        "text": "Ikke spist i en mannérlager!",
+        "emoji": "💬"
+    },
+    {
+        "id": 723,
+        "start": 1884.42,
+        "end": 1886.42,
+        "text": "Papagotter har en",
+        "emoji": "💬"
+    },
+    {
+        "id": 724,
+        "start": 1886.42,
+        "end": 1888.42,
+        "text": "Papagotter har en hund nu",
+        "emoji": "💬"
+    },
+    {
+        "id": 725,
+        "start": 1889.42,
+        "end": 1891.42,
+        "text": "Hur er du klar med det fuglebinkre?",
+        "emoji": "💬"
+    },
+    {
+        "id": 726,
+        "start": 1893.42,
+        "end": 1894.42,
+        "text": "Hvad sker der her?",
+        "emoji": "💬"
+    },
+    {
+        "id": 727,
+        "start": 1897.42,
+        "end": 1899.42,
+        "text": "Vi sad og spiste aftensmad ikke også?",
+        "emoji": "💬"
+    },
+    {
+        "id": 728,
+        "start": 1900.42,
+        "end": 1901.42,
+        "text": "Nå ja, aftensmad",
+        "emoji": "💬"
+    },
+    {
+        "id": 729,
+        "start": 1902.42,
+        "end": 1904.42,
+        "text": "Okay, nå, men så får jeg",
+        "emoji": "💬"
+    },
+    {
+        "id": 730,
+        "start": 1905.42,
+        "end": 1907.42,
+        "text": "Jeg har spist mine grøntsager, fader",
+        "emoji": "💬"
+    },
+    {
+        "id": 731,
+        "start": 1907.42,
+        "end": 1910.42,
+        "text": "Nu må I have mig undskyldt, for jeg skal røde op i køkkenet",
+        "emoji": "💬"
+    },
+    {
+        "id": 732,
+        "start": 1911.42,
+        "end": 1912.42,
+        "text": "Hej, hej!",
+        "emoji": "💬"
+    },
+    {
+        "id": 733,
+        "start": 1913.42,
+        "end": 1915.42,
+        "text": "Se, det var bedre",
+        "emoji": "💬"
+    },
+    {
+        "id": 734,
+        "start": 1917.42,
+        "end": 1919.42,
+        "text": "Bingo, for sidste gang",
+        "emoji": "💬"
+    },
+    {
+        "id": 735,
+        "start": 1919.42,
+        "end": 1920.42,
+        "text": "Brug ind i lurer",
+        "emoji": "💬"
+    },
+    {
+        "id": 736,
+        "start": 1920.42,
+        "end": 1921.42,
+        "text": "Peppadene",
+        "emoji": "💬"
+    },
+    {
+        "id": 737,
+        "start": 1921.42,
+        "end": 1922.42,
+        "text": "Ogok!",
+        "emoji": "💬"
+    },
+    {
+        "id": 738,
+        "start": 1924.42,
+        "end": 1928.42,
+        "text": "Bandit, jeg tager lige en hurtig brosemad, og så hjælper jeg dig med at røde op",
+        "emoji": "💬"
+    },
+    {
+        "id": 739,
+        "start": 1928.42,
+        "end": 1930.42,
+        "text": "Behøves ikke, jeg skal nok gøre det",
+        "emoji": "💬"
+    },
+    {
+        "id": 740,
+        "start": 1930.42,
+        "end": 1933.42,
+        "text": "Nå, hvor er de frække unger?",
+        "emoji": "💬"
+    },
+    {
+        "id": 741,
+        "start": 1934.42,
+        "end": 1935.42,
+        "text": "Ja!",
+        "emoji": "💬"
+    },
+    {
+        "id": 742,
+        "start": 1935.42,
+        "end": 1937.42,
+        "text": "Wow, der var de!",
+        "emoji": "💬"
+    },
+    {
+        "id": 743,
+        "start": 1937.42,
+        "end": 1938.42,
+        "text": "Gør det igen!",
+        "emoji": "💬"
+    },
+    {
+        "id": 744,
+        "start": 1940.42,
+        "end": 1941.42,
+        "text": "Hva? Ingen unger!",
+        "emoji": "💬"
+    },
+    {
+        "id": 745,
+        "start": 1941.42,
+        "end": 1943.42,
+        "text": "Unger? Ingen unger!",
+        "emoji": "💬"
+    },
+    {
+        "id": 746,
+        "start": 1943.42,
+        "end": 1945.42,
+        "text": "Unger? Ingen unger!",
+        "emoji": "💬"
+    },
+    {
+        "id": 747,
+        "start": 1945.42,
+        "end": 1947.42,
+        "text": "Lad os legge i hotel!",
+        "emoji": "💬"
+    },
+    {
+        "id": 748,
+        "start": 1947.42,
+        "end": 1948.42,
+        "text": "Ja!",
+        "emoji": "💬"
+    },
+    {
+        "id": 749,
+        "start": 1948.42,
+        "end": 1950.42,
+        "text": "Åh nej, ikke hotel!",
+        "emoji": "💬"
+    },
+    {
+        "id": 750,
+        "start": 1960.42,
+        "end": 1962.42,
+        "text": "Åh, bingo, vi får en gæst!",
+        "emoji": "💬"
+    },
+    {
+        "id": 751,
+        "start": 1962.42,
+        "end": 1964.42,
+        "text": "Må jeg ikke nær ikke være den skørpude?",
+        "emoji": "💬"
+    },
+    {
+        "id": 752,
+        "start": 1964.42,
+        "end": 1967.42,
+        "text": "Nej, du må være den skørhotelhjælper",
+        "emoji": "💬"
+    },
+    {
+        "id": 753,
+        "start": 1967.42,
+        "end": 1968.42,
+        "text": "Øh",
+        "emoji": "💬"
+    },
+    {
+        "id": 754,
+        "start": 1968.42,
+        "end": 1969.42,
+        "text": "Goddag",
+        "emoji": "💬"
+    },
+    {
+        "id": 755,
+        "start": 1969.42,
+        "end": 1971.42,
+        "text": "Nej, far, du skal trykke på klokken",
+        "emoji": "💬"
+    },
+    {
+        "id": 756,
+        "start": 1971.42,
+        "end": 1972.42,
+        "text": "Nå, okay",
+        "emoji": "💬"
+    },
+    {
+        "id": 757,
+        "start": 1973.42,
+        "end": 1974.42,
+        "text": "Ding!",
+        "emoji": "💬"
+    },
+    {
+        "id": 758,
+        "start": 1974.42,
+        "end": 1977.42,
+        "text": "Åh, jeg skruer lige lidt ned for den klokke",
+        "emoji": "💬"
+    },
+    {
+        "id": 759,
+        "start": 1977.42,
+        "end": 1980.42,
+        "text": "Pfff, sådan, lad os prøve igen",
+        "emoji": "💬"
+    },
+    {
+        "id": 760,
+        "start": 1980.42,
+        "end": 1981.42,
+        "text": "Ding!",
+        "emoji": "💬"
+    },
+    {
+        "id": 761,
+        "start": 1981.42,
+        "end": 1982.42,
+        "text": "Meget bedre",
+        "emoji": "💬"
+    },
+    {
+        "id": 762,
+        "start": 1982.42,
+        "end": 1984.42,
+        "text": "Goddag, hvordan går det? Her går det ret godt",
+        "emoji": "💬"
+    },
+    {
+        "id": 763,
+        "start": 1984.42,
+        "end": 1985.42,
+        "text": "Det går fint",
+        "emoji": "💬"
+    },
+    {
+        "id": 764,
+        "start": 1985.42,
+        "end": 1987.42,
+        "text": "Åh ja, vi har værelser",
+        "emoji": "💬"
+    },
+    {
+        "id": 765,
+        "start": 1987.42,
+        "end": 1989.42,
+        "text": "Gern et dart-tv",
+        "emoji": "💬"
+    },
+    {
+        "id": 766,
+        "start": 1989.42,
+        "end": 1991.42,
+        "text": "Åh ja, klart, denne vej tak",
+        "emoji": "💬"
+    },
+    {
+        "id": 767,
+        "start": 1991.42,
+        "end": 1992.42,
+        "text": "Mange tak",
+        "emoji": "💬"
+    },
+    {
+        "id": 768,
+        "start": 1992.42,
+        "end": 1994.42,
+        "text": "Bingo, tag hans koffert",
+        "emoji": "💬"
+    },
+    {
+        "id": 769,
+        "start": 1994.42,
+        "end": 1996.42,
+        "text": "Nej, jeg hedder Savla Ravla",
+        "emoji": "💬"
+    },
+    {
+        "id": 770,
+        "start": 1996.42,
+        "end": 1999.42,
+        "text": "Nå ja, jamen så tag hans koffert Savla Ravla",
+        "emoji": "💬"
+    },
+    {
+        "id": 771,
+        "start": 2000.42,
+        "end": 2003.42,
+        "text": "Jeg har et vigtigt rengøringsjob, jeg skal passe i morgen",
+        "emoji": "💬"
+    },
+    {
+        "id": 772,
+        "start": 2003.42,
+        "end": 2006.42,
+        "text": "Så det er meget, meget vigtigt, at jeg ikke bliver forstyrret",
+        "emoji": "💬"
+    },
+    {
+        "id": 773,
+        "start": 2006.42,
+        "end": 2008.42,
+        "text": "Åh ja, selvfølgelig",
+        "emoji": "💬"
+    },
+    {
+        "id": 774,
+        "start": 2008.42,
+        "end": 2011.42,
+        "text": "Vi skal tage en koffert, så vi kan tage en koffert",
+        "emoji": "💬"
+    },
+    {
+        "id": 775,
+        "start": 2011.42,
+        "end": 2013.42,
+        "text": "Jeg har et søvende kaninatlys",
+        "emoji": "💬"
+    },
+    {
+        "id": 776,
+        "start": 2013.42,
+        "end": 2015.42,
+        "text": "Og legetøj",
+        "emoji": "💬"
+    },
+    {
+        "id": 777,
+        "start": 2015.42,
+        "end": 2016.42,
+        "text": "Nej, tak",
+        "emoji": "💬"
+    },
+    {
+        "id": 778,
+        "start": 2017.42,
+        "end": 2019.42,
+        "text": "Vi har også det her værelse",
+        "emoji": "💬"
+    },
+    {
+        "id": 779,
+        "start": 2019.42,
+        "end": 2023.42,
+        "text": "Har alt for mange computerer og slet ikke nok senge",
+        "emoji": "💬"
+    },
+    {
+        "id": 780,
+        "start": 2023.42,
+        "end": 2026.42,
+        "text": "Og vi har det her værelse",
+        "emoji": "💬"
+    },
+    {
+        "id": 781,
+        "start": 2026.42,
+        "end": 2028.42,
+        "text": "Og gider I lige?",
+        "emoji": "💬"
+    },
+    {
+        "id": 782,
+        "start": 2028.42,
+        "end": 2031.42,
+        "text": "Åh nej, der hører mig lidt for meget",
+        "emoji": "💬"
+    },
+    {
+        "id": 783,
+        "start": 2032.42,
+        "end": 2034.42,
+        "text": "Og her er det store værelse",
+        "emoji": "💬"
+    },
+    {
+        "id": 784,
+        "start": 2034.42,
+        "end": 2036.42,
+        "text": "Det her er en stor koffert",
+        "emoji": "💬"
+    },
+    {
+        "id": 785,
+        "start": 2036.42,
+        "end": 2038.42,
+        "text": "Og det her er en stor koffert",
+        "emoji": "💬"
+    },
+    {
+        "id": 786,
+        "start": 2038.42,
+        "end": 2040.42,
+        "text": "Og her er det store værelse",
+        "emoji": "💬"
+    },
+    {
+        "id": 787,
+        "start": 2040.42,
+        "end": 2043.42,
+        "text": "Det her er en stor seng og en tv",
+        "emoji": "💬"
+    },
+    {
+        "id": 788,
+        "start": 2043.42,
+        "end": 2046.42,
+        "text": "Og der er en dame i badet, er det okay?",
+        "emoji": "💬"
+    },
+    {
+        "id": 789,
+        "start": 2046.42,
+        "end": 2048.42,
+        "text": "Det snubber jeg, tak",
+        "emoji": "💬"
+    },
+    {
+        "id": 790,
+        "start": 2048.42,
+        "end": 2049.42,
+        "text": "God natt",
+        "emoji": "💬"
+    },
+    {
+        "id": 791,
+        "start": 2051.42,
+        "end": 2053.42,
+        "text": "Den her pud er ikke særlig behagelig",
+        "emoji": "💬"
+    },
+    {
+        "id": 792,
+        "start": 2053.42,
+        "end": 2054.42,
+        "text": "Jo den er",
+        "emoji": "💬"
+    },
+    {
+        "id": 793,
+        "start": 2054.42,
+        "end": 2055.42,
+        "text": "Nå, okay",
+        "emoji": "💬"
+    },
+    {
+        "id": 794,
+        "start": 2058.42,
+        "end": 2060.42,
+        "text": "Din større hjælper",
+        "emoji": "💬"
+    },
+    {
+        "id": 795,
+        "start": 2060.42,
+        "end": 2062.42,
+        "text": "Okay, det ses i morgen tidligt her",
+        "emoji": "💬"
+    },
+    {
+        "id": 796,
+        "start": 2062.42,
+        "end": 2066.42,
+        "text": "Ja, og sørg for at ingen forstyrrer min nattesøvn",
+        "emoji": "💬"
+    },
+    {
+        "id": 797,
+        "start": 2066.42,
+        "end": 2069.42,
+        "text": "Selvfølgelig, mine hjælper skal nok opføre sig normalt",
+        "emoji": "💬"
+    },
+    {
+        "id": 798,
+        "start": 2069.42,
+        "end": 2071.42,
+        "text": "Åh, det håber jeg sandelig",
+        "emoji": "💬"
+    },
+    {
+        "id": 799,
+        "start": 2079.42,
+        "end": 2081.42,
+        "text": "Slå i søvnæt nu",
+        "emoji": "💬"
+    },
+    {
+        "id": 800,
+        "start": 2082.42,
+        "end": 2083.42,
+        "text": "Hvad?",
+        "emoji": "💬"
+    },
+    {
+        "id": 801,
+        "start": 2085.42,
+        "end": 2086.42,
+        "text": "Åh, så er der rævland",
+        "emoji": "💬"
+    },
+    {
+        "id": 802,
+        "start": 2086.42,
+        "end": 2089.42,
+        "text": "Stop, det beklager jeg altså virkelig meget her",
+        "emoji": "💬"
+    },
+    {
+        "id": 803,
+        "start": 2089.42,
+        "end": 2091.42,
+        "text": "Det manglede også bare",
+        "emoji": "💬"
+    },
+    {
+        "id": 804,
+        "start": 2091.42,
+        "end": 2094.42,
+        "text": "Jeg har et meget vigtigt pløde i morgen tidligt",
+        "emoji": "💬"
+    },
+    {
+        "id": 805,
+        "start": 2094.42,
+        "end": 2096.42,
+        "text": "Har du brug for et skørpure?",
+        "emoji": "💬"
+    },
+    {
+        "id": 806,
+        "start": 2096.42,
+        "end": 2097.42,
+        "text": "Nej, han har ej",
+        "emoji": "💬"
+    },
+    {
+        "id": 807,
+        "start": 2097.42,
+        "end": 2099.42,
+        "text": "Ja, ja, ja, ja, ja",
+        "emoji": "💬"
+    },
+    {
+        "id": 808,
+        "start": 2099.42,
+        "end": 2100.42,
+        "text": "Det vil ikke gentage sig",
+        "emoji": "💬"
+    },
+    {
+        "id": 809,
+        "start": 2100.42,
+        "end": 2103.42,
+        "text": "Nej, sørg for at det ikke gør det",
+        "emoji": "💬"
+    },
+    {
+        "id": 810,
+        "start": 2105.42,
+        "end": 2108.42,
+        "text": "Må la' nu, må la' nu",
+        "emoji": "💬"
+    },
+    {
+        "id": 811,
+        "start": 2108.42,
+        "end": 2110.42,
+        "text": "Hvem vil have bacon?",
+        "emoji": "💬"
+    },
+    {
+        "id": 812,
+        "start": 2110.42,
+        "end": 2111.42,
+        "text": "Men det er jo midt om natten",
+        "emoji": "💬"
+    },
+    {
+        "id": 813,
+        "start": 2111.42,
+        "end": 2115.42,
+        "text": "Hvem vil have natbacon?",
+        "emoji": "💬"
+    },
+    {
+        "id": 814,
+        "start": 2115.42,
+        "end": 2118.42,
+        "text": "Ravla, ravla, det er jeg kæld af her",
+        "emoji": "💬"
+    },
+    {
+        "id": 815,
+        "start": 2118.42,
+        "end": 2119.42,
+        "text": "Det vil ikke gentage sig",
+        "emoji": "💬"
+    },
+    {
+        "id": 816,
+        "start": 2119.42,
+        "end": 2121.42,
+        "text": "Skjør på",
+        "emoji": "💬"
+    },
+    {
+        "id": 817,
+        "start": 2121.42,
+        "end": 2124.42,
+        "text": "Tja, natbacon lyder nu faktisk temmelig lækkert",
+        "emoji": "💬"
+    },
+    {
+        "id": 818,
+        "start": 2124.42,
+        "end": 2127.42,
+        "text": "Og nu hvor jeg er oppe, kan jeg jo lige så godt se nyheder",
+        "emoji": "💬"
+    },
+    {
+        "id": 819,
+        "start": 2127.42,
+        "end": 2129.42,
+        "text": "Ja, nyheder",
+        "emoji": "💬"
+    },
+    {
+        "id": 820,
+        "start": 2129.42,
+        "end": 2132.42,
+        "text": "Bluey, må jeg ikke nok være en skørpude nu?",
+        "emoji": "💬"
+    },
+    {
+        "id": 821,
+        "start": 2132.42,
+        "end": 2133.42,
+        "text": "Kom så, Bingo",
+        "emoji": "💬"
+    },
+    {
+        "id": 822,
+        "start": 2135.42,
+        "end": 2137.42,
+        "text": "Prøv at tænde for tv'et igen",
+        "emoji": "💬"
+    },
+    {
+        "id": 823,
+        "start": 2137.42,
+        "end": 2138.42,
+        "text": "Okay, klik",
+        "emoji": "💬"
+    },
+    {
+        "id": 824,
+        "start": 2139.42,
+        "end": 2142.42,
+        "text": "Åh, hov' dag, jeg er tv'et",
+        "emoji": "💬"
+    },
+    {
+        "id": 825,
+        "start": 2142.42,
+        "end": 2143.42,
+        "text": "I dag i nyhederne",
+        "emoji": "💬"
+    },
+    {
+        "id": 826,
+        "start": 2143.42,
+        "end": 2147.42,
+        "text": "Fik en vild stormfolk til at klaske hoderne ned i sengen",
+        "emoji": "💬"
+    },
+    {
+        "id": 827,
+        "start": 2147.42,
+        "end": 2149.42,
+        "text": "Hov, hov, hov",
+        "emoji": "💬"
+    },
+    {
+        "id": 828,
+        "start": 2150.42,
+        "end": 2152.42,
+        "text": "Sådan tager det fint",
+        "emoji": "💬"
+    },
+    {
+        "id": 829,
+        "start": 2154.42,
+        "end": 2156.42,
+        "text": "Og tilbage til nyhederne",
+        "emoji": "💬"
+    },
+    {
+        "id": 830,
+        "start": 2156.42,
+        "end": 2157.42,
+        "text": "Vi har to af dem",
+        "emoji": "💬"
+    },
+    {
+        "id": 831,
+        "start": 2157.42,
+        "end": 2164.42,
+        "text": "Bum, bum, bum, bum, bum, bum, bum, bum, bum, bum, bum, bum, bum, bum",
+        "emoji": "💬"
+    },
+    {
+        "id": 832,
+        "start": 2164.42,
+        "end": 2167.42,
+        "text": "Bluey, nu vil jeg gerne være den skørpude",
+        "emoji": "💬"
+    },
+    {
+        "id": 833,
+        "start": 2167.42,
+        "end": 2169.42,
+        "text": "Nej, du er nyhederne",
+        "emoji": "💬"
+    },
+    {
+        "id": 834,
+        "start": 2169.42,
+        "end": 2170.42,
+        "text": "Det ligner",
+        "emoji": "💬"
+    },
+    {
+        "id": 835,
+        "start": 2170.42,
+        "end": 2172.42,
+        "text": "Prrrr, bang",
+        "emoji": "💬"
+    },
+    {
+        "id": 836,
+        "start": 2172.42,
+        "end": 2174.42,
+        "text": "Nej, jeg vil ikke mere",
+        "emoji": "💬"
+    },
+    {
+        "id": 837,
+        "start": 2174.42,
+        "end": 2176.42,
+        "text": "Du vil bestemme det hele",
+        "emoji": "💬"
+    },
+    {
+        "id": 838,
+        "start": 2177.42,
+        "end": 2180.42,
+        "text": "Sovla, rovla, kan du så komme tilbage lige nu?",
+        "emoji": "💬"
+    },
+    {
+        "id": 839,
+        "start": 2180.42,
+        "end": 2184.42,
+        "text": "Åh, tv, der er altid folk, der råber hinanden",
+        "emoji": "💬"
+    },
+    {
+        "id": 840,
+        "start": 2184.42,
+        "end": 2185.42,
+        "text": "Klik",
+        "emoji": "💬"
+    },
+    {
+        "id": 841,
+        "start": 2185.42,
+        "end": 2188.42,
+        "text": "Okay, Stump, nu må jeg hellere se, at jeg får ret seng",
+        "emoji": "💬"
+    },
+    {
+        "id": 842,
+        "start": 2188.42,
+        "end": 2190.42,
+        "text": "Nej, far, vent, ikke stoppe",
+        "emoji": "💬"
+    },
+    {
+        "id": 843,
+        "start": 2190.42,
+        "end": 2191.42,
+        "text": "Bliv ved med at lege",
+        "emoji": "💬"
+    },
+    {
+        "id": 844,
+        "start": 2191.42,
+        "end": 2193.42,
+        "text": "Vi er ikke færdige med hotel",
+        "emoji": "💬"
+    },
+    {
+        "id": 845,
+        "start": 2193.42,
+        "end": 2196.42,
+        "text": "Du skal lige blive gode venner med Bingo først, Bluey",
+        "emoji": "💬"
+    },
+    {
+        "id": 846,
+        "start": 2196.42,
+        "end": 2199.42,
+        "text": "Du er nødt til også at lade hende bestemme en lille smule, okay?",
+        "emoji": "💬"
+    },
+    {
+        "id": 847,
+        "start": 2199.42,
+        "end": 2200.42,
+        "text": "Okay",
+        "emoji": "💬"
+    },
+    {
+        "id": 848,
+        "start": 2201.42,
+        "end": 2203.42,
+        "text": "Lad være med at røde op",
+        "emoji": "💬"
+    },
+    {
+        "id": 849,
+        "start": 2204.42,
+        "end": 2207.42,
+        "text": "Sød Bingo, bliv ved med at lege, eller stopper far med at lege",
+        "emoji": "💬"
+    },
+    {
+        "id": 850,
+        "start": 2207.42,
+        "end": 2210.42,
+        "text": "Jeg har ikke lyst til at lege mere",
+        "emoji": "💬"
+    },
+    {
+        "id": 851,
+        "start": 2210.42,
+        "end": 2211.42,
+        "text": "Ved du ikke nok?",
+        "emoji": "💬"
+    },
+    {
+        "id": 852,
+        "start": 2211.42,
+        "end": 2212.42,
+        "text": "Nej",
+        "emoji": "💬"
+    },
+    {
+        "id": 853,
+        "start": 2212.42,
+        "end": 2214.42,
+        "text": "Så er du sød?",
+        "emoji": "💬"
+    },
+    {
+        "id": 854,
+        "start": 2214.42,
+        "end": 2215.42,
+        "text": "Nej",
+        "emoji": "💬"
+    },
+    {
+        "id": 855,
+        "start": 2215.42,
+        "end": 2217.42,
+        "text": "Søde Bingo, jeg gør hvad som helst",
+        "emoji": "💬"
+    },
+    {
+        "id": 856,
+        "start": 2217.42,
+        "end": 2218.42,
+        "text": "Nej",
+        "emoji": "💬"
+    },
+    {
+        "id": 857,
+        "start": 2219.42,
+        "end": 2220.42,
+        "text": "Okay",
+        "emoji": "💬"
+    },
+    {
+        "id": 858,
+        "start": 2223.42,
+        "end": 2225.42,
+        "text": "Okay, så er jeg med",
+        "emoji": "💬"
+    },
+    {
+        "id": 859,
+        "start": 2225.42,
+        "end": 2226.42,
+        "text": "Er du?",
+        "emoji": "💬"
+    },
+    {
+        "id": 860,
+        "start": 2226.42,
+        "end": 2227.42,
+        "text": "Jaaa",
+        "emoji": "💬"
+    },
+    {
+        "id": 861,
+        "start": 2227.42,
+        "end": 2229.42,
+        "text": "Men jeg vil altså være en skørpude",
+        "emoji": "💬"
+    },
+    {
+        "id": 862,
+        "start": 2229.42,
+        "end": 2230.42,
+        "text": "Okay",
+        "emoji": "💬"
+    },
+    {
+        "id": 863,
+        "start": 2230.42,
+        "end": 2233.42,
+        "text": "Jaaa, jeg er en skørpude",
+        "emoji": "💬"
+    },
+    {
+        "id": 864,
+        "start": 2233.42,
+        "end": 2237.42,
+        "text": "Goddag her, jeg har en helt ny pude med til dem",
+        "emoji": "💬"
+    },
+    {
+        "id": 865,
+        "start": 2237.42,
+        "end": 2238.42,
+        "text": "Åh, mange tak",
+        "emoji": "💬"
+    },
+    {
+        "id": 866,
+        "start": 2238.42,
+        "end": 2240.42,
+        "text": "Bare rolig, det er ikke nogen skørpude",
+        "emoji": "💬"
+    },
+    {
+        "id": 867,
+        "start": 2240.42,
+        "end": 2242.42,
+        "text": "Se, det lyder godt",
+        "emoji": "💬"
+    },
+    {
+        "id": 868,
+        "start": 2242.42,
+        "end": 2247.42,
+        "text": "I du Mille, hvor er den dog behagelig, og så spræller den slet ikke",
+        "emoji": "💬"
+    },
+    {
+        "id": 869,
+        "start": 2247.42,
+        "end": 2250.42,
+        "text": "Okay, nu vil jeg se, at jeg får sovet lidt",
+        "emoji": "💬"
+    },
+    {
+        "id": 870,
+        "start": 2250.42,
+        "end": 2251.42,
+        "text": "God natt",
+        "emoji": "💬"
+    },
+    {
+        "id": 871,
+        "start": 2256.42,
+        "end": 2259.42,
+        "text": "Min næse klør, hvor sært",
+        "emoji": "💬"
+    },
+    {
+        "id": 872,
+        "start": 2260.42,
+        "end": 2265.42,
+        "text": "Heeej, pude, kom tilbage",
+        "emoji": "💬"
+    },
+    {
+        "id": 873,
+        "start": 2265.42,
+        "end": 2267.42,
+        "text": "Og bliv så der, pude",
+        "emoji": "💬"
+    },
+    {
+        "id": 874,
+        "start": 2267.42,
+        "end": 2269.42,
+        "text": "Og hvor er min dyne?",
+        "emoji": "💬"
+    },
+    {
+        "id": 875,
+        "start": 2269.42,
+        "end": 2270.42,
+        "text": "Åh, der var den",
+        "emoji": "💬"
+    },
+    {
+        "id": 876,
+        "start": 2270.42,
+        "end": 2272.42,
+        "text": "Åh, det var bedre",
+        "emoji": "💬"
+    },
+    {
+        "id": 877,
+        "start": 2274.42,
+        "end": 2276.42,
+        "text": "Vi kilder her",
+        "emoji": "💬"
+    },
+    {
+        "id": 878,
+        "start": 2276.42,
+        "end": 2278.42,
+        "text": "Hæ, vent lige lidt",
+        "emoji": "💬"
+    },
+    {
+        "id": 879,
+        "start": 2278.42,
+        "end": 2281.42,
+        "text": "Hey, det er jo en skørpude",
+        "emoji": "💬"
+    },
+    {
+        "id": 880,
+        "start": 2281.42,
+        "end": 2283.42,
+        "text": "Jaaa, jeg er en skørpude",
+        "emoji": "💬"
+    },
+    {
+        "id": 881,
+        "start": 2283.42,
+        "end": 2286.42,
+        "text": "Aargh, mit sænketøj stikrer af",
+        "emoji": "💬"
+    },
+    {
+        "id": 882,
+        "start": 2286.42,
+        "end": 2288.42,
+        "text": "Stop, stop",
+        "emoji": "💬"
+    },
+    {
+        "id": 883,
+        "start": 2288.42,
+        "end": 2291.42,
+        "text": "Stop, jeg mangler jer med mit let",
+        "emoji": "💬"
+    },
+    {
+        "id": 884,
+        "start": 2291.42,
+        "end": 2293.42,
+        "text": "Jeg har kommet og tøjer",
+        "emoji": "💬"
+    },
+    {
+        "id": 885,
+        "start": 2293.42,
+        "end": 2294.42,
+        "text": "Stop",
+        "emoji": "💬"
+    },
+    {
+        "id": 886,
+        "start": 2298.42,
+        "end": 2301.42,
+        "text": "Jeg troede, du havde tænkt dig at ryde op",
+        "emoji": "💬"
+    }
+]

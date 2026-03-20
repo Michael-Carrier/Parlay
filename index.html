@@ -39,6 +39,10 @@
             transform: scale(1.01);
             transition: 0.2s;
         }
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.4; }
+        }
 
         @media (max-width: 768px) {
 
@@ -233,20 +237,42 @@
             const bookshelf = document.getElementById('bookshelf');
 
             data.episodes.forEach(ep => {
-                const btn = document.createElement('button');
-                btn.className = "nav-btn";
-                btn.style.padding = "20px";
-                btn.innerText = ep.title;
-                btn.onclick = () => loadEpisode(ep.file, ep.lang || selectedLang, ep.video_id || null);
-                bookshelf.appendChild(btn);
+                const bookmark = studentDatabase.bookmarks[ep.video_id || ep.file];
+                const hasBookmark = bookmark && bookmark.index > 0;
+
+                const btnWrap = document.createElement('div');
+                btnWrap.style.cssText = 'display:flex; flex-direction:column; gap:6px;';
+
+                const btnStart = document.createElement('button');
+                btnStart.className = 'nav-btn';
+                btnStart.style.padding = '15px';
+                btnStart.innerHTML = ep.title + ' 🔄';
+                btnStart.onclick = () => loadEpisode(ep.file, ep.lang || selectedLang, ep.video_id || null, 0);
+                btnWrap.appendChild(btnStart);
+
+                if (hasBookmark) {
+                    const btnResume = document.createElement('button');
+                    btnResume.className = 'nav-btn';
+                    btnResume.style.cssText = 'padding:15px; background:#3498db; color:white; border:none;';
+                    btnResume.innerHTML = '📍 Line ' + (bookmark.index + 1);
+                    btnResume.onclick = () => {
+                        console.log("Resume clicked, bookmark index:", bookmark.index);
+                        loadEpisode(ep.file, ep.lang || selectedLang, ep.video_id || null, bookmark.index);
+                    };                    
+                    btnWrap.appendChild(btnResume);
+                }
+
+                bookshelf.appendChild(btnWrap);
             });
+
         } catch (e) {
             panel.innerHTML = '<p>No episodes found for ' + selectedLang + '. Make sure ' + folder + '/manifest.json exists.</p>';
         }
     }
 
     // Load studentDatabase from localStorage or create fresh
-    let studentDatabase = JSON.parse(localStorage.getItem('parlayDatabase')) || { user: "", history: {}, structures: {} };
+    let studentDatabase = JSON.parse(localStorage.getItem('parlayDatabase')) || { user: "", history: {}, structures: {}, bookmarks: {} };
+    if (!studentDatabase.bookmarks) studentDatabase.bookmarks = {};
     if (!studentDatabase.structures) studentDatabase.structures = {};
 
 
@@ -260,7 +286,7 @@
     console.log('YouTube API ready');
 }
 
-    function loadYouTubePlayer(videoId) {
+    function loadYouTubePlayer(videoId, startIndex = 0) {
         console.log('loadYouTubePlayer called with:', videoId);
         currentVideoId = videoId;
         const panel = document.getElementById('main-content');
@@ -276,7 +302,10 @@
                     <div style="display:flex; justify-content:center; gap:15px;">
                         <button class="nav-btn" id="yt-prev-btn" onclick="changeLine(-1)" style="padding: 20px 30px; font-size:1.2rem;">←</button>
                         <button class="nav-btn" id="yt-start-btn" onclick="startEpisode()" style="padding: 15px 25px; background:#27ae60; color:white; border:none;">▶</button>
-                        <button class="nav-btn" id="yt-record-btn" onclick="startRecording()" style="padding: 15px 25px; background:#ff4757; color:white; border:none;">🎤</button>
+                        <div style="display:flex; flex-direction:column; gap:5px;">
+                            <button class="nav-btn" id="yt-record-btn" onclick="startRecording()" style="padding: 8px 25px; background:#ff4757; color:white; border:none;">🎤</button>
+                            <button class="nav-btn" id="yt-restart-btn" onclick="seekToLine(currentEpisodeLines[currentIndex])" style="padding: 8px 25px; background:#3498db; color:white; border:none;">↺</button>
+                        </div>
                         <button class="nav-btn" id="yt-next-btn" onclick="changeLine(1)" style="padding: 20px 30px; font-size:1.2rem;">→</button>
                     </div>                    
                 </div>
@@ -287,6 +316,7 @@
         if (ytPlayer) {
             ytPlayer.loadVideoById(videoId);
             ytPlayer.pauseVideo();
+            showLineFocus(startIndex);
         } else {
             ytPlayer = new YT.Player('yt-player', {
                 height: '250',
@@ -294,7 +324,10 @@
                 videoId: videoId,
                 playerVars: { autoplay: 0, controls: 1, rel: 0 },
                 events: {
-                    onReady: (e) => { e.target.pauseVideo(); }
+                    onReady: (e) => { 
+                        e.target.pauseVideo(); 
+                        showLineFocus(startIndex);
+                    }
                 }
             });
         }
@@ -317,6 +350,7 @@
             if (ytPlayer.getCurrentTime() >= line.end) {
                 ytPlayer.pauseVideo();
                 clearInterval(ytPollInterval);
+                startRecording();
             }
         }, 200);
     }
@@ -366,8 +400,22 @@
 
             const lineTextEl = document.getElementById('line-text');
             if (lineTextEl) {
-                const award = percent === 100 ? ' 💯' : ` <span style="color:#888; font-size:0.9rem;">${percent}%</span>`;
+                const award = percent === 100 ? ' 💯---->' : ` <span style="color:#888; font-size:0.9rem;">${percent}%</span>`;
                 lineTextEl.innerHTML = lineTextEl.innerHTML + award;
+            }
+            if (percent === 100) {
+                setTimeout(() => {
+                    changeLine(1);
+                }, 2000);
+            }
+        };
+
+        recognition.onend = () => {
+            const btn = document.getElementById('yt-record-btn');
+            if (btn) {
+                btn.innerHTML = '🎤';
+                btn.style.animation = '';
+                btn.onclick = startRecording;
             }
         };
 
@@ -401,7 +449,8 @@
     // Book loading
     // -------------------------------------------------------
 
-    async function loadEpisode(filePath, lang, videoId) {
+    async function loadEpisode(filePath, lang, videoId, startIndex) {
+        console.log("loadEpisode startIndex:", startIndex);
         console.log("loadEpisode called with lang:", lang);
         const panel = document.getElementById('main-content');
         panel.innerHTML = "<h3>Loading...</h3>";
@@ -416,8 +465,13 @@
         try {
             const response = await fetch(filePath);
             currentEpisodeLines = await response.json();
+            currentEpisodeLines._file = filePath;
             showLineFocus(0);
-            if (videoId) loadYouTubePlayer(videoId);
+            if (videoId) {
+                loadYouTubePlayer(videoId, startIndex);
+            } else {
+                showLineFocus(startIndex);
+            }
         } catch (e) {
             panel.innerHTML = "<p>Error: Could not load the episode file.</p>";
             console.error(e);
@@ -430,6 +484,8 @@
     // -------------------------------------------------------
     function showLineFocus(index) {
         currentIndex = index;
+        studentDatabase.bookmarks[currentVideoId || 'unknown'] = { file: currentEpisodeLines._file, index: index };
+        saveDatabase();
         const line = currentEpisodeLines[index];
         const panel = document.getElementById('main-content');
         const loadingMsg = panel.querySelector('h3');
@@ -726,11 +782,22 @@
         
         output.innerText = "Listening...";
         if (btn) {
-            btn.innerText = "🛑";
-            btn.style.opacity = "0.5";
+            btn.innerHTML = '⏹';
+            btn.style.opacity = '1';
+            btn.style.animation = 'pulse 1s infinite';
+            btn.onclick = stopRecording;
         }
-
         recognition.start();
+    }
+
+    function stopRecording() {
+        recognition.stop();
+        const btn = document.getElementById('yt-record-btn');
+        if (btn) {
+            btn.innerHTML = '🎤';
+            btn.style.animation = '';
+            btn.onclick = startRecording;
+        }
     }
 
 
@@ -750,9 +817,12 @@
 
             const langDrop = document.getElementById('lang-select');
             const langNames = {
-                'pt-BR': 'Portuguese', 'en-US': 'English',
-                'es-ES': 'Spanish', 'fr-FR': 'French',
-                'de-DE': 'German', 'da-DK': 'Danish'
+                'pt-BR': 'Portuguese',
+                'en-US': 'English',
+                //'es-ES': 'Spanish',
+                //'fr-FR': 'French',
+                //'de-DE': 'German',
+                 'da-DK': 'Danish'
             };
             Object.entries(langNames).forEach(([code, name]) => {
                 langDrop.add(new Option(name, code));
